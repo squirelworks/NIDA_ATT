@@ -1,9 +1,10 @@
-// NIDA_ATT starts the bundled Foolcourse against the content folder.
+// NIDA_ATT starts the bundled Foolcourse on the books in this same folder.
 //
-// The program and the books are separate downloads. Put them next to each
-// other. This file is NIDA_ATT.exe on Windows, NIDA_ATT on Linux, and
-// NIDA_ATT plus NIDA_ATT.app on Mac. A Mac app keeps the binary in
-// Contents/MacOS, so the program folder is found by walking up to python/.
+// A download for one system already contains the books. If it does not,
+// the books may sit in a folder next to this program. This file is
+// NIDA_ATT.exe on Windows, NIDA_ATT on Linux, and NIDA_ATT plus
+// NIDA_ATT.app on Mac. A Mac app keeps the binary in Contents/MacOS, so
+// the program folder is found by walking up to python/.
 package main
 
 import (

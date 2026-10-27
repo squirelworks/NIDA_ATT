@@ -1,14 +1,14 @@
-"""Build the two NIDA_ATT downloads. Foolcourse stays the general program.
+"""Build the NIDA_ATT download for one system.
 
-The books are one zip. The program that opens them is another, per system.
+The zip is the whole course. Foolcourse is inside it, already pointed at
+these books. A person downloads the zip for their machine, unzips it, and
+starts NIDA_ATT.
 
-    python3 pack/build.py content
+    python3 pack/build.py linux-x64
     python3 pack/build.py windows-x64
-    python3 pack/build.py --from ~/FU/Foolcourse/dist/Foolcourse-1.0.1r2-windows-x64
 
-Unzip both in the same place. The content folder is NIDA_ATT-content. The program
-folder sits beside it. Windows starts with NIDA_ATT.exe, Linux with NIDA_ATT,
-Mac with NIDA_ATT.app.
+`content` is only the books, for a Foolcourse that is already installed.
+It is not the download a new person gets.
 """
 
 from __future__ import annotations
@@ -31,7 +31,7 @@ SYSTEMS = ("windows-x64", "linux-x64", "linux-arm64", "macos-arm64", "macos-x64"
 CHECKOUTS = {
     "Foolbook": (
         "https://github.com/squirelworks/Foolbook.git",
-        "133901702e59be1543e81f04a27bbf8a9ed0fb4f",
+        "bd701f434545a77ab3af20e6e0f1e860973f2558",
     ),
     "openscript_analysis": (
         "https://github.com/squirelworks/openscript_analysis.git",
@@ -246,10 +246,8 @@ def install_launcher(key: str, dest: Path) -> None:
 
 def start_text(key: str) -> str:
     body = (
-        "This folder is Foolcourse, already set up for the NIDA course.\n"
-        "The books are not in here. They are the other download.\n\n"
-        "Unzip this whole folder. Do not run it from inside the zip.\n"
-        "Unzip the content folder next to this one. It is named NIDA_ATT-content.\n\n"
+        "This is the NIDA course.\n\n"
+        "Unzip this whole folder. Do not run it from inside the zip.\n\n"
     )
     if key.startswith("windows"):
         body += "Double-click NIDA_ATT.exe.\n"
@@ -266,16 +264,14 @@ def start_text(key: str) -> str:
     return body
 
 
-CONTENT_START = """This folder is the NIDA course: the books, the shell, and the curriculum.
+CONTENT_START = """This folder is only the books, the shell, and the curriculum.
 
-Unzip it next to the NIDA_ATT program folder, then start that program.
-The program is the other download. This one has no Foolcourse in it.
+It is not the download for a new person. That download is one zip for
+their system, and Foolcourse is already in it.
 
-The list the program opens is the master. nida81.fbk and the nc81 files stay
-in this folder, one level above courses. A lesson looks for them there.
-
-A Foolcourse you already built can use this folder too. Point it at courses
+A Foolcourse you already have can use this folder. Point it at courses
 and at _curriculum/nida.curriculum.json with _curriculum/nida.xml.
+nida81.fbk stays in this folder, one level above courses.
 """
 
 
@@ -291,7 +287,7 @@ def assemble_content(dest: Path, course: Path) -> None:
 
 
 def assemble(program: Path, dest: Path, key: str) -> None:
-    """A Foolcourse folder that starts this course. The books stay next door."""
+    """One folder. Foolcourse, the books, the shell, and the curriculum."""
     if not program.is_dir():
         raise SystemExit(f"no Foolcourse folder: {program}")
     if dest.exists():
@@ -306,6 +302,9 @@ def assemble(program: Path, dest: Path, key: str) -> None:
         if script.is_file():
             script.unlink()
     install_launcher(key, dest)
+    install_curriculum(ROOT, dest)
+    install_courses(ROOT, dest)
+    install_shell(ROOT, dest)
     _write(dest / "START.txt", start_text(key), crlf=key.startswith("windows"))
 
 
