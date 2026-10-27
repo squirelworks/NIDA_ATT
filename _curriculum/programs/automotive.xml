@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Menu title="Automotive">
+    <Menu title="Introduction to Vehicle Technology">
+      <Item title="Introduction to Automotive" lessonid="9395L101" />
+      <Item title="Electrical Systems" lessonid="9395L102" />
+      <Item title="Charging &amp; Ignition" lessonid="9395L103" />
+      <Item title="Fuel Systems" lessonid="9395L104" />
+      <Item title="Engines" lessonid="9395L105" />
+      <Item title="Cooling Systems" lessonid="9395L106" />
+      <Item title="Hydraulics" lessonid="9395L107" />
+      <Item title="Air Conditioning" lessonid="9395L108" />
+      <Item title="Drive Line &amp; Suspension" lessonid="9395L109" />
+      <Item title="Body Design" lessonid="9395L110" />
+    </Menu>
+    <Menu title="Introduction to Automotive Electricity">
+      <Item title="Introduction and Safety" lessonid="9395L201" />
+      <Item title="Training Equipment Familiarization" lessonid="9395L202" />
+      <Item title="Metric Notation" lessonid="9395L203" />
+      <Item title="Voltage, Current and Resistance" lessonid="9395L204" />
+      <Item title="Switches and Protective Devices" lessonid="9395L205" />
+    </Menu>
+    <Menu title="Automotive Test Equipment">
+      <Item title="Introduction to Multimeters" lessonid="9395L301" />
+      <Item title="Multimeter Use" lessonid="9395L302" />
+      <Item title="Voltage Measurements" lessonid="9395L303" />
+      <Item title="Current Measurements" lessonid="9395L304" />
+      <Item title="Resistance Measurements" lessonid="9395L305" />
+      <Item title="Introduction to Oscilloscopes" lessonid="9395L306" />
+    </Menu>
+    <Menu title="Basic Electrical DC &amp; AC">
+      <Item title="Ohm's Law and Power" lessonid="9395L401" />
+      <Item title="Series Circuits" lessonid="9395L402" />
+      <Item title="Parallel Circuits" lessonid="9395L403" />
+      <Item title="Series-Parallel Circuits" lessonid="9395L404" />
+      <Item title="Voltage Divider Circuits" lessonid="9395L405" />
+      <Item title="Relay Operation" lessonid="9395L406" />
+      <Item title="Alternating Current" lessonid="9395L407" />
+      <Item title="Magnetism, Relays and Meters" lessonid="9395L408" />
+    </Menu>
+    <Menu title="Basic Electronics">
+      <Item title="Inductor Operation" lessonid="9395L501" />
+      <Item title="Capacitor Operation" lessonid="9395L502" />
+      <Item title="Diode Operation" lessonid="9395L503" />
+      <Item title="Transistor Operation" lessonid="9395L504" />
+      <Item title="AND Gates" lessonid="9395L505" />
+      <Item title="OR Gates" lessonid="9395L506" />
+      <Item title="NOT Gates" lessonid="9395L507" />
+      <Item title="Combinational Circuits" lessonid="9395L508" />
+    </Menu>
+    <Menu title="Basic Automotive Systems">
+      <Item title="Turn Signal Systems" lessonid="9395L601" />
+      <Item title="Starting Systems" lessonid="9395L602" />
+      <Item title="Ignition Systems" lessonid="9395L603" />
+      <Item title="Charging Systems" lessonid="9395L604" />
+      <Item title="Fuel Injection" lessonid="9395L605" />
+      <Item title="Engine Cooling and Climate Control" lessonid="9395L606" />
+    </Menu>
+    <Menu title="Automotive Accessory Packages">
+      <Item title="Car Audio Systems" lessonid="9395L701" />
+      <Item title="Trailer Wiring Systems" lessonid="9395L801" />
+    </Menu>
+  </Menu>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Menu title="Microcontrollers/Microprocessors">
+    <Menu title="8051 Microcontroller">
+      <Item title="Introduction to Microprocessors" lessonid="9395T821" />
+      <Item title="Basic Microprocessor Operation" lessonid="9395T822" />
+      <Item title="Number Systems" lessonid="9395T823" />
+      <Item title="8051 Microcontroller Circuit" lessonid="9395T851" />
+      <Item title="Operation of the 8051 Microcontroller" lessonid="9395T852" />
+      <Item title="Interfacing with the 8051" lessonid="9395T853" />
+      <Item title="Troubleshooting the 8051" lessonid="9395T854" />
+    </Menu>
+    <Menu title="8085 Microprocessor">
+      <Item title="8085 Microprocessor Circuit" lessonid="9395T831" />
+      <Item title="Operation of the 8085 Microprocessor" lessonid="9395T832" />
+      <Item title="Interfacing with the 8085" lessonid="9395T833" />
+      <Item title="Troubleshooting the 8085" lessonid="9395T834" />
+    </Menu>
+    <Menu title="8086 Microprocessor">
+      <Item title="8086 Microprocessor Circuit" lessonid="9395T841" />
+      <Item title="Operation of the 8086 Microprocessor" lessonid="9395T842" />
+      <Item title="Interfacing with the 8086" lessonid="9395T843" />
+      <Item title="Troubleshooting the 8086" lessonid="9395T844" />
+      <Item title="8086 Data Transfer" lessonid="9395T845" />
+      <Item title="8086 Addition and Subtraction" lessonid="9395T846" />
+      <Item title="8086 Logic Instructions" lessonid="9395T847" />
+      <Item title="8086 Jump Instructions" lessonid="9395T848" />
+    </Menu>
+    <Menu title="68000 Microprocessor">
+      <Item title="Introduction to Microprocessors" lessonid="9395T801" />
+      <Item title="The 68000 Microprocessor" lessonid="9395T802" />
+      <Item title="Registers and Memory" lessonid="9395T803" />
+      <Item title="I/O Circuits" lessonid="9395T804" />
+      <Item title="Operation of the 68000" lessonid="9395T805" />
+      <Item title="Introduction to Programming" lessonid="9395T806" />
+      <Item title="Move &amp; Branch Instructions" lessonid="9395T807" />
+      <Item title="Arithmetic &amp; Logic Instructions" lessonid="9395T808" />
+      <Item title="Test &amp; Additional Instructions" lessonid="9395T809" />
+      <Item title="Programming and System Design" lessonid="9395T810" />
+      <Item title="Troubleshooting the 68000" lessonid="9395T811" />
+    </Menu>
+  </Menu>
+</Document>

@@ -14,12 +14,12 @@ Not affiliated with NIDA, Asymetrix, Click2learn, or SumTotal.
 | `nc81test.fsk` | Quiz functions, including `initializeTest`. |
 | `nc81trnr.fsk` | Trainer functions, including `initializeTrnr`. |
 | `nc81bank.fsk` | Question-bank functions, including `initializeBank`. The export may name this `NC81BANK.fsk`. |
-| `_curriculum/nida.curriculum.json` | All 527 lessons on the nine programs, with each title. Not a rating. |
-| `_curriculum/nida.programs.xml` | Those nine programs: Mathematics through Microcontrollers. |
-| `_curriculum/courses.xml` | The rating disk. ATT Master and the twenty ratings, with the disk's titles. |
-| `_curriculum/ratings/` | One curriculum per rating. `em` is Electrician's Mate, `et` is Electronics Technician, and so on. `att-master` is the 406. |
-| `_curriculum/programs/` | One curriculum per program. |
-| `_curriculum/titles.json` | Every id both menus name. 611 lessons, plus `10001001` and `9E954D03`. |
+| `_curriculum/nida.curriculum.json` | The master list. 717 lessons: the nine programs, the rating-only lessons, and the 104 books neither menu named. |
+| `_curriculum/master.xml` | That same list as a Foolcourse menu. Programs, then ratings, then Ungrouped. |
+| `_curriculum/programs/` | One curriculum and one menu per program. The menu is Foolcourse's, not the original export. |
+| `_curriculum/ratings/` | One curriculum and one menu per rating, ATT Master included. |
+| `_curriculum/index.json` | The file names and the counts. |
+| `_curriculum/titles.json` | Every lesson id, the title the master uses, and the other wording when the two menus disagree. |
 | `courses/` | The lesson `.fbk` files, flat. `__PUT_COURSES_HERE__` marks the folder. |
 
 The original `.tbk`, `.sbk`, and `.dll` files are not part of the course.
@@ -42,20 +42,21 @@ Do not leave `nida81.fbk` inside `courses/`. The loop keeps the shell and the fi
 
 ## Open it
 
-Foolcourse from a source checkout does not load this list on its own. The nine programs:
+Foolcourse from a source checkout does not load this list on its own. The master menu is not named `nida.programs.xml`, so name it:
 
 ```bash
 cd ~/FU/Foolcourse
 .venv/bin/python -m foolcourse ~/FU/NIDA_ATT/courses \
-  --curriculum ~/FU/NIDA_ATT/_curriculum/nida.curriculum.json
+  --curriculum ~/FU/NIDA_ATT/_curriculum/nida.curriculum.json \
+  --xml ~/FU/NIDA_ATT/_curriculum/master.xml
 ```
 
-One rating, which is how the disk split them. The menu has to be named because the file is not called `nida.`:
+One program, or one rating. `index.json` has the file names.
 
 ```bash
 .venv/bin/python -m foolcourse ~/FU/NIDA_ATT/courses \
   --curriculum ~/FU/NIDA_ATT/_curriculum/ratings/em.curriculum.json \
-  --xml ~/FU/NIDA_ATT/_curriculum/courses.xml
+  --xml ~/FU/NIDA_ATT/_curriculum/ratings/em.xml
 ```
 
-`_curriculum/index.json` lists the rating and program files. The lessons on the rating you named count toward the overall. The other ratings still show, because `courses.xml` lists all of them, and they do not count. A Foolcourse release is still the empty program.
+The lessons on the curriculum you named count toward the overall. On the master, a book that sits in a program and a rating counts once. A Foolcourse release is still the empty program.

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Menu title="Gunners Mate_GM" courseid="787D_V03.3_GM">
+    <Menu title="DC Circuits">
+      <Menu title="Mod 02 Introduction to Electricity">
+        <Item title="Introduction to CAI" lessonid="93951100" />
+        <Item title="Intro to PDAs" lessonid="10001001" />
+        <Item title="Safety Practices" lessonid="93951101" />
+        <Item title="Equipment Familarization" lessonid="93951102" />
+        <Item title="Metric Notation" lessonid="93951103" />
+        <Item title="Voltage and Current" lessonid="93951104" />
+        <Item title="Resistors" lessonid="93951105" />
+        <Item title="Switches, Fuses and Breakers" lessonid="93951106" />
+        <Item title="Introduction to Technical Graphics" lessonid="93951108" />
+      </Menu>
+      <Menu title="Mod 03 Multimeter Measurements">
+        <Item title="Magnetism, Relays &amp; Meters" lessonid="93951201" />
+        <Item title="Intro to Multimeters" lessonid="93951202" />
+        <Item title="Multimeter Use" lessonid="93951203" />
+        <Item title="Voltage Measurements" lessonid="93951204" />
+        <Item title="Current Measurements" lessonid="93951205" />
+        <Item title="Resistance Measurements" lessonid="93951206" />
+      </Menu>
+      <Menu title="Mod 04 Basic DC Circuits">
+        <Item title="Ohm's Law" lessonid="93951301" />
+        <Item title="Series Circuits" lessonid="93951302" />
+        <Item title="Series TS Theory" lessonid="93951303" />
+        <Item title="Series TS Experiment" lessonid="93951304" />
+        <Item title="Parallel Circuits" lessonid="93951306" />
+        <Item title="Parallel TS Theory" lessonid="93951307" />
+        <Item title="Parallel TS Experiment" lessonid="93951308" />
+        <Item title="Series-Parallel Circuits" lessonid="93951310" />
+        <Item title="Series-Parallel TS Theory" lessonid="93951311" />
+        <Item title="Series-Parallel TS Exp" lessonid="93951312" />
+      </Menu>
+      <Menu title="Mod 05 Complex DC Circuits">
+        <Item title="Voltage Divider Circuits" lessonid="93951401" />
+        <Item title="Bridge Circuits" lessonid="93951402" />
+        <Item title="Meter Loading" lessonid="93951406" />
+      </Menu>
+      <Menu title="Mod 06 Wiring">
+        <Item title="PC Component Insertion/Extraction Tech." lessonid="93951601" />
+        <Item title="Basic Soldering Techniques" lessonid="93951602" />
+        <Item title="Basic Connector Termination Techniques" lessonid="93951603" />
+        <Item title="Basic Wire Wrapping Techniques" lessonid="93951604" />
+        <Item title="Basic Wiring and Connector TS Theory" lessonid="93951605" />
+        <Item title="Wire Troubleshooting" lessonid="93951606" />
+      </Menu>
+    </Menu>
+    <Menu title="AC Circuits">
+      <Menu title="Mod 07 Introduction to AC">
+        <Item title="Alternating Current" lessonid="93952101" />
+        <Item title="Generating AC Electricity" lessonid="93952102" />
+        <Item title="Resistance in AC Circuits" lessonid="93952104" />
+      </Menu>
+      <Menu title="Mod 08 AC Test Equipment">
+        <Item title="Intro to Oscilloscopes" lessonid="93952201" />
+        <Item title="Oscilloscope Use" lessonid="93952202" />
+        <Item title="Intro to Frequency Counters" lessonid="93952205" />
+        <Item title="Frequency Counter Use" lessonid="93952206" />
+        <Item title="Intro to Function Generators - 4040" lessonid="93952210" />
+        <Item title="Function Generator Use - 4040" lessonid="93952211" />
+      </Menu>
+      <Menu title="Mod 09 Inductance and RL Circuits">
+        <Item title="Intro to Inductors" lessonid="93952301" />
+        <Item title="Inductor Identification" lessonid="93952302" />
+        <Item title="RL Series Circuits" lessonid="93952303" />
+        <Item title="RL Series Circuit Operation" lessonid="93952304" />
+        <Item title="RL Series Circuit TS Exp" lessonid="93952305" />
+        <Item title="RL Parallel Circuits" lessonid="93952307" />
+        <Item title="RL Parallel Circuit Oper" lessonid="93952308" />
+        <Item title="RL Parallel Circuit TS Exp" lessonid="93952309" />
+        <Item title="RL Filters" lessonid="93952311" />
+      </Menu>
+      <Menu title="Mod 10 Capacitance and RC Circuits">
+        <Item title="Intro to Capacitors" lessonid="93952401" />
+        <Item title="Capacitor Identification" lessonid="93952402" />
+      </Menu>
+      <Menu title="Mod 11 Transformers">
+        <Item title="Intro to Transformers" lessonid="93952701" />
+        <Item title="Transformer Operation" lessonid="93952702" />
+        <Item title="Troubleshooting Transformers" lessonid="93952703" />
+      </Menu>
+      <Menu title="Mod 12 Relays &amp; Switches">
+        <Item title="Relays and Switches" lessonid="93952801" />
+        <Item title="Relay and Switches Operation Experiment" lessonid="93952802" />
+        <Item title="TS Relays and Switches" lessonid="93952803" />
+        <Item title="Electrical Circuits" lessonid="93952804" />
+        <Item title="Electrical Circuits Exp" lessonid="93952805" />
+        <Item title="Electrical Circuits TS" lessonid="93952806" />
+      </Menu>
+    </Menu>
+    <Menu title="Analog Circuits">
+      <Menu title="Mod 13 Transistor Circuits">
+        <Item title="Intro to Diodes" lessonid="93953101" />
+        <Item title="Intro to Transistors" lessonid="93953201" />
+        <Item title="Transistor Operation" lessonid="93953202" />
+        <Item title="Intro to Transistor Amps" lessonid="93953203" />
+        <Item title="Common Emitter Amplifiers" lessonid="93953204" />
+        <Item title="Common Emitter Amp Exp" lessonid="93953205" />
+        <Item title="Common Collector Amplifier" lessonid="93953206" />
+        <Item title="Common Collector Amp Exp" lessonid="93953207" />
+        <Item title="Common Base Amplifier" lessonid="93953208" />
+        <Item title="Common Base Amp Exp" lessonid="93953209" />
+      </Menu>
+      <Menu title="Mod 14 Power Supplies">
+        <Item title="Intro to Power Supplies" lessonid="93953301" />
+        <Item title="Full &amp; Half Wave Rectifiers" lessonid="93953302" />
+        <Item title="Bridge Rectifier Operation" lessonid="93953303" />
+        <Item title="Intro to Voltage Regulators" lessonid="93953306" />
+        <Item title="Zener Diode Operation" lessonid="93953307" />
+        <Item title="Zener Diode Regulator Oper" lessonid="93953308" />
+        <Item title="Voltage Regulator Operation" lessonid="93953309" />
+        <Item title="Voltage Regulator TS Exp" lessonid="93953310" />
+        <Item title="IC Regulator Operation" lessonid="93953312" />
+        <Item title="Voltage Doubler Operation" lessonid="93953313" />
+      </Menu>
+    </Menu>
+    <Menu title="Digital Circuits">
+      <Menu title="Mod 15 Digital Logic Functions">
+        <Item title="Intro to Digital Electronics" lessonid="93954101" />
+        <Item title="Digital Electronics Hardware" lessonid="93954102" />
+        <Item title="Intro to Logic Functions" lessonid="93954207" />
+        <Item title="AND Gates" lessonid="93954201" />
+        <Item title="OR Gates" lessonid="93954202" />
+        <Item title="NOT Gates" lessonid="93954203" />
+        <Item title="NAND Gates" lessonid="93954204" />
+        <Item title="NOR Gates" lessonid="93954205" />
+        <Item title="XOR Gates" lessonid="93954206" />
+        <Item title="Troubleshooting Digital Systems" lessonid="9E954D03" />
+      </Menu>
+      <Menu title="Mod 16 Combination Logic Functions">
+        <Item title="Intro to Combinational Cir" lessonid="93954301" />
+        <Item title="Logic Families" lessonid="93954302" />
+        <Item title="Number Systems" lessonid="93954303" />
+        <Item title="Base 10 to Binary Conversion" lessonid="93954304" />
+        <Item title="Intro to Register &amp; Memory" lessonid="93954501" />
+      </Menu>
+    </Menu>
+    <Menu title="Advanced Electronics">
+      <Menu title="Mod 17 Basic Motors">
+        <Item title="Intro to Rotating Machinery" lessonid="9395T301" />
+        <Item title="Characteristics, Rotating Mach" lessonid="93955102" />
+        <Item title="DC Motors and Generators" lessonid="9395T302" />
+        <Item title="Stepper Motors" lessonid="9395T303" />
+        <Item title="AC Motors and Generators" lessonid="9395T304" />
+        <Item title="Three-phase Power Generation" lessonid="9395Z203" />
+      </Menu>
+      <Menu title="Mod 18 Advanced Synchro/Servo">
+        <Item title="Introduction to Synchros" lessonid="93956401" />
+      </Menu>
+      <Menu title="Mod 19 Hydraulic/Pneumatic Systems">
+        <Item title="Introduction to Hydraulic Systems" lessonid="9395TC01" />
+        <Item title="Introduction to Pneumatic Systems" lessonid="9395TC02" />
+        <Item title="Fluid System Valve Operation" lessonid="9395TC03" />
+        <Item title="Hydraulic/Pneumatic Pumps" lessonid="9395TC04" />
+        <Item title="TS Hydraulic/Pneumatic Systems" lessonid="9395TC05" />
+      </Menu>
+    </Menu>
+  </Menu>
+</Document>

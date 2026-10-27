@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+  <Menu title="Core Electronics">
+    <Menu title="DC Circuits">
+      <Menu title="Introduction to Electricity">
+        <Item title="Introduction to CAI" lessonid="93951100" />
+        <Item title="Introduction and Safety" lessonid="93951101" />
+        <Item title="Training Equipment Familiarization" lessonid="93951102" />
+        <Item title="Metric Notation" lessonid="93951103" />
+        <Item title="Voltage and Current" lessonid="93951104" />
+        <Item title="Resistors" lessonid="93951105" />
+        <Item title="Switches, Fuses, and Circuit Breakers" lessonid="93951106" />
+        <Item title="Tools" lessonid="93951107" />
+        <Item title="Introduction to Technical Graphics" lessonid="93951108" />
+      </Menu>
+      <Menu title="Multimeter Measurements">
+        <Item title="Magnetism, Relays and Meters" lessonid="93951201" />
+        <Item title="Introduction to Multimeters" lessonid="93951202" />
+        <Item title="Multimeter Use" lessonid="93951203" />
+        <Item title="Voltage Measurements" lessonid="93951204" />
+        <Item title="Current Measurements" lessonid="93951205" />
+        <Item title="Resistance Measurements" lessonid="93951206" />
+      </Menu>
+      <Menu title="Basic DC Circuits">
+        <Item title="Ohm's Law and Power" lessonid="93951301" />
+        <Item title="Series Circuits" lessonid="93951302" />
+        <Item title="Series Circuit Troubleshooting Theory" lessonid="93951303" />
+        <Item title="Series Circuit Troubleshooting Experiment" lessonid="93951304" />
+        <Item title="Parallel Circuits" lessonid="93951306" />
+        <Item title="Parallel Circuit Troubleshooting Theory" lessonid="93951307" />
+        <Item title="Series-Parallel Circuits" lessonid="93951310" />
+        <Item title="Series-Parallel Circuit Troubleshooting Theory" lessonid="93951311" />
+      </Menu>
+    </Menu>
+    <Menu title="AC Circuits">
+      <Menu title="Introduction to AC">
+        <Item title="Alternating Current" lessonid="93952101" />
+        <Item title="Generating AC Electricity" lessonid="93952102" />
+        <Item title="Non-Sinusoidal Waves" lessonid="93952103" />
+        <Item title="Resistance in AC Circuits" lessonid="93952104" />
+      </Menu>
+      <Menu title="AC Test Equipment">
+        <Item title="Introduction to Oscilloscopes" lessonid="93952201" />
+        <Item title="Oscilloscope Use (804)" lessonid="93952202" />
+        <Item title="Oscilloscope Use (444)" lessonid="93952207" />
+        <Item title="Introduction to Function Generators (440)" lessonid="93952203" />
+        <Item title="Introduction to Function Generators (444)" lessonid="93952208" />
+        <Item title="Function Generator Use (440)" lessonid="93952204" />
+        <Item title="Function Generator Use (444)" lessonid="93952209" />
+        <Item title="Introduction to the Frequency Counter" lessonid="93952205" />
+        <Item title="Frequency Counter Use" lessonid="93952206" />
+      </Menu>
+      <Menu title="Inductance &amp; RL Circuits">
+        <Item title="Introduction to Inductors" lessonid="93952301" />
+        <Item title="Inductor Identification" lessonid="93952302" />
+        <Item title="RL Series Circuits" lessonid="93952303" />
+        <Item title="RL Series Circuit Operation" lessonid="93952304" />
+        <Item title="RL Parallel Circuits" lessonid="93952307" />
+        <Item title="RL Parallel Circuit Operation" lessonid="93952308" />
+      </Menu>
+      <Menu title="Capacitance and RC Circuits">
+        <Item title="Introduction to Capacitors" lessonid="93952401" />
+        <Item title="Capacitor Identification" lessonid="93952402" />
+        <Item title="RC Series Circuits" lessonid="93952403" />
+        <Item title="RC Series Circuit Operation" lessonid="93952404" />
+        <Item title="RC Parallel Circuits" lessonid="93952408" />
+        <Item title="RC Parallel Circuit Operation" lessonid="93952409" />
+      </Menu>
+      <Menu title="RC Time Constants and Transients">
+        <Item title="RC Time Constants" lessonid="93952501" />
+        <Item title="RC Time Constants Operation" lessonid="93952502" />
+      </Menu>
+      <Menu title="Resonance">
+        <Item title="Capacitive/Inductive Reactance and LCR Circuits" lessonid="93952601" />
+        <Item title="LCR Series and Parallel Circuit Experiment" lessonid="93952602" />
+      </Menu>
+      <Menu title="Transformers">
+        <Item title="Introduction to Transformers" lessonid="93952701" />
+        <Item title="Transformer Operation" lessonid="93952702" />
+      </Menu>
+    </Menu>
+    <Menu title="Analog Circuits">
+      <Menu title="Diodes and Diode Circuits">
+        <Item title="Introduction to Diodes" lessonid="93953101" />
+        <Item title="Junction Diodes" lessonid="93953102" />
+        <Item title="Junction Diode Operation" lessonid="93953103" />
+        <Item title="Diode Limiter Operation" lessonid="93953106" />
+        <Item title="Vacuum Tube Theory" lessonid="93953110" />
+      </Menu>
+      <Menu title="Transistor Circuits">
+        <Item title="Introduction to Transistors" lessonid="93953201" />
+        <Item title="Transistor Operation" lessonid="93953202" />
+        <Item title="Introduction to Transistor Amplifiers" lessonid="93953203" />
+        <Item title="Common Emitter Amplifiers" lessonid="93953204" />
+        <Item title="Common Emitter Amplifier Experiment" lessonid="93953205" />
+        <Item title="Common Collector Amplifier" lessonid="93953206" />
+        <Item title="Common Collector Amplifier Experiment" lessonid="93953207" />
+        <Item title="Common Base Amplifiers" lessonid="93953208" />
+        <Item title="Common Base Amplifier Experiment" lessonid="93953209" />
+      </Menu>
+      <Menu title="Power Supplies">
+        <Item title="Introduction to Power Supplies and Rectifiers" lessonid="93953301" />
+        <Item title="Full and Half Wave Rectifier Operation" lessonid="93953302" />
+        <Item title="Bridge Rectifier Operation" lessonid="93953303" />
+        <Item title="Introduction to Voltage Regulators" lessonid="93953306" />
+        <Item title="Zener Diode Operation" lessonid="93953307" />
+      </Menu>
+      <Menu title="Transistor Amplifiers">
+        <Item title="Multistage Transistor Amplifiers" lessonid="93953401" />
+        <Item title="RC Coupled Transistor Amplifier Operation" lessonid="93953402" />
+        <Item title="Field Effect Transistor (FET) Amplifiers" lessonid="93953406" />
+      </Menu>
+      <Menu title="Transistor Oscillators">
+        <Item title="Introduction to Sine Wave Oscillators" lessonid="93953501" />
+        <Item title="Hartley Oscillator Operation" lessonid="93953502" />
+      </Menu>
+      <Menu title="Transistor Pulse Circuits">
+        <Item title="Introduction to Multivibrators Circuits" lessonid="93953601" />
+        <Item title="Astable Multivibrator Operation" lessonid="93953602" />
+        <Item title="Monostable Multivibrator Operation" lessonid="93953603" />
+        <Item title="Bistable Multivibrator Operation" lessonid="93953604" />
+        <Item title="Multivibrator Troubleshooting Experiment" lessonid="93953605" />
+      </Menu>
+      <Menu title="Trigger Device Circuits">
+        <Item title="Introduction to Trigger Devices" lessonid="93953701" />
+        <Item title="Unijunction Transistor Oscillator Operation" lessonid="93953702" />
+        <Item title="SCR Trigger Circuit Operation" lessonid="93953703" />
+        <Item title="Diacs, Triacs and 4 Layer Diodes" lessonid="93953707" />
+        <Item title="Programmable UJTs" lessonid="93953708" />
+      </Menu>
+      <Menu title="Operational Amplifiers">
+        <Item title="Introduction to Operational Amplifiers" lessonid="93953801" />
+      </Menu>
+    </Menu>
+    <Menu title="Digital Circuits 1">
+      <Menu title="Introduction to Digital Circuits">
+        <Item title="Introduction to Digital Electronics" lessonid="93954101" />
+        <Item title="Digital Electronics Hardware" lessonid="93954102" />
+        <Item title="Buffers and Inverters" lessonid="93954103" />
+        <Item title="Digital Test Equipment" lessonid="93954104" />
+      </Menu>
+      <Menu title="Digital Logic Functions">
+        <Item title="Intro to Logic Functions" lessonid="93954207" />
+        <Item title="NOT Gates" lessonid="93954203" />
+        <Item title="NAND Gates" lessonid="93954204" />
+        <Item title="NOR Gates" lessonid="93954205" />
+        <Item title="XOR Gates" lessonid="93954206" />
+      </Menu>
+      <Menu title="Combinational Logic Functions">
+        <Item title="Introduction to Combinational Circuits" lessonid="93954301" />
+        <Item title="Logic Families" lessonid="93954302" />
+        <Item title="Number Systems" lessonid="93954303" />
+        <Item title="Base 10 to Binary Conversion" lessonid="93954304" />
+        <Item title="Binary to 7 Segment Conversions" lessonid="93954305" />
+        <Item title="4 Bit Comparator" lessonid="93954306" />
+      </Menu>
+      <Menu title="Flip-Flop Circuits">
+        <Item title="Introduction to Flip-Flops" lessonid="93954401" />
+        <Item title="RS Flip-Flop" lessonid="93954402" />
+        <Item title="J-K Flip-Flop" lessonid="93954405" />
+      </Menu>
+      <Menu title="Register Memory Circuits">
+        <Item title="Introduction to Registers and Memory" lessonid="93954501" />
+      </Menu>
+      <Menu title="Arithmetic Counting Circuits">
+        <Item title="Introduction to Arithmetic Counting Circuits" lessonid="93954601" />
+        <Item title="Ripple Counters" lessonid="93954602" />
+        <Item title="Up Counters" lessonid="93954603" />
+        <Item title="4 Bit Adders" lessonid="93954605" />
+      </Menu>
+    </Menu>
+    <Menu title="Digital Circuits 2">
+      <Menu title="Introduction to Digital Circuits">
+        <Item title="Introduction to Digital Electronics" lessonid="93954A01" />
+        <Item title="Digital Electronics Hardware" lessonid="93954A02" />
+        <Item title="Digital Test Equipment" lessonid="93954A03" />
+      </Menu>
+      <Menu title="Digital Logic Functions">
+        <Item title="Buffers, Inverters, &amp; NOT Gates" lessonid="93954B01" />
+        <Item title="AND Gates" lessonid="93954B02" />
+        <Item title="OR Gates" lessonid="93954B03" />
+        <Item title="NAND Gates" lessonid="93954B04" />
+        <Item title="NOR Gates" lessonid="93954B05" />
+        <Item title="XOR and XNOR Gates" lessonid="93954B06" />
+      </Menu>
+      <Menu title="Combinational Logic Functions">
+        <Item title="Introduction to Combinational Circuits" lessonid="93954C01" />
+        <Item title="Logic Families" lessonid="93954C02" />
+        <Item title="Number Systems" lessonid="93954C03" />
+        <Item title="Base 10 to Binary Conversion" lessonid="93954C04" />
+        <Item title="Binary to Decimal Conversion" lessonid="93954C05" />
+      </Menu>
+      <Menu title="Flip-Flop Circuits">
+        <Item title="Introduction to Latches and Flip-Flops" lessonid="93954D01" />
+        <Item title="RS Flip-Flop" lessonid="93954D02" />
+        <Item title="D Type Flip-Flop" lessonid="93954D03" />
+        <Item title="J-K Flip-Flop" lessonid="93954D04" />
+      </Menu>
+      <Menu title="Register Memory Circuits">
+        <Item title="Introduction to Registers and Memory" lessonid="93954E01" />
+        <Item title="Serial Shift Registers" lessonid="93954E02" />
+        <Item title="Parallel Shift Registers" lessonid="93954E03" />
+      </Menu>
+      <Menu title="Arithmetic Counting Circuits">
+        <Item title="Introduction to Arithmetic Counting Circuits" lessonid="93954F01" />
+        <Item title="Ripple Counters" lessonid="93954F02" />
+        <Item title="Up Counters" lessonid="93954F03" />
+      </Menu>
+    </Menu>
+  </Menu>
+</Document>

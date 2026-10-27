@@ -1,177 +1,209 @@
 {
+  "programs": [
+    {
+      "file": "programs/mathematics.curriculum.json",
+      "xml": "programs/mathematics.xml",
+      "official_name": "Mathematics",
+      "lessons": 57
+    },
+    {
+      "file": "programs/automotive.curriculum.json",
+      "xml": "programs/automotive.xml",
+      "official_name": "Automotive",
+      "lessons": 45
+    },
+    {
+      "file": "programs/core-electronics.curriculum.json",
+      "xml": "programs/core-electronics.xml",
+      "official_name": "Core Electronics",
+      "lessons": 136
+    },
+    {
+      "file": "programs/vocational-electronics.curriculum.json",
+      "xml": "programs/vocational-electronics.xml",
+      "official_name": "Vocational Electronics",
+      "lessons": 168
+    },
+    {
+      "file": "programs/industrial-electronics.curriculum.json",
+      "xml": "programs/industrial-electronics.xml",
+      "official_name": "Industrial Electronics",
+      "lessons": 211
+    },
+    {
+      "file": "programs/avionics.curriculum.json",
+      "xml": "programs/avionics.xml",
+      "official_name": "Avionics",
+      "lessons": 285
+    },
+    {
+      "file": "programs/telecommunications.curriculum.json",
+      "xml": "programs/telecommunications.xml",
+      "official_name": "Telecommunications",
+      "lessons": 297
+    },
+    {
+      "file": "programs/industrial-controls.curriculum.json",
+      "xml": "programs/industrial-controls.xml",
+      "official_name": "Industrial Controls",
+      "lessons": 308
+    },
+    {
+      "file": "programs/microcontrollers-microprocessors.curriculum.json",
+      "xml": "programs/microcontrollers-microprocessors.xml",
+      "official_name": "Microcontrollers/Microprocessors",
+      "lessons": 30
+    }
+  ],
   "ratings": [
     {
       "file": "ratings/att-master.curriculum.json",
+      "xml": "ratings/att-master.xml",
       "courseid": "0_MASTER3",
       "official_name": "ATT Master_3",
       "lessons": 406
     },
     {
       "file": "ratings/gse.curriculum.json",
+      "xml": "ratings/gse.xml",
       "courseid": "787A_V03.3_GSE",
       "official_name": "Gas Turbine SysTech-Electrical_GSE",
       "lessons": 152
     },
     {
       "file": "ratings/em.curriculum.json",
+      "xml": "ratings/em.xml",
       "courseid": "787B_V03.2_EM",
       "official_name": "Electricians Mate_EM",
       "lessons": 139
     },
     {
       "file": "ratings/ic.curriculum.json",
+      "xml": "ratings/ic.xml",
       "courseid": "787C_V03.3_IC",
       "official_name": "Interior Communications_IC",
       "lessons": 218
     },
     {
       "file": "ratings/gm.curriculum.json",
+      "xml": "ratings/gm.xml",
       "courseid": "787D_V03.3_GM",
       "official_name": "Gunners Mate_GM",
       "lessons": 110
     },
     {
       "file": "ratings/fc.curriculum.json",
+      "xml": "ratings/fc.xml",
       "courseid": "787K_V03.3_FC",
       "official_name": "Fire Controlman_FC",
       "lessons": 254
     },
     {
       "file": "ratings/et.curriculum.json",
+      "xml": "ratings/et.xml",
       "courseid": "787W_V03.3_ET",
       "official_name": "Electronics Technician_ET",
       "lessons": 241
     },
     {
       "file": "ratings/stg.curriculum.json",
+      "xml": "ratings/stg.xml",
       "courseid": "787X_V03.2_STG",
       "official_name": "Sonar Technician-Surface_STG",
       "lessons": 162
     },
     {
       "file": "ratings/ae.curriculum.json",
+      "xml": "ratings/ae.xml",
       "courseid": "787Y_V03.3_AE",
       "official_name": "Aviation Electrican_AE",
       "lessons": 115
     },
     {
       "file": "ratings/ati.curriculum.json",
+      "xml": "ratings/ati.xml",
       "courseid": "787Z_V03.3_ATI",
       "official_name": "Aviation Electronics Tech_ATI",
       "lessons": 115
     },
     {
       "file": "ratings/ao.curriculum.json",
+      "xml": "ratings/ao.xml",
       "courseid": "7880_V03.2_AO",
       "official_name": "Aviation Ordanceman_AO",
       "lessons": 31
     },
     {
       "file": "ratings/ato.curriculum.json",
+      "xml": "ratings/ato.xml",
       "courseid": "7881_V03.4_ATO",
       "official_name": "Aviation Electronics Tech_ATO",
       "lessons": 117
     },
     {
       "file": "ratings/as.curriculum.json",
+      "xml": "ratings/as.xml",
       "courseid": "7883_V03.2_AS",
       "official_name": "Aviation Support Equip Tech_AS",
       "lessons": 76
     },
     {
       "file": "ratings/tm.curriculum.json",
+      "xml": "ratings/tm.xml",
       "courseid": "7885_V03.3_TM",
       "official_name": "Torpedoman_TM",
       "lessons": 30
     },
     {
       "file": "ratings/ctm.curriculum.json",
+      "xml": "ratings/ctm.xml",
       "courseid": "7886_V03.2_CTM",
       "official_name": "Crypto Technician Maintenance_CTM",
       "lessons": 157
     },
     {
       "file": "ratings/ft.curriculum.json",
+      "xml": "ratings/ft.xml",
       "courseid": "7888_V03.3_FT",
       "official_name": "Firecontrol Technicinan - Submarine_FT",
       "lessons": 120
     },
     {
       "file": "ratings/etss.curriculum.json",
+      "xml": "ratings/etss.xml",
       "courseid": "7889_V03.3_ETSS",
       "official_name": "Electronics Technician - Submarine_ETSS",
       "lessons": 120
     },
     {
       "file": "ratings/sts.curriculum.json",
+      "xml": "ratings/sts.xml",
       "courseid": "8045_V03.3_STS",
       "official_name": "Sonar Technician - Submarine_STS",
       "lessons": 120
     },
     {
       "file": "ratings/ctt.curriculum.json",
+      "xml": "ratings/ctt.xml",
       "courseid": "8068_V03.3_CTT",
       "official_name": "Crypto Technician_CTT",
       "lessons": 174
     },
     {
       "file": "ratings/mn.curriculum.json",
+      "xml": "ratings/mn.xml",
       "courseid": "8169_V03.3_MN",
       "official_name": "Mineman_MN",
       "lessons": 155
     },
     {
       "file": "ratings/mv.curriculum.json",
+      "xml": "ratings/mv.xml",
       "courseid": "9663_V03.3_MV",
       "official_name": "Aviation Electronics Tech_MV",
       "lessons": 115
     }
   ],
-  "programs": [
-    {
-      "file": "programs/mathematics.curriculum.json",
-      "official_name": "Mathematics",
-      "lessons": 57
-    },
-    {
-      "file": "programs/automotive.curriculum.json",
-      "official_name": "Automotive",
-      "lessons": 45
-    },
-    {
-      "file": "programs/core-electronics.curriculum.json",
-      "official_name": "Core Electronics",
-      "lessons": 136
-    },
-    {
-      "file": "programs/vocational-electronics.curriculum.json",
-      "official_name": "Vocational Electronics",
-      "lessons": 168
-    },
-    {
-      "file": "programs/industrial-electronics.curriculum.json",
-      "official_name": "Industrial Electronics",
-      "lessons": 211
-    },
-    {
-      "file": "programs/avionics.curriculum.json",
-      "official_name": "Avionics",
-      "lessons": 285
-    },
-    {
-      "file": "programs/telecommunications.curriculum.json",
-      "official_name": "Telecommunications",
-      "lessons": 297
-    },
-    {
-      "file": "programs/industrial-controls.curriculum.json",
-      "official_name": "Industrial Controls",
-      "lessons": 308
-    },
-    {
-      "file": "programs/microcontrollers-microprocessors.curriculum.json",
-      "official_name": "Microcontrollers/Microprocessors",
-      "lessons": 30
-    }
-  ]
+  "ungrouped": 104,
+  "master": 717
 }
