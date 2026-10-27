@@ -15,9 +15,9 @@ Not affiliated with NIDA, Asymetrix, Click2learn, or SumTotal.
 | `nc81trnr.fsk` | Trainer functions, including `initializeTrnr`. |
 | `nc81bank.fsk` | Question-bank functions, including `initializeBank`. The export may name this `NC81BANK.fsk`. |
 | `_curriculum/nida.curriculum.json` | The master list. 717 lessons: the nine programs, the rating-only lessons, and the 104 books neither menu named. |
-| `_curriculum/master.xml` | That same list as a Foolcourse menu. Programs, then ratings, then Ungrouped. |
-| `_curriculum/programs/` | One curriculum and one menu per program, plus the programs master: `nida.curriculum.json` and `nida.programs.xml`. 527 lessons. |
-| `_curriculum/ratings/` | One curriculum and one menu per rating, ATT Master included. |
+| `_curriculum/master.xml` | The whole disk as one menu. A subject appears once. DC Circuits is one subject, not one per rating. |
+| `_curriculum/programs/` | The nine programs in `nida.programs.xml`, with `nida.curriculum.json`. 527 lessons. There is no menu per program. |
+| `_curriculum/ratings/` | One menu per rating. The rating name is not a column. Subjects, then modules, then courses. |
 | `_curriculum/index.json` | The file names and the counts. |
 | `_curriculum/titles.json` | Every lesson id, the title the master uses, and the other wording when the two menus disagree. |
 | `courses/` | The lesson `.fbk` files, flat. `__PUT_COURSES_HERE__` marks the folder. |
@@ -67,4 +67,4 @@ One program, or one rating. `index.json` has the file names.
   --xml ~/FU/NIDA_ATT/_curriculum/ratings/em.xml
 ```
 
-The lessons on the curriculum you named count toward the overall. On the programs menu, a lesson that is on more than one program counts once. On the whole-disk menu, a book that sits in a program and a rating counts once. A Foolcourse release is still the empty program.
+The lessons on the curriculum you named count toward the overall. A rating menu starts at the subjects, because you already chose the rating. A lesson that is on more than one program counts once. On the whole-disk menu, a subject is listed once. A Foolcourse release is still the empty program.

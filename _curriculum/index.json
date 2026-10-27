@@ -2,55 +2,46 @@
   "programs": [
     {
       "file": "programs/mathematics.curriculum.json",
-      "xml": "programs/mathematics.xml",
       "official_name": "Mathematics",
       "lessons": 57
     },
     {
       "file": "programs/automotive.curriculum.json",
-      "xml": "programs/automotive.xml",
       "official_name": "Automotive",
       "lessons": 45
     },
     {
       "file": "programs/core-electronics.curriculum.json",
-      "xml": "programs/core-electronics.xml",
       "official_name": "Core Electronics",
       "lessons": 136
     },
     {
       "file": "programs/vocational-electronics.curriculum.json",
-      "xml": "programs/vocational-electronics.xml",
       "official_name": "Vocational Electronics",
       "lessons": 168
     },
     {
       "file": "programs/industrial-electronics.curriculum.json",
-      "xml": "programs/industrial-electronics.xml",
       "official_name": "Industrial Electronics",
       "lessons": 211
     },
     {
       "file": "programs/avionics.curriculum.json",
-      "xml": "programs/avionics.xml",
       "official_name": "Avionics",
       "lessons": 285
     },
     {
       "file": "programs/telecommunications.curriculum.json",
-      "xml": "programs/telecommunications.xml",
       "official_name": "Telecommunications",
       "lessons": 297
     },
     {
       "file": "programs/industrial-controls.curriculum.json",
-      "xml": "programs/industrial-controls.xml",
       "official_name": "Industrial Controls",
       "lessons": 308
     },
     {
       "file": "programs/microcontrollers-microprocessors.curriculum.json",
-      "xml": "programs/microcontrollers-microprocessors.xml",
       "official_name": "Microcontrollers/Microprocessors",
       "lessons": 30
     }
@@ -205,7 +196,39 @@
     }
   ],
   "ungrouped": 104,
-  "master": 717,
+  "master": {
+    "file": "nida.curriculum.json",
+    "xml": "master.xml",
+    "lessons": 717,
+    "subjects": [
+      "DC Circuits",
+      "AC Circuits",
+      "Analog Circuits",
+      "Digital Circuits",
+      "Advanced Electronics",
+      "Math",
+      "Miscelleanous Systems",
+      "Automotive",
+      "Avionics",
+      "Telecommunications",
+      "Industrial Controls",
+      "Microcontrollers/Microprocessors",
+      "Rotating Machinery",
+      "Transducers",
+      "Microwave",
+      "Fiberoptics",
+      "Signal Processing",
+      "Computer and Network",
+      "Motors, Synchro and Servo",
+      "Telephone",
+      "Microprocessors",
+      "Communications",
+      "Hydraulic and Pneumatic",
+      "Radar",
+      "Power",
+      "Digital"
+    ]
+  },
   "programs_master": {
     "file": "programs/nida.curriculum.json",
     "xml": "programs/nida.programs.xml",

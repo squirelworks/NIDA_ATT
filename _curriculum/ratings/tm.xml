@@ -1,47 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Document>
-  <Menu title="Torpedoman_TM" courseid="7885_V03.3_TM">
-    <Menu title="DC Circuits">
-      <Menu title="Mod 02 Introduction to Electricity">
-        <Item title="Introduction to CAI" lessonid="93951100" />
-        <Item title="Intro to PDAs" lessonid="10001001" />
-        <Item title="Safety Practices" lessonid="93951101" />
-        <Item title="Equipment Familarization" lessonid="93951102" />
-        <Item title="Metric Notation" lessonid="93951103" />
-        <Item title="Voltage and Current" lessonid="93951104" />
-        <Item title="Resistors" lessonid="93951105" />
-        <Item title="Switches, Fuses and Breakers" lessonid="93951106" />
-        <Item title="Introduction to Technical Graphics" lessonid="93951108" />
-      </Menu>
-      <Menu title="Mod 03 Multimeter Measurements">
-        <Item title="Magnetism, Relays &amp; Meters" lessonid="93951201" />
-        <Item title="Intro to Multimeters" lessonid="93951202" />
-        <Item title="Multimeter Use" lessonid="93951203" />
-        <Item title="Voltage Measurements" lessonid="93951204" />
-        <Item title="Current Measurements" lessonid="93951205" />
-        <Item title="Resistance Measurements" lessonid="93951206" />
-      </Menu>
-      <Menu title="Mod 04 Basic DC Circuits">
-        <Item title="Ohm's Law" lessonid="93951301" />
-        <Item title="Series Circuits" lessonid="93951302" />
-        <Item title="Series TS Theory" lessonid="93951303" />
-        <Item title="Series TS Experiment" lessonid="93951304" />
-        <Item title="Parallel Circuits" lessonid="93951306" />
-        <Item title="Parallel TS Theory" lessonid="93951307" />
-        <Item title="Parallel TS Experiment" lessonid="93951308" />
-        <Item title="Series-Parallel Circuits" lessonid="93951310" />
-        <Item title="Series-Parallel TS Theory" lessonid="93951311" />
-        <Item title="Series-Parallel TS Exp" lessonid="93951312" />
-      </Menu>
+  <Menu title="DC Circuits">
+    <Menu title="Mod 02 Introduction to Electricity">
+      <Item title="Introduction to CAI" lessonid="93951100" />
+      <Item title="Intro to PDAs" lessonid="10001001" />
+      <Item title="Safety Practices" lessonid="93951101" />
+      <Item title="Equipment Familarization" lessonid="93951102" />
+      <Item title="Metric Notation" lessonid="93951103" />
+      <Item title="Voltage and Current" lessonid="93951104" />
+      <Item title="Resistors" lessonid="93951105" />
+      <Item title="Switches, Fuses and Breakers" lessonid="93951106" />
+      <Item title="Introduction to Technical Graphics" lessonid="93951108" />
     </Menu>
-    <Menu title="Advanced Electronics">
-      <Menu title="Mod 05 Hydraulic/Pneumatic Systems">
-        <Item title="Introduction to Hydraulic Systems" lessonid="9395TC01" />
-        <Item title="Introduction to Pneumatic Systems" lessonid="9395TC02" />
-        <Item title="Fluid System Valve Operation" lessonid="9395TC03" />
-        <Item title="Hydraulic/Pneumatic Pumps" lessonid="9395TC04" />
-        <Item title="TS Hydraulic/Pneumatic Systems" lessonid="9395TC05" />
-      </Menu>
+    <Menu title="Mod 03 Multimeter Measurements">
+      <Item title="Magnetism, Relays &amp; Meters" lessonid="93951201" />
+      <Item title="Intro to Multimeters" lessonid="93951202" />
+      <Item title="Multimeter Use" lessonid="93951203" />
+      <Item title="Voltage Measurements" lessonid="93951204" />
+      <Item title="Current Measurements" lessonid="93951205" />
+      <Item title="Resistance Measurements" lessonid="93951206" />
+    </Menu>
+    <Menu title="Mod 04 Basic DC Circuits">
+      <Item title="Ohm's Law" lessonid="93951301" />
+      <Item title="Series Circuits" lessonid="93951302" />
+      <Item title="Series TS Theory" lessonid="93951303" />
+      <Item title="Series TS Experiment" lessonid="93951304" />
+      <Item title="Parallel Circuits" lessonid="93951306" />
+      <Item title="Parallel TS Theory" lessonid="93951307" />
+      <Item title="Parallel TS Experiment" lessonid="93951308" />
+      <Item title="Series-Parallel Circuits" lessonid="93951310" />
+      <Item title="Series-Parallel TS Theory" lessonid="93951311" />
+      <Item title="Series-Parallel TS Exp" lessonid="93951312" />
+    </Menu>
+  </Menu>
+  <Menu title="Advanced Electronics">
+    <Menu title="Mod 05 Hydraulic/Pneumatic Systems">
+      <Item title="Introduction to Hydraulic Systems" lessonid="9395TC01" />
+      <Item title="Introduction to Pneumatic Systems" lessonid="9395TC02" />
+      <Item title="Fluid System Valve Operation" lessonid="9395TC03" />
+      <Item title="Hydraulic/Pneumatic Pumps" lessonid="9395TC04" />
+      <Item title="TS Hydraulic/Pneumatic Systems" lessonid="9395TC05" />
     </Menu>
   </Menu>
 </Document>
