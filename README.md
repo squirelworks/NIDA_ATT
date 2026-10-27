@@ -16,7 +16,7 @@ Not affiliated with NIDA, Asymetrix, Click2learn, or SumTotal.
 | `nc81bank.fsk` | Question-bank functions, including `initializeBank`. The export may name this `NC81BANK.fsk`. |
 | `_curriculum/nida.curriculum.json` | The master list. 717 lessons: the nine programs, the rating-only lessons, and the 104 books neither menu named. |
 | `_curriculum/master.xml` | That same list as a Foolcourse menu. Programs, then ratings, then Ungrouped. |
-| `_curriculum/programs/` | One curriculum and one menu per program. The menu is Foolcourse's, not the original export. |
+| `_curriculum/programs/` | One curriculum and one menu per program, plus the programs master: `nida.curriculum.json` and `nida.programs.xml`. 527 lessons. |
 | `_curriculum/ratings/` | One curriculum and one menu per rating, ATT Master included. |
 | `_curriculum/index.json` | The file names and the counts. |
 | `_curriculum/titles.json` | Every lesson id, the title the master uses, and the other wording when the two menus disagree. |
@@ -42,7 +42,15 @@ Do not leave `nida81.fbk` inside `courses/`. The loop keeps the shell and the fi
 
 ## Open it
 
-Foolcourse from a source checkout does not load this list on its own. The master menu is not named `nida.programs.xml`, so name it:
+The nine programs, which is how that list arrived. Foolcourse finds `nida.programs.xml` beside a curriculum named `nida.`:
+
+```bash
+cd ~/FU/Foolcourse
+.venv/bin/python -m foolcourse ~/FU/NIDA_ATT/courses \
+  --curriculum ~/FU/NIDA_ATT/_curriculum/programs/nida.curriculum.json
+```
+
+The whole disk, programs and ratings and the 104 books neither menu named:
 
 ```bash
 cd ~/FU/Foolcourse
@@ -59,4 +67,4 @@ One program, or one rating. `index.json` has the file names.
   --xml ~/FU/NIDA_ATT/_curriculum/ratings/em.xml
 ```
 
-The lessons on the curriculum you named count toward the overall. On the master, a book that sits in a program and a rating counts once. A Foolcourse release is still the empty program.
+The lessons on the curriculum you named count toward the overall. On the programs menu, a lesson that is on more than one program counts once. On the whole-disk menu, a book that sits in a program and a rating counts once. A Foolcourse release is still the empty program.

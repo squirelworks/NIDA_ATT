@@ -205,5 +205,11 @@
     }
   ],
   "ungrouped": 104,
-  "master": 717
+  "master": 717,
+  "programs_master": {
+    "file": "programs/nida.curriculum.json",
+    "xml": "programs/nida.programs.xml",
+    "official_name": "NIDA Programs",
+    "lessons": 527
+  }
 }
