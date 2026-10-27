@@ -9,3 +9,7 @@ courses/*.json
 
 # Live student records.
 _student/
+
+# Built downloads. The Foolcourse program plus this course.
+dist/
+

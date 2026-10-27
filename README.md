@@ -69,3 +69,21 @@ One program, or one rating. `index.json` has the file names.
 ```
 
 The lessons on the curriculum you named count toward the overall. A rating menu starts at the subjects, because you already chose the rating. A lesson that is on more than one program counts once. On the master, a subject is listed once. Ratings and programs still name every lesson on those disks, including ones that are not in `courses/`. The full placement of all 717, present or not, is in `_inferred/`. A Foolcourse release is still the empty program.
+
+## Download
+
+Two downloads. The books are their own zip. The program that opens them is a smaller one, per system, and it sits beside the books.
+
+Foolcourse stays the general program. The program zip is that program with nothing else to install. Windows starts with `NIDA_ATT.exe`. Linux starts with `NIDA_ATT`. Mac starts with `NIDA_ATT.app`. None of those is a script. The books are not inside that zip.
+
+A Foolcourse checkout has to be next to this one, or `FOOLCOURSE` has to name it. Building a system downloads Python the first time. Later builds can reuse the folder.
+
+```bash
+cd ~/FU/NIDA_ATT
+python3 pack/build.py content
+python3 pack/build.py windows-x64
+python3 pack/build.py --from ~/FU/Foolcourse/dist/Foolcourse-1.0.1r2-windows-x64
+```
+
+`dist/NIDA_ATT-content.zip` unpacks to a folder named `NIDA_ATT-content`: the books, the shell, and the curriculum. `dist/NIDA_ATT-<foolcourse version>-<system>.zip` is the program. Unzip both in the same place, then double-click the program. It uses the `NIDA_ATT-content` folder next to it as the course. `_curriculum/nida.curriculum.json` and `_curriculum/nida.xml` are the master. The shell stays one level above `courses/`.
+
