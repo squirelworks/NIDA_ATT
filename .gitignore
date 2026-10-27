@@ -13,3 +13,7 @@ _student/
 # Built downloads. The Foolcourse program plus this course.
 dist/
 
+__pycache__/
+*.pyc
+
+
