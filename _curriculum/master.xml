@@ -90,7 +90,7 @@
       <Item title="Basic Wire Wrapping Techniques" lessonid="93951604" />
       <Item title="Basic Wiring and Connector TS Theory" lessonid="93951605" />
       <Item title="Wire Troubleshooting" lessonid="93951606" />
-      <Item title="93951607" lessonid="93951607" />
+      <Item title="Conductors, Insulators and Semiconductors" lessonid="93951607" />
     </Menu>
     <Menu title="Mod 06.5 Cables, Connectors, and Continuity">
       <Item title="Cables, Connectors, and Tools" lessonid="9395C101" />
@@ -251,24 +251,13 @@
       <Item title="Basic Power Distribution" lessonid="9395Z201" />
       <Item title="Split-bus Power Distribution" lessonid="9395Z202" />
       <Item title="PWM Switching Power Supplies" lessonid="9395Z204" />
-      <Item title="Post-test 9395Z299" lessonid="9395Z299" />
+      <Item title="Electrical Systems Post-Test" lessonid="9395Z299" />
     </Menu>
-    <Menu title="Mod 17.7 Power">
-      <Item title="9395Z601" lessonid="9395Z601" />
-      <Item title="9395Z602" lessonid="9395Z602" />
-      <Item title="9395Z603" lessonid="9395Z603" />
-      <Item title="9395Z604" lessonid="9395Z604" />
-      <Item title="9395Z605" lessonid="9395Z605" />
-      <Item title="9395Z611" lessonid="9395Z611" />
-      <Item title="9395Z614" lessonid="9395Z614" />
-      <Item title="9395Z622" lessonid="9395Z622" />
-      <Item title="9395Z812" lessonid="9395Z812" />
-      <Item title="9395Z813" lessonid="9395Z813" />
-      <Item title="9395Z814" lessonid="9395Z814" />
-      <Item title="9395Z821" lessonid="9395Z821" />
-      <Item title="9395Z822" lessonid="9395Z822" />
-      <Item title="9395Z823" lessonid="9395Z823" />
-      <Item title="9395Z824" lessonid="9395Z824" />
+    <Menu title="Mod 17.8 Aircraft Electrical Power">
+      <Item title="Aircraft Batteries" lessonid="9395Z821" />
+      <Item title="Aircraft DC Generation Systems" lessonid="9395Z822" />
+      <Item title="Aircraft AC Generation Systems" lessonid="9395Z823" />
+      <Item title="Multi-Engine Aircraft Power Distribution Systems" lessonid="9395Z824" />
     </Menu>
     <Menu title="Mod 18 Transistor Amplifiers">
       <Item title="Multistage Transistor Amps" lessonid="93953401" />
@@ -337,7 +326,7 @@
       <Item title="AM Receiver Troubleshooting" lessonid="93953903" />
     </Menu>
     <Menu title="Mod 23.5 Microwave">
-      <Item title="Pre-test 93958198" lessonid="93958198" />
+      <Item title="Microwave Pre-Test" lessonid="93958198" />
       <Item title="Introduction to Microwaves" lessonid="93958101" />
       <Item title="Introduction to Basic Microwave Systems" lessonid="93958102" />
       <Item title="Microwave Transmitters" lessonid="93958103" />
@@ -346,7 +335,7 @@
       <Item title="Antennas" lessonid="93958106" />
       <Item title="Cavity Resonators and Tube Microwave Devices" lessonid="93958107" />
       <Item title="Semiconductor Microwave Devices" lessonid="93958108" />
-      <Item title="Post-test 93958199" lessonid="93958199" />
+      <Item title="Microwave Post-Test" lessonid="93958199" />
     </Menu>
   </Menu>
   <Menu title="Digital Circuits">
@@ -363,15 +352,15 @@
       <Item title="Digital Electronics Hardware" lessonid="93954A02" />
       <Item title="Digital Test Equipment" lessonid="93954A03" />
     </Menu>
-    <Menu title="Mod 24.8 Digital">
-      <Item title="9E954D01" lessonid="9E954D01" />
-      <Item title="9E954D02" lessonid="9E954D02" />
-      <Item title="9E954D04" lessonid="9E954D04" />
-      <Item title="9E954D05" lessonid="9E954D05" />
-      <Item title="9E954D06" lessonid="9E954D06" />
-      <Item title="9E954D07" lessonid="9E954D07" />
-      <Item title="9E954D08" lessonid="9E954D08" />
-      <Item title="9E954D09" lessonid="9E954D09" />
+    <Menu title="Mod 24.8 Logic Families and Flip-Flops">
+      <Item title="Logic Families" lessonid="9E954D01" />
+      <Item title="Introduction to Integrated Circuits" lessonid="9E954D02" />
+      <Item title="Introduction to Flip-Flops" lessonid="9E954D04" />
+      <Item title="RS Flip-Flop" lessonid="9E954D05" />
+      <Item title="Clocked RS Flip-Flop" lessonid="9E954D06" />
+      <Item title="Type D Flip-Flop" lessonid="9E954D07" />
+      <Item title="JK Flip-Flops" lessonid="9E954D08" />
+      <Item title="Flip-Flop Timing and Synchronization" lessonid="9E954D09" />
     </Menu>
     <Menu title="Mod 25 Digital Logic Functions">
       <Item title="Intro to Logic Functions" lessonid="93954207" />
@@ -453,7 +442,7 @@
       <Item title="Data Distribution Circuits" lessonid="93954704" />
     </Menu>
     <Menu title="Mod 30.5 68000 Microprocessor">
-      <Item title="Pre-test 9395T898" lessonid="9395T898" />
+      <Item title="Microprocessors Pre-Test" lessonid="9395T898" />
       <Item title="Introduction to Microprocessors" lessonid="9395T801" />
       <Item title="The 68000 Microprocessor" lessonid="9395T802" />
       <Item title="Registers and Memory" lessonid="9395T803" />
@@ -465,18 +454,18 @@
       <Item title="Test &amp; Additional Instructions" lessonid="9395T809" />
       <Item title="Programming and System Design" lessonid="9395T810" />
       <Item title="Troubleshooting the 68000" lessonid="9395T811" />
-      <Item title="9395T819" lessonid="9395T819" />
+      <Item title="68000 Microprocessor Circuits Test" lessonid="9395T819" />
     </Menu>
     <Menu title="Mod 31 Microprocessor Circuits">
       <Item title="Introduction to Microprocessors" lessonid="9395T821" />
       <Item title="Basic Microprocessor Operation" lessonid="9395T822" />
       <Item title="Number Systems" lessonid="9395T823" />
+      <Item title="Microprocessors Test" lessonid="9395T829" />
       <Item title="8085 Microprocessor Circuit" lessonid="9395T831" />
       <Item title="Operation of the 8085 Microprocessor" lessonid="9395T832" />
       <Item title="Interfacing with the 8085" lessonid="9395T833" />
       <Item title="Troubleshooting the 8085" lessonid="9395T834" />
-      <Item title="9395T829" lessonid="9395T829" />
-      <Item title="9395T839" lessonid="9395T839" />
+      <Item title="8085 Microprocessor Circuits Test" lessonid="9395T839" />
     </Menu>
     <Menu title="Mod 31.5 8086 Microprocessor">
       <Item title="8086 Microprocessor Circuit" lessonid="9395T841" />
@@ -487,14 +476,14 @@
       <Item title="8086 Addition and Subtraction" lessonid="9395T846" />
       <Item title="8086 Logic Instructions" lessonid="9395T847" />
       <Item title="8086 Jump Instructions" lessonid="9395T848" />
-      <Item title="9395T849" lessonid="9395T849" />
+      <Item title="8086 Microprocessor Circuit Test" lessonid="9395T849" />
     </Menu>
     <Menu title="Mod 31.6 8051 Microcontroller">
       <Item title="8051 Microcontroller Circuit" lessonid="9395T851" />
       <Item title="Operation of the 8051 Microcontroller" lessonid="9395T852" />
       <Item title="Interfacing with the 8051" lessonid="9395T853" />
       <Item title="Troubleshooting the 8051" lessonid="9395T854" />
-      <Item title="9395T859" lessonid="9395T859" />
+      <Item title="8051 Microcontroller Test" lessonid="9395T859" />
     </Menu>
   </Menu>
   <Menu title="Advanced Electronics">
@@ -507,32 +496,32 @@
       <Item title="Three-phase Power Generation" lessonid="9395Z203" />
     </Menu>
     <Menu title="Mod 32.5 Rotating Machinery">
-      <Item title="Pre-test 93955198" lessonid="93955198" />
-      <Item title="93955101" lessonid="93955101" />
-      <Item title="93955103" lessonid="93955103" />
-      <Item title="93955104" lessonid="93955104" />
-      <Item title="93955201" lessonid="93955201" />
-      <Item title="93955202" lessonid="93955202" />
-      <Item title="93955203" lessonid="93955203" />
-      <Item title="93955204" lessonid="93955204" />
-      <Item title="93955205" lessonid="93955205" />
-      <Item title="93955206" lessonid="93955206" />
-      <Item title="93955207" lessonid="93955207" />
-      <Item title="93955208" lessonid="93955208" />
-      <Item title="93955209" lessonid="93955209" />
-      <Item title="93955301" lessonid="93955301" />
-      <Item title="93955302" lessonid="93955302" />
-      <Item title="93955303" lessonid="93955303" />
-      <Item title="93955401" lessonid="93955401" />
-      <Item title="93955402" lessonid="93955402" />
-      <Item title="93955501" lessonid="93955501" />
-      <Item title="93955502" lessonid="93955502" />
-      <Item title="93955503" lessonid="93955503" />
-      <Item title="Post-test 93955199" lessonid="93955199" />
-      <Item title="Post-test 93955299" lessonid="93955299" />
-      <Item title="Post-test 93955399" lessonid="93955399" />
-      <Item title="Post-test 93955499" lessonid="93955499" />
-      <Item title="Post-test 93955599" lessonid="93955599" />
+      <Item title="Rotating Machinery Pre-Test" lessonid="93955198" />
+      <Item title="Introduction to Rotating Machinery" lessonid="93955101" />
+      <Item title="Rotating Machinery Trainer Familiarization" lessonid="93955103" />
+      <Item title="Rotating Machinery Trainer Alignment" lessonid="93955104" />
+      <Item title="DC Motors" lessonid="93955201" />
+      <Item title="DC Shunt Field Motors" lessonid="93955202" />
+      <Item title="DC Series Field Motors" lessonid="93955203" />
+      <Item title="DC Compound Motors" lessonid="93955204" />
+      <Item title="Time Control of DC Motors" lessonid="93955205" />
+      <Item title="Feedback Control of DC Motors" lessonid="93955206" />
+      <Item title="Closed Loop Feedback Control of DC Motors" lessonid="93955207" />
+      <Item title="Troubleshooting Closed Loop Feedback Systems" lessonid="93955208" />
+      <Item title="Amplitude Control of DC Motors" lessonid="93955209" />
+      <Item title="Three Phase Power" lessonid="93955301" />
+      <Item title="AC Motors" lessonid="93955302" />
+      <Item title="AC Motors Characteristics" lessonid="93955303" />
+      <Item title="Stepper Motors" lessonid="93955401" />
+      <Item title="Stepper Controllers" lessonid="93955402" />
+      <Item title="Generators" lessonid="93955501" />
+      <Item title="Motor Generators" lessonid="93955502" />
+      <Item title="AC Motors and Generators" lessonid="93955503" />
+      <Item title="Rotating Machinery Post-Test" lessonid="93955199" />
+      <Item title="DC Motors Post-Test" lessonid="93955299" />
+      <Item title="AC Motors Post-Test" lessonid="93955399" />
+      <Item title="Stepper Motors Post-Test" lessonid="93955499" />
+      <Item title="Generators Post-Test" lessonid="93955599" />
     </Menu>
     <Menu title="Mod 33 Advanced Motor Operation">
       <Item title="DC Motors" lessonid="93955601" />
@@ -553,9 +542,9 @@
       <Item title="Motor Generators" lessonid="93955902" />
     </Menu>
     <Menu title="Mod 33.5 Motors and Synchros">
-      <Item title="Pre-test 9395T398" lessonid="9395T398" />
-      <Item title="9395T311" lessonid="9395T311" />
-      <Item title="Post-test 9395T399" lessonid="9395T399" />
+      <Item title="Motors Pre-Test" lessonid="9395T398" />
+      <Item title="DC Series Field Motors" lessonid="9395T311" />
+      <Item title="Motors Post-Test" lessonid="9395T399" />
     </Menu>
     <Menu title="Mod 34 Basic Synchro/Servo">
       <Item title="Pulse Width Modulation &amp; Amplification" lessonid="9395T315" />
@@ -589,6 +578,16 @@
       <Item title="Troubleshooting Synchro Systems" lessonid="93956404" />
       <Item title="Gyroscopes" lessonid="93956405" />
     </Menu>
+    <Menu title="Mod 35.4 Aviation Technology">
+      <Item title="Introduction to Aviation Technology" lessonid="9395Z601" />
+      <Item title="General Aircraft Principles" lessonid="9395Z602" />
+      <Item title="Aircraft Structures" lessonid="9395Z603" />
+      <Item title="Aircraft Powerplants" lessonid="9395Z604" />
+      <Item title="Basic Aircraft Systems Troubleshooting" lessonid="9395Z605" />
+      <Item title="Aeronautical Regulatory Publications" lessonid="9395Z611" />
+      <Item title="Aircraft Drawings" lessonid="9395Z614" />
+      <Item title="Flight Line Safety" lessonid="9395Z622" />
+    </Menu>
     <Menu title="Mod 35.5 Closed Loop Servo Operation">
       <Item title="Closed Loop Servo Operation" lessonid="93956301" />
       <Item title="Phase Error Detection" lessonid="93956302" />
@@ -597,7 +596,7 @@
       <Item title="Synchro Troubleshooting" lessonid="93956305" />
     </Menu>
     <Menu title="Mod 35.6 Avionics Operational Systems">
-      <Item title="Pre-test 9395Z198" lessonid="9395Z198" />
+      <Item title="Avionics Pre-Test" lessonid="9395Z198" />
       <Item title="Introduction to Operational Systems" lessonid="9395Z101" />
       <Item title="Flight Controls System" lessonid="9395Z102" />
       <Item title="Ignition System" lessonid="9395Z103" />
@@ -606,7 +605,7 @@
       <Item title="Aircraft Support Systems" lessonid="9395Z106" />
       <Item title="Propulsion Systems" lessonid="9395Z107" />
       <Item title="Aircraft Instruments" lessonid="9395Z108" />
-      <Item title="Post-test 9395Z199" lessonid="9395Z199" />
+      <Item title="Operational Systems Post-Test" lessonid="9395Z199" />
     </Menu>
     <Menu title="Mod 36 Basic Radar Systems">
       <Item title="Introduction to Radar" lessonid="9395TD01" />
@@ -619,17 +618,17 @@
       <Item title="Semiconductor Microwave Devices" lessonid="9395TD08" />
       <Item title="Electromagnetic Compatibility CM" lessonid="9395TD09" />
       <Item title="Radar Auxiliary Systems" lessonid="9395TD10" />
-      <Item title="Post-test 9395TD99" lessonid="9395TD99" />
+      <Item title="Radar Post-Test" lessonid="9395TD99" />
     </Menu>
     <Menu title="Mod 36.5 Warning Systems">
       <Item title="Master Warning and Annunciator System" lessonid="9395Z301" />
       <Item title="Engine Monitoring and Crew Alerting Systems" lessonid="9395Z302" />
       <Item title="Fire Warning and Extinguishing Systems" lessonid="9395Z303" />
       <Item title="Environmental Control and Warning System" lessonid="9395Z304" />
-      <Item title="Post-test 9395Z399" lessonid="9395Z399" />
+      <Item title="Aircraft Systems Post-Test" lessonid="9395Z399" />
     </Menu>
     <Menu title="Mod 37 Communications Systems">
-      <Item title="Pre-test 9395T998" lessonid="9395T998" />
+      <Item title="Communications Pre-Test" lessonid="9395T998" />
       <Item title="Introduction to Communications" lessonid="9395T901" />
       <Item title="Wave Propagation" lessonid="9395T921" />
       <Item title="HF Fundamentals" lessonid="9395T922" />
@@ -649,15 +648,15 @@
       <Item title="Narrowband FM" lessonid="9395T914" />
       <Item title="Narrowband FM Troubleshooting" lessonid="9395T915" />
       <Item title="Communications Troubleshooting" lessonid="9395T916" />
-      <Item title="Post-test 9395T999" lessonid="9395T999" />
+      <Item title="Communications Post-Test" lessonid="9395T999" />
     </Menu>
     <Menu title="Mod 37.2 Introduction to Signal Processing">
-      <Item title="Pre-test 9395B198" lessonid="9395B198" />
+      <Item title="Signal Processing Pre-Test" lessonid="9395B198" />
       <Item title="Communications Systems &amp; Signal Processing" lessonid="9395B101" />
       <Item title="Amplitude Modulation" lessonid="9395B102" />
       <Item title="Frequency Modulation" lessonid="9395B103" />
       <Item title="Single Sideband and Transmission Lines" lessonid="9395B104" />
-      <Item title="Post-test 9395B199" lessonid="9395B199" />
+      <Item title="Introduction to Signal Processing Post-Test" lessonid="9395B199" />
     </Menu>
     <Menu title="Mod 37.4 AM and FM Circuits">
       <Item title="AM Circuits" lessonid="9395B201" />
@@ -670,7 +669,7 @@
       <Item title="IC FM Circuit Operation" lessonid="9395B208" />
       <Item title="FM Circuit Troubleshooting" lessonid="9395B209" />
       <Item title="Analog Pulse Modulation" lessonid="9395B210" />
-      <Item title="Post-test 9395B299" lessonid="9395B299" />
+      <Item title="AM/FM Circuits Post-Test" lessonid="9395B299" />
     </Menu>
     <Menu title="Mod 37.6 Modulation Techniques">
       <Item title="Pulse Code Modulation (PCM)" lessonid="9395B301" />
@@ -685,7 +684,7 @@
       <Item title="Phase Shift Keying (PSK)" lessonid="9395B310" />
       <Item title="PSK Circuit Operation" lessonid="9395B311" />
       <Item title="PSK Circuit Troubleshooting" lessonid="9395B312" />
-      <Item title="Post-test 9395B399" lessonid="9395B399" />
+      <Item title="Modulation Techniques Post-Test" lessonid="9395B399" />
     </Menu>
     <Menu title="Mod 37.8 Multiplexing Techniques">
       <Item title="Time Division Multiplexing (TDM)" lessonid="9395B401" />
@@ -694,7 +693,7 @@
       <Item title="Frequency Division Multiplexing (FDM)" lessonid="9395B404" />
       <Item title="FDM Circuit Operation" lessonid="9395B405" />
       <Item title="FDM Circuit Troubleshooting" lessonid="9395B406" />
-      <Item title="Post-test 9395B499" lessonid="9395B499" />
+      <Item title="Multiplexing Techniques Post-Test" lessonid="9395B499" />
     </Menu>
     <Menu title="Mod 37.9 Data Communications">
       <Item title="Introduction to Data Communication" lessonid="9395Z401" />
@@ -704,16 +703,16 @@
       <Item title="IEEE 488 Data Bus Systems" lessonid="9395Z405" />
       <Item title="ARINC 429 Data Bus" lessonid="9395Z406" />
       <Item title="ARINC 629 Data Bus" lessonid="9395Z407" />
-      <Item title="Post-test 9395Z499" lessonid="9395Z499" />
+      <Item title="Data Communications Post-Test" lessonid="9395Z499" />
     </Menu>
     <Menu title="Mod 38 Fiber Optics">
-      <Item title="Pre-test 9395A298" lessonid="9395A298" />
+      <Item title="Basic Fiber Optics Pre-Test" lessonid="9395A298" />
       <Item title="Intro to Fiberoptics" lessonid="9395A201" />
       <Item title="Fiberoptic Components" lessonid="9395A202" />
       <Item title="Signal Transmission" lessonid="9395A203" />
       <Item title="Fiberoptic Cable Connection" lessonid="9395A204" />
       <Item title="Fiberoptic Troubleshooting Exp" lessonid="9395A205" />
-      <Item title="Post-test 9395A299" lessonid="9395A299" />
+      <Item title="Basic Fiber Optics Post-Test" lessonid="9395A299" />
     </Menu>
     <Menu title="Mod 39 Computer Technology">
       <Item title="The Personal Computer" lessonid="9395P301" />
@@ -728,14 +727,14 @@
       <Item title="Network Systems" lessonid="9395P401" />
     </Menu>
     <Menu title="Mod 39.5 Computer and Network">
-      <Item title="9395P201" lessonid="9395P201" />
-      <Item title="9395P202" lessonid="9395P202" />
-      <Item title="9395P203" lessonid="9395P203" />
-      <Item title="9395P204" lessonid="9395P204" />
-      <Item title="9395P205" lessonid="9395P205" />
-      <Item title="9395P206" lessonid="9395P206" />
-      <Item title="9395P207" lessonid="9395P207" />
-      <Item title="9395P309" lessonid="9395P309" />
+      <Item title="Introduction to the Internet" lessonid="9395P201" />
+      <Item title="Internet Requirements &amp; Options" lessonid="9395P202" />
+      <Item title="The World Wide Web" lessonid="9395P203" />
+      <Item title="FTP and Telnet" lessonid="9395P204" />
+      <Item title="E-Mail &amp; Internet Relay Chat (IRC)" lessonid="9395P205" />
+      <Item title="Internet Utilities" lessonid="9395P206" />
+      <Item title="Creating Your Own Web Page" lessonid="9395P207" />
+      <Item title="Applications" lessonid="9395P309" />
     </Menu>
     <Menu title="Mod 40 Hydraulic/Pneumatic Systems">
       <Item title="Introduction to Hydraulic Systems" lessonid="9395TC01" />
@@ -743,10 +742,10 @@
       <Item title="Fluid System Valve Operation" lessonid="9395TC03" />
       <Item title="Hydraulic/Pneumatic Pumps" lessonid="9395TC04" />
       <Item title="TS Hydraulic/Pneumatic Systems" lessonid="9395TC05" />
-      <Item title="Post-test 9395TC99" lessonid="9395TC99" />
+      <Item title="Hydraulic and Pneumatic Post-Test" lessonid="9395TC99" />
     </Menu>
     <Menu title="Mod 41 Basic Telephone Systems">
-      <Item title="Pre-test 9395T698" lessonid="9395T698" />
+      <Item title="Telephone Pre-Test" lessonid="9395T698" />
       <Item title="Introduction to Communication Systems" lessonid="9395T601" />
       <Item title="Telephone Systems" lessonid="9395T602" />
       <Item title="Telephone Equipment" lessonid="9395T603" />
@@ -762,12 +761,12 @@
       <Item title="Cellular Telephony" lessonid="9395T615" />
       <Item title="Information Systems" lessonid="9395T616" />
       <Item title="Satellite Systems" lessonid="9395T617" />
-      <Item title="9395T620" lessonid="9395T620" />
-      <Item title="9395T621" lessonid="9395T621" />
-      <Item title="9395T622" lessonid="9395T622" />
+      <Item title="Training Equipment Familiarization" lessonid="9395T620" />
+      <Item title="Multimeter Use" lessonid="9395T621" />
+      <Item title="Telephone Equipment" lessonid="9395T622" />
     </Menu>
     <Menu title="Mod 42 Transducer Systems">
-      <Item title="Pre-test 93957198" lessonid="93957198" />
+      <Item title="Transducers Pre-Test" lessonid="93957198" />
       <Item title="Introduction to Transducers" lessonid="93957107" />
       <Item title="Nature of Light" lessonid="93957101" />
       <Item title="Light Transducers" lessonid="93957102" />
@@ -781,8 +780,13 @@
       <Item title="Nature of Position" lessonid="93957204" />
       <Item title="Position Transducers" lessonid="93957205" />
       <Item title="Position Transducer Opr" lessonid="93957206" />
-      <Item title="Post-test 93957199" lessonid="93957199" />
-      <Item title="Post-test 93957299" lessonid="93957299" />
+      <Item title="Light/Heat Transducers Post-Test" lessonid="93957199" />
+      <Item title="Motion/Position Transducers Post-Test" lessonid="93957299" />
+    </Menu>
+    <Menu title="Mod 42.5 Aircraft Instruments">
+      <Item title="Tachometer, Torque and Position Indicating Systems" lessonid="9395Z812" />
+      <Item title="Temperature and Fuel Flow Instrumentation" lessonid="9395Z813" />
+      <Item title="Pressure Sensing and Chip Detection Instruments" lessonid="9395Z814" />
     </Menu>
     <Menu title="Mod 43 Programmable Logic Controllers">
       <Item title="Intro to PLCs" lessonid="9395N101" />
@@ -814,7 +818,7 @@
   </Menu>
   <Menu title="Math">
     <Menu title="Mod 44 Basic Mathematics">
-      <Item title="Pre-test 93950198" lessonid="93950198" />
+      <Item title="Basic Math Pre-Test" lessonid="93950198" />
       <Item title="Addition &amp; Subtraction" lessonid="93950101" />
       <Item title="Multiplication &amp; Division" lessonid="93950102" />
       <Item title="Fractions" lessonid="93950103" />
@@ -824,10 +828,10 @@
       <Item title="Percents" lessonid="93950107" />
       <Item title="Exponents &amp; Square Roots" lessonid="93950108" />
       <Item title="Metric Notation" lessonid="93950109" />
-      <Item title="Post-test 93950199" lessonid="93950199" />
+      <Item title="Basic Math Post-Test" lessonid="93950199" />
     </Menu>
     <Menu title="Mod 45 Algebra">
-      <Item title="Pre-test 93950298" lessonid="93950298" />
+      <Item title="Algebra Pre-Test" lessonid="93950298" />
       <Item title="Fundamentals of Algebra" lessonid="93950201" />
       <Item title="Linear Equations" lessonid="93950202" />
       <Item title="Solving Linear Equations" lessonid="93950203" />
@@ -838,10 +842,10 @@
       <Item title="Graphs" lessonid="93950208" />
       <Item title="Systems of Linear Equations" lessonid="93950209" />
       <Item title="Introduction to Statistics" lessonid="93950210" />
-      <Item title="Post-test 93950299" lessonid="93950299" />
+      <Item title="Algebra Post-Test" lessonid="93950299" />
     </Menu>
     <Menu title="Mod 46 Trigonometry">
-      <Item title="Pre-test 93950398" lessonid="93950398" />
+      <Item title="Trigonometry Pre-Test" lessonid="93950398" />
       <Item title="Fundamentals of Trigonometry" lessonid="93950301" />
       <Item title="Trigonometric Functions" lessonid="93950302" />
       <Item title="Graphing Trigonometric Functions" lessonid="93950303" />
@@ -852,10 +856,10 @@
       <Item title="Graphing Polar Equations" lessonid="93950308" />
       <Item title="Conic Sections: Circles and Parabolas" lessonid="93950309" />
       <Item title="Conic Sections: Ellipses and Hyperbolas" lessonid="93950310" />
-      <Item title="Post-test 93950399" lessonid="93950399" />
+      <Item title="Trigonometry Post-Test" lessonid="93950399" />
     </Menu>
     <Menu title="Mod 47 Calculus">
-      <Item title="Pre-test 93950498" lessonid="93950498" />
+      <Item title="Calculus Pre-Test" lessonid="93950498" />
       <Item title="Fundamentals of Calculus" lessonid="93950401" />
       <Item title="Limits" lessonid="93950402" />
       <Item title="Limits: Continuity and Infinity" lessonid="93950403" />
@@ -866,10 +870,10 @@
       <Item title="Integration" lessonid="93950408" />
       <Item title="Definite Integrals" lessonid="93950409" />
       <Item title="Applications of Definite Integrals" lessonid="93950410" />
-      <Item title="Post-test 93950499" lessonid="93950499" />
+      <Item title="Calculus Post-Test" lessonid="93950499" />
     </Menu>
     <Menu title="Mod 48 Computer Math">
-      <Item title="Pre-test 93950598" lessonid="93950598" />
+      <Item title="Computer Math Pre-Test" lessonid="93950598" />
       <Item title="Fundamentals of Computer Math" lessonid="93950501" />
       <Item title="Number Systems (Base 10 to Base 2)" lessonid="93950502" />
       <Item title="Number Systems (Base 8 to Base 16)" lessonid="93950503" />
@@ -880,10 +884,10 @@
       <Item title="Karnaugh Maps" lessonid="93950508" />
       <Item title="Algorithms and Flow Charts" lessonid="93950509" />
       <Item title="Sequences and Matrices" lessonid="93950510" />
-      <Item title="Post-test 93950599" lessonid="93950599" />
+      <Item title="Computer Math Post-Test" lessonid="93950599" />
     </Menu>
     <Menu title="Mod 49 Measurements">
-      <Item title="Pre-test 93950698" lessonid="93950698" />
+      <Item title="Measurements Pre-Test" lessonid="93950698" />
       <Item title="Introduction to Measurements" lessonid="93950601" />
       <Item title="Metric Conversion" lessonid="93950602" />
       <Item title="Angular and Circular Measurements" lessonid="93950603" />
@@ -892,7 +896,7 @@
       <Item title="Velocity and Acceleration Measurements" lessonid="93950606" />
       <Item title="Force Measurements" lessonid="93950607" />
       <Item title="Work and Power Measurements" lessonid="93950608" />
-      <Item title="Post-test 93950699" lessonid="93950699" />
+      <Item title="Measurements Post-Test" lessonid="93950699" />
     </Menu>
   </Menu>
   <Menu title="Miscelleanous Systems">

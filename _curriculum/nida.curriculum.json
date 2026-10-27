@@ -722,7 +722,7 @@
   ],
   "extras": [],
   "root": "courses",
-  "notes": "717 lessons on the seven ATT subjects. A unit that was not on the ATT disk is inserted as Mod 02.5, Mod 03.5, and so on. A lesson is listed once. Titles that are still an id are waiting on the book.",
+  "notes": "717 lessons on the seven ATT subjects. A unit that was not on the ATT disk is inserted as Mod 02.5, Mod 03.5, and so on. Titles that were only an id now come from the book. A test page that only said Test Alpha is named from the lessons beside it. A lesson is listed once.",
   "lessons": [
     {
       "id": "93950101",
@@ -5231,731 +5231,731 @@
     },
     {
       "id": "93950198",
-      "title": "Pre-test 93950198",
+      "title": "Basic Math Pre-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 44 Basic Mathematics"
     },
     {
       "id": "93950199",
-      "title": "Post-test 93950199",
+      "title": "Basic Math Post-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 44 Basic Mathematics"
     },
     {
       "id": "93950298",
-      "title": "Pre-test 93950298",
+      "title": "Algebra Pre-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 45 Algebra"
     },
     {
       "id": "93950299",
-      "title": "Post-test 93950299",
+      "title": "Algebra Post-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 45 Algebra"
     },
     {
       "id": "93950398",
-      "title": "Pre-test 93950398",
+      "title": "Trigonometry Pre-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 46 Trigonometry"
     },
     {
       "id": "93950399",
-      "title": "Post-test 93950399",
+      "title": "Trigonometry Post-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 46 Trigonometry"
     },
     {
       "id": "93950498",
-      "title": "Pre-test 93950498",
+      "title": "Calculus Pre-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 47 Calculus"
     },
     {
       "id": "93950499",
-      "title": "Post-test 93950499",
+      "title": "Calculus Post-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 47 Calculus"
     },
     {
       "id": "93950598",
-      "title": "Pre-test 93950598",
+      "title": "Computer Math Pre-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 48 Computer Math"
     },
     {
       "id": "93950599",
-      "title": "Post-test 93950599",
+      "title": "Computer Math Post-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 48 Computer Math"
     },
     {
       "id": "93950698",
-      "title": "Pre-test 93950698",
+      "title": "Measurements Pre-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 49 Measurements"
     },
     {
       "id": "93950699",
-      "title": "Post-test 93950699",
+      "title": "Measurements Post-Test",
       "place": "ungrouped",
       "group": "Math",
       "module": "Mod 49 Measurements"
     },
     {
       "id": "93951607",
-      "title": "93951607",
+      "title": "Conductors, Insulators and Semiconductors",
       "place": "ungrouped",
       "group": "DC Circuits",
       "module": "Mod 06 Wiring"
     },
     {
       "id": "93955101",
-      "title": "93955101",
+      "title": "Introduction to Rotating Machinery",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955103",
-      "title": "93955103",
+      "title": "Rotating Machinery Trainer Familiarization",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955104",
-      "title": "93955104",
+      "title": "Rotating Machinery Trainer Alignment",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955198",
-      "title": "Pre-test 93955198",
+      "title": "Rotating Machinery Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955199",
-      "title": "Post-test 93955199",
+      "title": "Rotating Machinery Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955201",
-      "title": "93955201",
+      "title": "DC Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955202",
-      "title": "93955202",
+      "title": "DC Shunt Field Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955203",
-      "title": "93955203",
+      "title": "DC Series Field Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955204",
-      "title": "93955204",
+      "title": "DC Compound Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955205",
-      "title": "93955205",
+      "title": "Time Control of DC Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955206",
-      "title": "93955206",
+      "title": "Feedback Control of DC Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955207",
-      "title": "93955207",
+      "title": "Closed Loop Feedback Control of DC Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955208",
-      "title": "93955208",
+      "title": "Troubleshooting Closed Loop Feedback Systems",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955209",
-      "title": "93955209",
+      "title": "Amplitude Control of DC Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955299",
-      "title": "Post-test 93955299",
+      "title": "DC Motors Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955301",
-      "title": "93955301",
+      "title": "Three Phase Power",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955302",
-      "title": "93955302",
+      "title": "AC Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955303",
-      "title": "93955303",
+      "title": "AC Motors Characteristics",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955399",
-      "title": "Post-test 93955399",
+      "title": "AC Motors Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955401",
-      "title": "93955401",
+      "title": "Stepper Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955402",
-      "title": "93955402",
+      "title": "Stepper Controllers",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955499",
-      "title": "Post-test 93955499",
+      "title": "Stepper Motors Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955501",
-      "title": "93955501",
+      "title": "Generators",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955502",
-      "title": "93955502",
+      "title": "Motor Generators",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955503",
-      "title": "93955503",
+      "title": "AC Motors and Generators",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93955599",
-      "title": "Post-test 93955599",
+      "title": "Generators Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 32.5 Rotating Machinery"
     },
     {
       "id": "93957198",
-      "title": "Pre-test 93957198",
+      "title": "Transducers Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 42 Transducer Systems"
     },
     {
       "id": "93957199",
-      "title": "Post-test 93957199",
+      "title": "Light/Heat Transducers Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 42 Transducer Systems"
     },
     {
       "id": "93957299",
-      "title": "Post-test 93957299",
+      "title": "Motion/Position Transducers Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 42 Transducer Systems"
     },
     {
       "id": "93958198",
-      "title": "Pre-test 93958198",
+      "title": "Microwave Pre-Test",
       "place": "ungrouped",
       "group": "Analog Circuits",
       "module": "Mod 23.5 Microwave"
     },
     {
       "id": "93958199",
-      "title": "Post-test 93958199",
+      "title": "Microwave Post-Test",
       "place": "ungrouped",
       "group": "Analog Circuits",
       "module": "Mod 23.5 Microwave"
     },
     {
       "id": "9395A298",
-      "title": "Pre-test 9395A298",
+      "title": "Basic Fiber Optics Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 38 Fiber Optics"
     },
     {
       "id": "9395A299",
-      "title": "Post-test 9395A299",
+      "title": "Basic Fiber Optics Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 38 Fiber Optics"
     },
     {
       "id": "9395B198",
-      "title": "Pre-test 9395B198",
+      "title": "Signal Processing Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37.2 Introduction to Signal Processing"
     },
     {
       "id": "9395B199",
-      "title": "Post-test 9395B199",
+      "title": "Introduction to Signal Processing Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37.2 Introduction to Signal Processing"
     },
     {
       "id": "9395B299",
-      "title": "Post-test 9395B299",
+      "title": "AM/FM Circuits Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37.4 AM and FM Circuits"
     },
     {
       "id": "9395B399",
-      "title": "Post-test 9395B399",
+      "title": "Modulation Techniques Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37.6 Modulation Techniques"
     },
     {
       "id": "9395B499",
-      "title": "Post-test 9395B499",
+      "title": "Multiplexing Techniques Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37.8 Multiplexing Techniques"
     },
     {
       "id": "9395P201",
-      "title": "9395P201",
+      "title": "Introduction to the Internet",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395P202",
-      "title": "9395P202",
+      "title": "Internet Requirements & Options",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395P203",
-      "title": "9395P203",
+      "title": "The World Wide Web",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395P204",
-      "title": "9395P204",
+      "title": "FTP and Telnet",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395P205",
-      "title": "9395P205",
+      "title": "E-Mail & Internet Relay Chat (IRC)",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395P206",
-      "title": "9395P206",
+      "title": "Internet Utilities",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395P207",
-      "title": "9395P207",
+      "title": "Creating Your Own Web Page",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395P309",
-      "title": "9395P309",
+      "title": "Applications",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 39.5 Computer and Network"
     },
     {
       "id": "9395T311",
-      "title": "9395T311",
+      "title": "DC Series Field Motors",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 33.5 Motors and Synchros"
     },
     {
       "id": "9395T398",
-      "title": "Pre-test 9395T398",
+      "title": "Motors Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 33.5 Motors and Synchros"
     },
     {
       "id": "9395T399",
-      "title": "Post-test 9395T399",
+      "title": "Motors Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 33.5 Motors and Synchros"
     },
     {
       "id": "9395T620",
-      "title": "9395T620",
+      "title": "Training Equipment Familiarization",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 41 Basic Telephone Systems"
     },
     {
       "id": "9395T621",
-      "title": "9395T621",
+      "title": "Multimeter Use",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 41 Basic Telephone Systems"
     },
     {
       "id": "9395T622",
-      "title": "9395T622",
+      "title": "Telephone Equipment",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 41 Basic Telephone Systems"
     },
     {
       "id": "9395T698",
-      "title": "Pre-test 9395T698",
+      "title": "Telephone Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 41 Basic Telephone Systems"
     },
     {
       "id": "9395T819",
-      "title": "9395T819",
+      "title": "68000 Microprocessor Circuits Test",
       "place": "ungrouped",
       "group": "Digital Circuits",
       "module": "Mod 30.5 68000 Microprocessor"
     },
     {
       "id": "9395T829",
-      "title": "9395T829",
+      "title": "Microprocessors Test",
       "place": "ungrouped",
       "group": "Digital Circuits",
       "module": "Mod 31 Microprocessor Circuits"
     },
     {
       "id": "9395T839",
-      "title": "9395T839",
+      "title": "8085 Microprocessor Circuits Test",
       "place": "ungrouped",
       "group": "Digital Circuits",
       "module": "Mod 31 Microprocessor Circuits"
     },
     {
       "id": "9395T849",
-      "title": "9395T849",
+      "title": "8086 Microprocessor Circuit Test",
       "place": "ungrouped",
       "group": "Digital Circuits",
       "module": "Mod 31.5 8086 Microprocessor"
     },
     {
       "id": "9395T859",
-      "title": "9395T859",
+      "title": "8051 Microcontroller Test",
       "place": "ungrouped",
       "group": "Digital Circuits",
       "module": "Mod 31.6 8051 Microcontroller"
     },
     {
       "id": "9395T898",
-      "title": "Pre-test 9395T898",
+      "title": "Microprocessors Pre-Test",
       "place": "ungrouped",
       "group": "Digital Circuits",
       "module": "Mod 30.5 68000 Microprocessor"
     },
     {
       "id": "9395T998",
-      "title": "Pre-test 9395T998",
+      "title": "Communications Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37 Communications Systems"
     },
     {
       "id": "9395T999",
-      "title": "Post-test 9395T999",
+      "title": "Communications Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37 Communications Systems"
     },
     {
       "id": "9395TC99",
-      "title": "Post-test 9395TC99",
+      "title": "Hydraulic and Pneumatic Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 40 Hydraulic/Pneumatic Systems"
     },
     {
       "id": "9395TD99",
-      "title": "Post-test 9395TD99",
+      "title": "Radar Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 36 Basic Radar Systems"
     },
     {
       "id": "9395Z198",
-      "title": "Pre-test 9395Z198",
+      "title": "Avionics Pre-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 35.6 Avionics Operational Systems"
     },
     {
       "id": "9395Z199",
-      "title": "Post-test 9395Z199",
+      "title": "Operational Systems Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 35.6 Avionics Operational Systems"
     },
     {
       "id": "9395Z299",
-      "title": "Post-test 9395Z299",
+      "title": "Electrical Systems Post-Test",
       "place": "ungrouped",
       "group": "Analog Circuits",
       "module": "Mod 17.6 Avionics Electrical Systems"
     },
     {
       "id": "9395Z399",
-      "title": "Post-test 9395Z399",
+      "title": "Aircraft Systems Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 36.5 Warning Systems"
     },
     {
       "id": "9395Z499",
-      "title": "Post-test 9395Z499",
+      "title": "Data Communications Post-Test",
       "place": "ungrouped",
       "group": "Advanced Electronics",
       "module": "Mod 37.9 Data Communications"
     },
     {
       "id": "9395Z601",
-      "title": "9395Z601",
+      "title": "Introduction to Aviation Technology",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z602",
-      "title": "9395Z602",
+      "title": "General Aircraft Principles",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z603",
-      "title": "9395Z603",
+      "title": "Aircraft Structures",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z604",
-      "title": "9395Z604",
+      "title": "Aircraft Powerplants",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z605",
-      "title": "9395Z605",
+      "title": "Basic Aircraft Systems Troubleshooting",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z611",
-      "title": "9395Z611",
+      "title": "Aeronautical Regulatory Publications",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z614",
-      "title": "9395Z614",
+      "title": "Aircraft Drawings",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z622",
-      "title": "9395Z622",
+      "title": "Flight Line Safety",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 35.4 Aviation Technology"
     },
     {
       "id": "9395Z812",
-      "title": "9395Z812",
+      "title": "Tachometer, Torque and Position Indicating Systems",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 42.5 Aircraft Instruments"
     },
     {
       "id": "9395Z813",
-      "title": "9395Z813",
+      "title": "Temperature and Fuel Flow Instrumentation",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 42.5 Aircraft Instruments"
     },
     {
       "id": "9395Z814",
-      "title": "9395Z814",
+      "title": "Pressure Sensing and Chip Detection Instruments",
       "place": "ungrouped",
-      "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "group": "Advanced Electronics",
+      "module": "Mod 42.5 Aircraft Instruments"
     },
     {
       "id": "9395Z821",
-      "title": "9395Z821",
+      "title": "Aircraft Batteries",
       "place": "ungrouped",
       "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "module": "Mod 17.8 Aircraft Electrical Power"
     },
     {
       "id": "9395Z822",
-      "title": "9395Z822",
+      "title": "Aircraft DC Generation Systems",
       "place": "ungrouped",
       "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "module": "Mod 17.8 Aircraft Electrical Power"
     },
     {
       "id": "9395Z823",
-      "title": "9395Z823",
+      "title": "Aircraft AC Generation Systems",
       "place": "ungrouped",
       "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "module": "Mod 17.8 Aircraft Electrical Power"
     },
     {
       "id": "9395Z824",
-      "title": "9395Z824",
+      "title": "Multi-Engine Aircraft Power Distribution Systems",
       "place": "ungrouped",
       "group": "Analog Circuits",
-      "module": "Mod 17.7 Power"
+      "module": "Mod 17.8 Aircraft Electrical Power"
     },
     {
       "id": "9E954D01",
-      "title": "9E954D01",
+      "title": "Logic Families",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     },
     {
       "id": "9E954D02",
-      "title": "9E954D02",
+      "title": "Introduction to Integrated Circuits",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     },
     {
       "id": "9E954D04",
-      "title": "9E954D04",
+      "title": "Introduction to Flip-Flops",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     },
     {
       "id": "9E954D05",
-      "title": "9E954D05",
+      "title": "RS Flip-Flop",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     },
     {
       "id": "9E954D06",
-      "title": "9E954D06",
+      "title": "Clocked RS Flip-Flop",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     },
     {
       "id": "9E954D07",
-      "title": "9E954D07",
+      "title": "Type D Flip-Flop",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     },
     {
       "id": "9E954D08",
-      "title": "9E954D08",
+      "title": "JK Flip-Flops",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     },
     {
       "id": "9E954D09",
-      "title": "9E954D09",
+      "title": "Flip-Flop Timing and Synchronization",
       "place": "ungrouped",
       "group": "Digital Circuits",
-      "module": "Mod 24.8 Digital"
+      "module": "Mod 24.8 Logic Families and Flip-Flops"
     }
   ]
 }
