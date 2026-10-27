@@ -1,0 +1,11 @@
+# The ToolBook originals. The course is the .fbk and .fsk exports.
+original/
+*.tbk
+*.sbk
+*.dll
+
+# A .json beside a book is a working copy, not the course.
+courses/*.json
+
+# Live student records.
+_student/
