@@ -15,7 +15,7 @@ Not affiliated with NIDA, Asymetrix, Click2learn, or SumTotal.
 | `nc81trnr.fsk` | Trainer functions, including `initializeTrnr`. |
 | `nc81bank.fsk` | Question-bank functions, including `initializeBank`. The export may name this `NC81BANK.fsk`. |
 | `_curriculum/nida.curriculum.json` | The master list. 717 lessons: the nine programs, the rating-only lessons, and the 104 books neither menu named. |
-| `_curriculum/master.xml` | The whole disk as one menu. A subject appears once. DC Circuits is one subject, not one per rating. |
+| `_curriculum/master.xml` | The whole disk on the seven ATT subjects. Extra units are inserted as Mod 02.5, Mod 03.5, and so on, so the modules still run in order. |
 | `_curriculum/programs/` | The nine programs in `nida.programs.xml`, with `nida.curriculum.json`. 527 lessons. There is no menu per program. |
 | `_curriculum/ratings/` | One menu per rating. The rating name is not a column. Subjects, then modules, then courses. |
 | `_curriculum/index.json` | The file names and the counts. |
