@@ -72,19 +72,19 @@ The lessons on the curriculum you named count toward the overall. A rating menu 
 
 ## Download
 
-One zip for each system. That is the file a person downloads from this repo and opens. Foolcourse is inside it, already pointed at these books. There is nothing else to install and no second download.
+Release v1.0.0 has three kinds of file.
+
+The books are `NIDA_ATT-1.0.0-content.zip`. That zip is only the books, the shell, and the curriculum.
+
+The program is one zip per system: `NIDA_ATT-1.0.0-windows-x64.zip`, `linux-x64`, `linux-arm64`, `macos-arm64`, and `macos-x64`. Those do not contain the books.
+
+The file to run on Windows is `NIDA_ATT-1.0.0-setup.exe`. It downloads the books and the Windows program from that release and puts them in a `NIDA_ATT` folder next to the setup program. Open `NIDA_ATT.exe` in that folder.
 
 ```bash
 cd ~/FU/NIDA_ATT
-python3 pack/build.py linux-x64
-python3 pack/build.py windows-x64
+python3 pack/build.py all
+python3 pack/build.py publish
 ```
-
-The file is `dist/NIDA_ATT-<foolcourse version>-<system>.zip`. Unzip the whole folder. Do not run it from inside the zip. Windows starts with `NIDA_ATT.exe`. Linux starts with `NIDA_ATT`. Mac starts with `NIDA_ATT.app`.
-
-The list it opens is the master. `nida81.fbk` and the `nc81` files are in that same folder, one level above `courses/`.
-
-`python3 pack/build.py content` writes `dist/NIDA_ATT-content.zip`, which is only the books. That is for a Foolcourse that is already installed. It is not the download for a new person.
 
 A Foolcourse checkout has to be next to this one, or `FOOLCOURSE` has to name it. The build also needs Foolbook and openscript_analysis next to that checkout. If either is missing, this build clones it. Building a system downloads Python the first time. Later builds can reuse the folder.
 

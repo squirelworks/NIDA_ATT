@@ -24,6 +24,10 @@ ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
 LAUNCHERS = ROOT / "pack" / "launchers"
 LAUNCHER_SRC = ROOT / "pack" / "launcher"
+SETUPS = ROOT / "pack" / "setups"
+SETUP_SRC = ROOT / "pack" / "setup"
+VERSION = "1.0.0"
+REPO = "squirelworks/NIDA_ATT"
 
 SYSTEMS = ("windows-x64", "linux-x64", "linux-arm64", "macos-arm64", "macos-x64")
 
@@ -181,6 +185,53 @@ def ensure_launcher(key: str) -> Path:
     return dest
 
 
+def ensure_setup(key: str) -> Path:
+    """The small program that downloads a system build and the books."""
+    name = "NIDA_ATT-setup.exe" if key.startswith("windows") else "NIDA_ATT-setup"
+    dest = SETUPS / key / name
+    if dest.is_file():
+        return dest
+    go = _go()
+    if not go:
+        raise SystemExit(f"missing {dest}. Install Go and run this again so it can be built.")
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    goos, goarch = {
+        "windows-x64": ("windows", "amd64"),
+        "linux-x64": ("linux", "amd64"),
+        "linux-arm64": ("linux", "arm64"),
+        "macos-arm64": ("darwin", "arm64"),
+        "macos-x64": ("darwin", "amd64"),
+    }[key]
+    env = os.environ.copy()
+    env["CGO_ENABLED"] = "0"
+    env["GOOS"] = goos
+    env["GOARCH"] = goarch
+    subprocess.check_call(
+        [go, "build", "-ldflags", "-s -w", "-o", str(dest), "."],
+        cwd=SETUP_SRC,
+        env=env,
+    )
+    return dest
+
+
+def build_setups() -> list[Path]:
+    DIST.mkdir(parents=True, exist_ok=True)
+    written = []
+    for key in SYSTEMS:
+        binary = ensure_setup(key)
+        if key.startswith("windows"):
+            name = f"NIDA_ATT-{VERSION}-setup.exe"
+        else:
+            name = f"NIDA_ATT-{VERSION}-setup-{key}"
+        dest = DIST / name
+        shutil.copy2(binary, dest)
+        if not key.startswith("windows"):
+            _mark_executable(dest)
+        print(f"wrote {dest}", flush=True)
+        written.append(dest)
+    return written
+
+
 def _mark_executable(path: Path) -> None:
     path.chmod(path.stat().st_mode | stat.S_IEXEC | stat.S_IXGRP | stat.S_IXOTH)
 
@@ -246,32 +297,25 @@ def install_launcher(key: str, dest: Path) -> None:
 
 def start_text(key: str) -> str:
     body = (
-        "This is the NIDA course.\n\n"
-        "Unzip this whole folder. Do not run it from inside the zip.\n\n"
+        "This is the NIDA_ATT program. The books are not in this zip.\n\n"
+        "On Windows, run NIDA_ATT-1.0.0-setup.exe from the same release.\n"
+        "It downloads this program and the books, then puts them in one folder.\n\n"
+        "To put them together yourself, unzip the content zip into this folder.\n"
+        "nida81.fbk stays one level above courses.\n\n"
     )
     if key.startswith("windows"):
-        body += "Double-click NIDA_ATT.exe.\n"
+        body += "The program starts with NIDA_ATT.exe.\n"
     elif key.startswith("macos"):
-        body += (
-            "Double-click NIDA_ATT.app.\n"
-            "If macOS says it cannot be opened, right-click NIDA_ATT.app, choose Open, "
-            "then Open again. This copy is not signed with Apple.\n"
-            "A terminal in this folder can run ./NIDA_ATT instead.\n"
-        )
+        body += "The program starts with NIDA_ATT.app.\n"
     else:
-        body += "Double-click NIDA_ATT, or in a terminal run: ./NIDA_ATT\n"
-    body += "\nIf the window does not open, read NIDA_ATT.log in this folder.\n"
+        body += "The program starts with NIDA_ATT.\n"
     return body
 
 
-CONTENT_START = """This folder is only the books, the shell, and the curriculum.
+CONTENT_START = """This zip is the books, the shell, and the curriculum. There is no program in it.
 
-It is not the download for a new person. That download is one zip for
-their system, and Foolcourse is already in it.
-
-A Foolcourse you already have can use this folder. Point it at courses
-and at _curriculum/nida.curriculum.json with _curriculum/nida.xml.
-nida81.fbk stays in this folder, one level above courses.
+NIDA_ATT-1.0.0-setup.exe downloads this file. If you already have the program,
+unzip this into that folder. nida81.fbk stays one level above courses.
 """
 
 
@@ -287,7 +331,7 @@ def assemble_content(dest: Path, course: Path) -> None:
 
 
 def assemble(program: Path, dest: Path, key: str) -> None:
-    """One folder. Foolcourse, the books, the shell, and the curriculum."""
+    """The program for one system. The books stay in the content zip."""
     if not program.is_dir():
         raise SystemExit(f"no Foolcourse folder: {program}")
     if dest.exists():
@@ -302,9 +346,6 @@ def assemble(program: Path, dest: Path, key: str) -> None:
         if script.is_file():
             script.unlink()
     install_launcher(key, dest)
-    install_curriculum(ROOT, dest)
-    install_courses(ROOT, dest)
-    install_shell(ROOT, dest)
     _write(dest / "START.txt", start_text(key), crlf=key.startswith("windows"))
 
 
@@ -318,12 +359,12 @@ def zip_release(folder: Path) -> Path:
     return archive
 
 
-def release_folder(version: str, key: str) -> Path:
-    return DIST / f"NIDA_ATT-{version}-{key}"
+def release_folder(key: str) -> Path:
+    return DIST / f"NIDA_ATT-{VERSION}-{key}"
 
 
-def content_folder() -> Path:
-    return DIST / "NIDA_ATT-content"
+def content_archive() -> Path:
+    return DIST / f"NIDA_ATT-{VERSION}-content.zip"
 
 
 def zip_named(folder: Path, archive: Path) -> Path:
@@ -333,6 +374,42 @@ def zip_named(folder: Path, archive: Path) -> Path:
     shutil.make_archive(str(archive.with_suffix("")), "zip", folder.parent, folder.name)
     print(f"wrote {archive} ({archive.stat().st_size} bytes)", flush=True)
     return archive
+
+
+def publish() -> None:
+    """Upload the zips in dist to the v1.0.0 GitHub release."""
+    files = []
+    content = content_archive()
+    if content.is_file():
+        files.append(content)
+    for key in SYSTEMS:
+        archive = release_folder(key).with_suffix(".zip")
+        if archive.is_file():
+            files.append(archive)
+    files.extend(path for path in sorted(DIST.glob(f"NIDA_ATT-{VERSION}-setup*")) if path.is_file())
+    if not files:
+        raise SystemExit(f"nothing in {DIST} to publish")
+    notes = """The books, the program for each system, and the Windows setup.
+
+Run NIDA_ATT-1.0.0-setup.exe. It downloads the books and the Windows program from this release and puts them in one folder next to the setup program. Open NIDA_ATT.exe in that folder.
+
+NIDA_ATT-1.0.0-content.zip is the books by themselves.
+The other zips are the program for one system. They do not contain the books.
+"""
+    tag = f"v{VERSION}"
+    view = subprocess.run(
+        ["gh", "release", "view", tag, "--repo", REPO],
+        capture_output=True,
+        text=True,
+    )
+    if view.returncode != 0:
+        subprocess.check_call(
+            ["gh", "release", "create", tag, "--repo", REPO, "--title", f"NIDA_ATT {VERSION}", "--notes", notes]
+        )
+    subprocess.check_call(
+        ["gh", "release", "upload", tag, "--repo", REPO, "--clobber", *[str(path) for path in files]]
+    )
+    print(f"published {tag}", flush=True)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -346,42 +423,45 @@ def main(argv: list[str] | None = None) -> int:
         del args[index : index + 2]
     zipping = "--zip" in args
     args = [item for item in args if item != "--zip"]
+    known = set(SYSTEMS) | {"all", "content", "setup", "publish"}
     if not args and program is None:
         raise SystemExit(
-            "name what to build: content, "
+            "name what to build: content, setup, publish, "
             + ", ".join(SYSTEMS)
-            + "\n  or: python3 pack/build.py --from <Foolcourse-folder>"
         )
+    if program is None:
+        unknown = [item for item in args if item not in known]
+        if unknown:
+            raise SystemExit(f"unknown: {', '.join(unknown)}. known: {', '.join(sorted(known))}")
     want_content = False
+    want_setup = False
+    want_publish = False
     if program is not None:
-        version, key = split_program_name(program)
-        keys = [(key, version, program)]
+        _version, key = split_program_name(program)
+        keys = [(key, program)]
         if args and args != [key]:
             raise SystemExit(f"--from is a {key} folder")
     else:
-        unknown = [item for item in args if item not in SYSTEMS and item not in ("all", "content")]
-        if unknown:
-            raise SystemExit(f"unknown: {', '.join(unknown)}. known: content, {', '.join(SYSTEMS)}")
+        want_publish = "publish" in args
+        want_setup = "setup" in args or args == ["all"]
         want_content = "content" in args or args == ["all"]
         wanted = list(SYSTEMS) if args == ["all"] else [item for item in args if item in SYSTEMS]
-        version = ""
         keys = []
         if wanted:
             foolcourse = find_foolcourse()
-            version = foolcourse_version(foolcourse)
             if not zipping:
                 for key in wanted:
-                    keys.append((key, version, build_program(foolcourse, key)))
+                    keys.append((key, build_program(foolcourse, key)))
             else:
-                keys = [(key, version, None) for key in wanted]
+                keys = [(key, None) for key in wanted]
     if want_content:
-        folder = content_folder()
+        folder = DIST / f"NIDA_ATT-{VERSION}-content"
         if not zipping or not folder.is_dir():
             print(f"filling {folder.name}", flush=True)
             assemble_content(folder, ROOT)
-        zip_named(folder, DIST / "NIDA_ATT-content.zip")
-    for key, version, source in keys:
-        folder = release_folder(version, key)
+        zip_named(folder, content_archive())
+    for key, source in keys:
+        folder = release_folder(key)
         if zipping and source is None:
             if not folder.is_dir():
                 raise SystemExit(f"no folder to zip: {folder}")
@@ -390,6 +470,10 @@ def main(argv: list[str] | None = None) -> int:
         print(f"filling {folder.name}", flush=True)
         assemble(source, folder, key)
         zip_release(folder)
+    if want_setup:
+        build_setups()
+    if want_publish:
+        publish()
     return 0
 
 

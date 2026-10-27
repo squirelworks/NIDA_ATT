@@ -1,4 +1,4 @@
-"""One system zip is the whole course. The content zip is only the books."""
+"""The content zip is the books. A system zip is the program without them."""
 
 import importlib.util
 import stat
@@ -47,38 +47,29 @@ def _program(path: Path) -> None:
 
 
 class BuildTests(unittest.TestCase):
-    def test_one_download_contains_the_books(self):
+    def test_the_program_zip_does_not_carry_the_books(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             course = root / "course"
             program = root / "Foolcourse-1.0-linux-x64"
             _course(course)
             _program(program)
-            content = root / "NIDA_ATT-content"
+            content = root / "NIDA_ATT-1.0.0-content"
             play = root / "play"
-            build.ROOT = course
-            try:
-                build.assemble_content(content, course)
-                build.assemble(program, play, "linux-x64")
-            finally:
-                build.ROOT = ROOT
+            build.assemble_content(content, course)
+            build.assemble(program, play, "linux-x64")
             self.assertTrue((content / "courses" / "93950101.fbk").is_file())
             self.assertFalse((content / "courses" / "__PUT_COURSES_HERE__").exists())
             self.assertTrue((content / "nida81.fbk").is_file())
             self.assertEqual((content / "_curriculum" / "nida.xml").read_text(encoding="utf-8"), "<Document/>\n")
             self.assertFalse((content / "NIDA_ATT").exists())
-            self.assertTrue((play / "courses" / "93950101.fbk").is_file())
-            self.assertTrue((play / "nida81.fbk").is_file())
-            self.assertTrue((play / "_curriculum" / "nida.curriculum.json").is_file())
-            self.assertEqual((play / "_curriculum" / "nida.xml").read_text(encoding="utf-8"), "<Document/>\n")
+            self.assertFalse((play / "courses").exists())
+            self.assertFalse((play / "nida81.fbk").exists())
+            self.assertFalse((play / "_curriculum").exists())
             self.assertFalse((play / "Foolcourse.bat").exists())
             self.assertTrue((play / "NIDA_ATT").is_file())
-            self.assertNotIn("other download", (play / "START.txt").read_text(encoding="utf-8"))
-            self.assertIn("not the download", (content / "START.txt").read_text(encoding="utf-8"))
-            subprocess.check_call([str(play / "NIDA_ATT")], cwd=play)
-            started = (play / "started.txt").read_text(encoding="utf-8")
-            self.assertIn(f"HOME={play}", started)
-            self.assertIn(f"PY={play / 'app'}", started)
+            self.assertIn("books are not in this zip", (play / "START.txt").read_text(encoding="utf-8"))
+            self.assertIn("no program in it", (content / "START.txt").read_text(encoding="utf-8"))
 
     def test_launcher_uses_the_content_folder_beside_it(self):
         launcher = ROOT / "pack" / "launchers" / "linux-x64" / "NIDA_ATT"
