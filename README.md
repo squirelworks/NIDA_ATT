@@ -14,12 +14,13 @@ Not affiliated with NIDA, Asymetrix, Click2learn, or SumTotal.
 | `nc81test.fsk` | Quiz functions, including `initializeTest`. |
 | `nc81trnr.fsk` | Trainer functions, including `initializeTrnr`. |
 | `nc81bank.fsk` | Question-bank functions, including `initializeBank`. The export may name this `NC81BANK.fsk`. |
-| `_curriculum/nida.curriculum.json` | The master list. 717 lessons: the nine programs, the rating-only lessons, and the 104 books neither menu named. |
-| `_curriculum/master.xml` | The whole disk on the seven ATT subjects. Extra units are inserted as Mod 02.5, Mod 03.5, and so on, so the modules still run in order. |
+| `_curriculum/nida.curriculum.json` | The master list. The 611 lessons that have a book in `courses/`. |
+| `_curriculum/master.xml` | Those 611 books on the seven ATT subjects. Module numbers match the full map, including Mod 02.5 and the rest. |
 | `_curriculum/programs/` | The nine programs in `nida.programs.xml`, with `nida.curriculum.json`. 527 lessons. There is no menu per program. |
 | `_curriculum/ratings/` | One menu per rating. The rating name is not a column. Subjects, then modules, then courses. |
 | `_curriculum/index.json` | The file names and the counts. |
-| `_curriculum/titles.json` | Every lesson id, the title the master uses, and the other wording when the two menus disagree. |
+| `_curriculum/titles.json` | The lesson ids on the master, the title the master uses, and the other wording when the two menus disagree. |
+| `_inferred/` | The full placement of the 717 official lessons, including the 106 with no book in this repo. |
 | `courses/` | The lesson `.fbk` files, flat. `__PUT_COURSES_HERE__` marks the folder. |
 
 The original `.tbk`, `.sbk`, and `.dll` files are not part of the course.
@@ -50,7 +51,7 @@ cd ~/FU/Foolcourse
   --curriculum ~/FU/NIDA_ATT/_curriculum/programs/nida.curriculum.json
 ```
 
-The whole disk, programs and ratings and the 104 books neither menu named:
+The books in this repo. Placement comes from the full map, and a lesson is listed only when its `.fbk` is in `courses/`:
 
 ```bash
 cd ~/FU/Foolcourse
@@ -67,4 +68,4 @@ One program, or one rating. `index.json` has the file names.
   --xml ~/FU/NIDA_ATT/_curriculum/ratings/em.xml
 ```
 
-The lessons on the curriculum you named count toward the overall. A rating menu starts at the subjects, because you already chose the rating. A lesson that is on more than one program counts once. On the whole-disk menu, a subject is listed once. A Foolcourse release is still the empty program.
+The lessons on the curriculum you named count toward the overall. A rating menu starts at the subjects, because you already chose the rating. A lesson that is on more than one program counts once. On the master, a subject is listed once. Ratings and programs still name every lesson on those disks, including ones that are not in `courses/`. The full placement of all 717, present or not, is in `_inferred/`. A Foolcourse release is still the empty program.

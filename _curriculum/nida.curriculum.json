@@ -59,51 +59,6 @@
     "93950606",
     "93950607",
     "93950608",
-    "9395L101",
-    "9395L102",
-    "9395L103",
-    "9395L104",
-    "9395L105",
-    "9395L106",
-    "9395L107",
-    "9395L108",
-    "9395L109",
-    "9395L110",
-    "9395L201",
-    "9395L202",
-    "9395L203",
-    "9395L204",
-    "9395L205",
-    "9395L301",
-    "9395L302",
-    "9395L303",
-    "9395L304",
-    "9395L305",
-    "9395L306",
-    "9395L401",
-    "9395L402",
-    "9395L403",
-    "9395L404",
-    "9395L405",
-    "9395L406",
-    "9395L407",
-    "9395L408",
-    "9395L501",
-    "9395L502",
-    "9395L503",
-    "9395L504",
-    "9395L505",
-    "9395L506",
-    "9395L507",
-    "9395L508",
-    "9395L601",
-    "9395L602",
-    "9395L603",
-    "9395L604",
-    "9395L605",
-    "9395L606",
-    "9395L701",
-    "9395L801",
     "93951100",
     "93951101",
     "93951102",
@@ -216,30 +171,6 @@
     "93954602",
     "93954603",
     "93954605",
-    "93954A01",
-    "93954A02",
-    "93954A03",
-    "93954B01",
-    "93954B02",
-    "93954B03",
-    "93954B04",
-    "93954B05",
-    "93954B06",
-    "93954C01",
-    "93954C02",
-    "93954C03",
-    "93954C04",
-    "93954C05",
-    "93954D01",
-    "93954D02",
-    "93954D03",
-    "93954D04",
-    "93954E01",
-    "93954E02",
-    "93954E03",
-    "93954F01",
-    "93954F02",
-    "93954F03",
     "93951305",
     "93951308",
     "93951309",
@@ -367,29 +298,6 @@
     "9395T910",
     "9395T913",
     "9395T915",
-    "93956101",
-    "93956102",
-    "93956103",
-    "93956104",
-    "93956105",
-    "93956201",
-    "93956202",
-    "93956203",
-    "93956204",
-    "93956205",
-    "93956206",
-    "93956301",
-    "93956302",
-    "93956303",
-    "93956304",
-    "93956305",
-    "9395C101",
-    "9395C102",
-    "9395C103",
-    "9395C104",
-    "9395C105",
-    "9395C106",
-    "9395C107",
     "9395Z101",
     "9395Z102",
     "9395Z103",
@@ -490,7 +398,6 @@
     "9395N102",
     "9395N103",
     "9395N104",
-    "9395N100",
     "9395N200",
     "9395N201",
     "9395N202",
@@ -503,11 +410,6 @@
     "9395N209",
     "9395N210",
     "9395N211",
-    "9395N301",
-    "9395N302",
-    "9395N303",
-    "9395N304",
-    "9395N305",
     "9395TC01",
     "9395TC02",
     "9395T841",
@@ -604,17 +506,9 @@
     "9395T607",
     "9395T608",
     "9395D801",
-    "9395D802",
-    "9395D803",
-    "9395D804",
-    "9395D805",
-    "9395D806",
-    "9395D807",
     "9395D808",
     "9395D809",
     "9395D810",
-    "9395D811",
-    "9395D812",
     "93950198",
     "93950199",
     "93950298",
@@ -722,7 +616,7 @@
   ],
   "extras": [],
   "root": "courses",
-  "notes": "717 lessons on the seven ATT subjects. A unit that was not on the ATT disk is inserted as Mod 02.5, Mod 03.5, and so on. Titles that were only an id now come from the book. A test page that only said Test Alpha is named from the lessons beside it. A lesson is listed once.",
+  "notes": "611 lessons that have a book in courses/. Same seven ATT subjects and the same module numbers as the full map in _inferred/. A unit that was not on the ATT disk is inserted as Mod 02.5, Mod 03.5, and so on. 106 lessons from that map have no book here and are left out. Titles that were only an id come from the book. A test page that only said Test Alpha is named from the lessons beside it. A lesson is listed once.",
   "lessons": [
     {
       "id": "93950101",
@@ -1137,321 +1031,6 @@
       "place": "program",
       "group": "Math",
       "module": "Mod 49 Measurements"
-    },
-    {
-      "id": "9395L101",
-      "title": "Introduction to Automotive",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L102",
-      "title": "Electrical Systems",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L103",
-      "title": "Charging & Ignition",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L104",
-      "title": "Fuel Systems",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L105",
-      "title": "Engines",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L106",
-      "title": "Cooling Systems",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L107",
-      "title": "Hydraulics",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L108",
-      "title": "Air Conditioning",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L109",
-      "title": "Drive Line & Suspension",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L110",
-      "title": "Body Design",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 01.5 Introduction to Vehicle Technology"
-    },
-    {
-      "id": "9395L201",
-      "title": "Introduction and Safety",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 02.5 Introduction to Automotive Electricity"
-    },
-    {
-      "id": "9395L202",
-      "title": "Training Equipment Familiarization",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 02.5 Introduction to Automotive Electricity"
-    },
-    {
-      "id": "9395L203",
-      "title": "Metric Notation",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 02.5 Introduction to Automotive Electricity"
-    },
-    {
-      "id": "9395L204",
-      "title": "Voltage, Current and Resistance",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 02.5 Introduction to Automotive Electricity"
-    },
-    {
-      "id": "9395L205",
-      "title": "Switches and Protective Devices",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 02.5 Introduction to Automotive Electricity"
-    },
-    {
-      "id": "9395L301",
-      "title": "Introduction to Multimeters",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 03.5 Automotive Test Equipment"
-    },
-    {
-      "id": "9395L302",
-      "title": "Multimeter Use",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 03.5 Automotive Test Equipment"
-    },
-    {
-      "id": "9395L303",
-      "title": "Voltage Measurements",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 03.5 Automotive Test Equipment"
-    },
-    {
-      "id": "9395L304",
-      "title": "Current Measurements",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 03.5 Automotive Test Equipment"
-    },
-    {
-      "id": "9395L305",
-      "title": "Resistance Measurements",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 03.5 Automotive Test Equipment"
-    },
-    {
-      "id": "9395L306",
-      "title": "Introduction to Oscilloscopes",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 03.5 Automotive Test Equipment"
-    },
-    {
-      "id": "9395L401",
-      "title": "Ohm's Law and Power",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L402",
-      "title": "Series Circuits",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L403",
-      "title": "Parallel Circuits",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L404",
-      "title": "Series-Parallel Circuits",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L405",
-      "title": "Voltage Divider Circuits",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L406",
-      "title": "Relay Operation",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L407",
-      "title": "Alternating Current",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L408",
-      "title": "Magnetism, Relays and Meters",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 04.6 Basic Electrical DC and AC"
-    },
-    {
-      "id": "9395L501",
-      "title": "Inductor Operation",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L502",
-      "title": "Capacitor Operation",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L503",
-      "title": "Diode Operation",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L504",
-      "title": "Transistor Operation",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L505",
-      "title": "AND Gates",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L506",
-      "title": "OR Gates",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L507",
-      "title": "NOT Gates",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L508",
-      "title": "Combinational Circuits",
-      "place": "program",
-      "group": "AC Circuits",
-      "module": "Mod 14.5 Basic Electronics"
-    },
-    {
-      "id": "9395L601",
-      "title": "Turn Signal Systems",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.5 Basic Automotive Systems"
-    },
-    {
-      "id": "9395L602",
-      "title": "Starting Systems",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.5 Basic Automotive Systems"
-    },
-    {
-      "id": "9395L603",
-      "title": "Ignition Systems",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.5 Basic Automotive Systems"
-    },
-    {
-      "id": "9395L604",
-      "title": "Charging Systems",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.5 Basic Automotive Systems"
-    },
-    {
-      "id": "9395L605",
-      "title": "Fuel Injection",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.5 Basic Automotive Systems"
-    },
-    {
-      "id": "9395L606",
-      "title": "Engine Cooling and Climate Control",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.5 Basic Automotive Systems"
-    },
-    {
-      "id": "9395L701",
-      "title": "Car Audio Systems",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.6 Automotive Accessory Packages"
-    },
-    {
-      "id": "9395L801",
-      "title": "Trailer Wiring Systems",
-      "place": "program",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50.6 Automotive Accessory Packages"
     },
     {
       "id": "93951100",
@@ -2294,174 +1873,6 @@
       "place": "program",
       "group": "Digital Circuits",
       "module": "Mod 29 Arithmetic Counting Circuits"
-    },
-    {
-      "id": "93954A01",
-      "title": "Introduction to Digital Electronics",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 24.5 Digital Electronics Hardware"
-    },
-    {
-      "id": "93954A02",
-      "title": "Digital Electronics Hardware",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 24.5 Digital Electronics Hardware"
-    },
-    {
-      "id": "93954A03",
-      "title": "Digital Test Equipment",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 24.5 Digital Electronics Hardware"
-    },
-    {
-      "id": "93954B01",
-      "title": "Buffers, Inverters, & NOT Gates",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 25.5 Digital Logic Functions"
-    },
-    {
-      "id": "93954B02",
-      "title": "AND Gates",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 25.5 Digital Logic Functions"
-    },
-    {
-      "id": "93954B03",
-      "title": "OR Gates",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 25.5 Digital Logic Functions"
-    },
-    {
-      "id": "93954B04",
-      "title": "NAND Gates",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 25.5 Digital Logic Functions"
-    },
-    {
-      "id": "93954B05",
-      "title": "NOR Gates",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 25.5 Digital Logic Functions"
-    },
-    {
-      "id": "93954B06",
-      "title": "XOR and XNOR Gates",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 25.5 Digital Logic Functions"
-    },
-    {
-      "id": "93954C01",
-      "title": "Introduction to Combinational Circuits",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 26.5 Combinational Logic Functions"
-    },
-    {
-      "id": "93954C02",
-      "title": "Logic Families",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 26.5 Combinational Logic Functions"
-    },
-    {
-      "id": "93954C03",
-      "title": "Number Systems",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 26.5 Combinational Logic Functions"
-    },
-    {
-      "id": "93954C04",
-      "title": "Base 10 to Binary Conversion",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 26.5 Combinational Logic Functions"
-    },
-    {
-      "id": "93954C05",
-      "title": "Binary to Decimal Conversion",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 26.5 Combinational Logic Functions"
-    },
-    {
-      "id": "93954D01",
-      "title": "Introduction to Latches and Flip-Flops",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 27.5 Flip-Flop Circuits"
-    },
-    {
-      "id": "93954D02",
-      "title": "RS Flip-Flop",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 27.5 Flip-Flop Circuits"
-    },
-    {
-      "id": "93954D03",
-      "title": "D Type Flip-Flop",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 27.5 Flip-Flop Circuits"
-    },
-    {
-      "id": "93954D04",
-      "title": "J-K Flip-Flop",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 27.5 Flip-Flop Circuits"
-    },
-    {
-      "id": "93954E01",
-      "title": "Introduction to Registers and Memory",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 28.5 Register Memory Circuits"
-    },
-    {
-      "id": "93954E02",
-      "title": "Serial Shift Registers",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 28.5 Register Memory Circuits"
-    },
-    {
-      "id": "93954E03",
-      "title": "Parallel Shift Registers",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 28.5 Register Memory Circuits"
-    },
-    {
-      "id": "93954F01",
-      "title": "Introduction to Arithmetic Counting Circuits",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 29.5 Arithmetic Counting Circuits"
-    },
-    {
-      "id": "93954F02",
-      "title": "Ripple Counters",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 29.5 Arithmetic Counting Circuits"
-    },
-    {
-      "id": "93954F03",
-      "title": "Up Counters",
-      "place": "program",
-      "group": "Digital Circuits",
-      "module": "Mod 29.5 Arithmetic Counting Circuits"
     },
     {
       "id": "93951305",
@@ -3400,167 +2811,6 @@
       "module": "Mod 37 Communications Systems"
     },
     {
-      "id": "93956101",
-      "title": "Introduction to Synchros",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.5 Synchro Alignments"
-    },
-    {
-      "id": "93956102",
-      "title": "Torque Receiver Alignment",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.5 Synchro Alignments"
-    },
-    {
-      "id": "93956103",
-      "title": "Torque Transmitter Alignment",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.5 Synchro Alignments"
-    },
-    {
-      "id": "93956104",
-      "title": "Torque Differential Transmitter",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.5 Synchro Alignments"
-    },
-    {
-      "id": "93956105",
-      "title": "Control Transolver Alignment",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.5 Synchro Alignments"
-    },
-    {
-      "id": "93956201",
-      "title": "Synchro Operation",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.6 Synchro Operation"
-    },
-    {
-      "id": "93956202",
-      "title": "Stator Output Signals",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.6 Synchro Operation"
-    },
-    {
-      "id": "93956203",
-      "title": "Transmitter to Receiver Positioning Signal",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.6 Synchro Operation"
-    },
-    {
-      "id": "93956204",
-      "title": "Torque Differential Transmitter Signals",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.6 Synchro Operation"
-    },
-    {
-      "id": "93956205",
-      "title": "Control Transolver Outputs",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.6 Synchro Operation"
-    },
-    {
-      "id": "93956206",
-      "title": "Sine/Cosine Comparison",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 34.6 Synchro Operation"
-    },
-    {
-      "id": "93956301",
-      "title": "Closed Loop Servo Operation",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 35.5 Closed Loop Servo Operation"
-    },
-    {
-      "id": "93956302",
-      "title": "Phase Error Detection",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 35.5 Closed Loop Servo Operation"
-    },
-    {
-      "id": "93956303",
-      "title": "Amplification & Integration Circuits",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 35.5 Closed Loop Servo Operation"
-    },
-    {
-      "id": "93956304",
-      "title": "Pulse Width Modulation",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 35.5 Closed Loop Servo Operation"
-    },
-    {
-      "id": "93956305",
-      "title": "Synchro Troubleshooting",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 35.5 Closed Loop Servo Operation"
-    },
-    {
-      "id": "9395C101",
-      "title": "Cables, Connectors, and Tools",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 06.5 Cables, Connectors, and Continuity"
-    },
-    {
-      "id": "9395C102",
-      "title": "Single Wire Assemblies",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 06.5 Cables, Connectors, and Continuity"
-    },
-    {
-      "id": "9395C103",
-      "title": "Flat Satin Cable and RJ Connectors",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 06.5 Cables, Connectors, and Continuity"
-    },
-    {
-      "id": "9395C104",
-      "title": "Cabling Standards",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 06.5 Cables, Connectors, and Continuity"
-    },
-    {
-      "id": "9395C105",
-      "title": "Twisted Pair Cable and RJ Connectors",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 06.5 Cables, Connectors, and Continuity"
-    },
-    {
-      "id": "9395C106",
-      "title": "Multi-Wire Cable and D-Sub Connectors",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 06.5 Cables, Connectors, and Continuity"
-    },
-    {
-      "id": "9395C107",
-      "title": "Coaxial Cable and BNC Connectors",
-      "place": "program",
-      "group": "DC Circuits",
-      "module": "Mod 06.5 Cables, Connectors, and Continuity"
-    },
-    {
       "id": "9395Z101",
       "title": "Introduction to Operational Systems",
       "place": "program",
@@ -4267,13 +3517,6 @@
       "module": "Mod 43 Programmable Logic Controllers"
     },
     {
-      "id": "9395N100",
-      "title": "Fault Insertion Device Simulator",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 43.5 PLC Applications"
-    },
-    {
       "id": "9395N200",
       "title": "RSLogix Familiarization",
       "place": "program",
@@ -4356,41 +3599,6 @@
       "place": "program",
       "group": "Advanced Electronics",
       "module": "Mod 43 Programmable Logic Controllers"
-    },
-    {
-      "id": "9395N301",
-      "title": "Traffic Light Control Scenario",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 43.5 PLC Applications"
-    },
-    {
-      "id": "9395N302",
-      "title": "Elevator Scenario",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 43.5 PLC Applications"
-    },
-    {
-      "id": "9395N303",
-      "title": "Security Scenario",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 43.5 PLC Applications"
-    },
-    {
-      "id": "9395N304",
-      "title": "Amusement Ride Scenario",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 43.5 PLC Applications"
-    },
-    {
-      "id": "9395N305",
-      "title": "Power Management Scenario",
-      "place": "program",
-      "group": "Advanced Electronics",
-      "module": "Mod 43.5 PLC Applications"
     },
     {
       "id": "9395TC01",
@@ -5142,54 +4350,6 @@
       "rating": "ATT Master_3"
     },
     {
-      "id": "9395D802",
-      "title": "Shipboard Telephones",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
-      "id": "9395D803",
-      "title": "Sound Powered Telephones",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
-      "id": "9395D804",
-      "title": "Misc S/P Phone Equipment",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
-      "id": "9395D805",
-      "title": "S/P Fault Recognition",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
-      "id": "9395D806",
-      "title": "Amplified Voice System",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
-      "id": "9395D807",
-      "title": "Sound Powered Amplifiers",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
       "id": "9395D808",
       "title": "Central Announcing Systems",
       "place": "rating",
@@ -5208,22 +4368,6 @@
     {
       "id": "9395D810",
       "title": "Basic Alarm, Safety and Warning",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
-      "id": "9395D811",
-      "title": "IC/SM Alarm Panel",
-      "place": "rating",
-      "group": "Miscelleanous Systems",
-      "module": "Mod 50 Specialized Comm Systems",
-      "rating": "ATT Master_3"
-    },
-    {
-      "id": "9395D812",
-      "title": "Alarm Sensors",
       "place": "rating",
       "group": "Miscelleanous Systems",
       "module": "Mod 50 Specialized Comm Systems",

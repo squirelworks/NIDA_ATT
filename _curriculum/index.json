@@ -199,7 +199,7 @@
   "master": {
     "file": "nida.curriculum.json",
     "xml": "master.xml",
-    "lessons": 717,
+    "lessons": 611,
     "subjects": [
       "DC Circuits",
       "AC Circuits",
@@ -215,5 +215,12 @@
     "xml": "programs/nida.programs.xml",
     "official_name": "NIDA Programs",
     "lessons": 527
+  },
+  "inferred": {
+    "dir": "_inferred",
+    "file": "_inferred/nida.curriculum.json",
+    "xml": "_inferred/master.xml",
+    "lessons": 717,
+    "absent": 106
   }
 }

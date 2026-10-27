@@ -1,0 +1,2999 @@
+{
+  "9395L101": {
+    "title": "Introduction to Automotive",
+    "place": "program"
+  },
+  "9395L102": {
+    "title": "Electrical Systems",
+    "place": "program"
+  },
+  "9395L103": {
+    "title": "Charging & Ignition",
+    "place": "program"
+  },
+  "9395L104": {
+    "title": "Fuel Systems",
+    "place": "program"
+  },
+  "9395L105": {
+    "title": "Engines",
+    "place": "program"
+  },
+  "9395L106": {
+    "title": "Cooling Systems",
+    "place": "program"
+  },
+  "9395L107": {
+    "title": "Hydraulics",
+    "place": "program"
+  },
+  "9395L108": {
+    "title": "Air Conditioning",
+    "place": "program"
+  },
+  "9395L109": {
+    "title": "Drive Line & Suspension",
+    "place": "program"
+  },
+  "9395L110": {
+    "title": "Body Design",
+    "place": "program"
+  },
+  "9395L201": {
+    "title": "Introduction and Safety",
+    "place": "program"
+  },
+  "9395L202": {
+    "title": "Training Equipment Familiarization",
+    "place": "program"
+  },
+  "9395L203": {
+    "title": "Metric Notation",
+    "place": "program"
+  },
+  "9395L204": {
+    "title": "Voltage, Current and Resistance",
+    "place": "program"
+  },
+  "9395L205": {
+    "title": "Switches and Protective Devices",
+    "place": "program"
+  },
+  "9395L301": {
+    "title": "Introduction to Multimeters",
+    "place": "program"
+  },
+  "9395L302": {
+    "title": "Multimeter Use",
+    "place": "program"
+  },
+  "9395L303": {
+    "title": "Voltage Measurements",
+    "place": "program"
+  },
+  "9395L304": {
+    "title": "Current Measurements",
+    "place": "program"
+  },
+  "9395L305": {
+    "title": "Resistance Measurements",
+    "place": "program"
+  },
+  "9395L306": {
+    "title": "Introduction to Oscilloscopes",
+    "place": "program"
+  },
+  "9395L401": {
+    "title": "Ohm's Law and Power",
+    "place": "program"
+  },
+  "9395L402": {
+    "title": "Series Circuits",
+    "place": "program"
+  },
+  "9395L403": {
+    "title": "Parallel Circuits",
+    "place": "program"
+  },
+  "9395L404": {
+    "title": "Series-Parallel Circuits",
+    "place": "program"
+  },
+  "9395L405": {
+    "title": "Voltage Divider Circuits",
+    "place": "program"
+  },
+  "9395L406": {
+    "title": "Relay Operation",
+    "place": "program"
+  },
+  "9395L407": {
+    "title": "Alternating Current",
+    "place": "program"
+  },
+  "9395L408": {
+    "title": "Magnetism, Relays and Meters",
+    "place": "program"
+  },
+  "9395L501": {
+    "title": "Inductor Operation",
+    "place": "program"
+  },
+  "9395L502": {
+    "title": "Capacitor Operation",
+    "place": "program"
+  },
+  "9395L503": {
+    "title": "Diode Operation",
+    "place": "program"
+  },
+  "9395L504": {
+    "title": "Transistor Operation",
+    "place": "program"
+  },
+  "9395L505": {
+    "title": "AND Gates",
+    "place": "program"
+  },
+  "9395L506": {
+    "title": "OR Gates",
+    "place": "program"
+  },
+  "9395L507": {
+    "title": "NOT Gates",
+    "place": "program"
+  },
+  "9395L508": {
+    "title": "Combinational Circuits",
+    "place": "program"
+  },
+  "9395L601": {
+    "title": "Turn Signal Systems",
+    "place": "program"
+  },
+  "9395L602": {
+    "title": "Starting Systems",
+    "place": "program"
+  },
+  "9395L603": {
+    "title": "Ignition Systems",
+    "place": "program"
+  },
+  "9395L604": {
+    "title": "Charging Systems",
+    "place": "program"
+  },
+  "9395L605": {
+    "title": "Fuel Injection",
+    "place": "program"
+  },
+  "9395L606": {
+    "title": "Engine Cooling and Climate Control",
+    "place": "program"
+  },
+  "9395L701": {
+    "title": "Car Audio Systems",
+    "place": "program"
+  },
+  "9395L801": {
+    "title": "Trailer Wiring Systems",
+    "place": "program"
+  },
+  "93951100": {
+    "title": "Introduction to CAI",
+    "place": "program"
+  },
+  "93951101": {
+    "title": "Introduction and Safety",
+    "place": "program",
+    "also": "Safety Practices"
+  },
+  "93951102": {
+    "title": "Training Equipment Familiarization",
+    "place": "program",
+    "also": "Equipment Familarization"
+  },
+  "93951103": {
+    "title": "Metric Notation",
+    "place": "program"
+  },
+  "93951104": {
+    "title": "Voltage and Current",
+    "place": "program"
+  },
+  "93951105": {
+    "title": "Resistors",
+    "place": "program"
+  },
+  "93951106": {
+    "title": "Switches, Fuses, and Circuit Breakers",
+    "place": "program",
+    "also": "Switches, Fuses and Breakers"
+  },
+  "93951107": {
+    "title": "Tools",
+    "place": "program"
+  },
+  "93951108": {
+    "title": "Introduction to Technical Graphics",
+    "place": "program"
+  },
+  "93951201": {
+    "title": "Magnetism, Relays and Meters",
+    "place": "program",
+    "also": "Magnetism, Relays & Meters"
+  },
+  "93951202": {
+    "title": "Introduction to Multimeters",
+    "place": "program",
+    "also": "Intro to Multimeters"
+  },
+  "93951203": {
+    "title": "Multimeter Use",
+    "place": "program"
+  },
+  "93951204": {
+    "title": "Voltage Measurements",
+    "place": "program"
+  },
+  "93951205": {
+    "title": "Current Measurements",
+    "place": "program"
+  },
+  "93951206": {
+    "title": "Resistance Measurements",
+    "place": "program"
+  },
+  "93951301": {
+    "title": "Ohm's Law and Power",
+    "place": "program",
+    "also": "Ohm's Law"
+  },
+  "93951302": {
+    "title": "Series Circuits",
+    "place": "program"
+  },
+  "93951303": {
+    "title": "Series Circuit Troubleshooting Theory",
+    "place": "program",
+    "also": "Series TS Theory"
+  },
+  "93951304": {
+    "title": "Series Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "Series TS Experiment"
+  },
+  "93951305": {
+    "title": "Series Circuit Troubleshooting Practice",
+    "place": "program"
+  },
+  "93951306": {
+    "title": "Parallel Circuits",
+    "place": "program"
+  },
+  "93951307": {
+    "title": "Parallel Circuit Troubleshooting Theory",
+    "place": "program",
+    "also": "Parallel TS Theory"
+  },
+  "93951308": {
+    "title": "Parallel Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "Parallel TS Experiment"
+  },
+  "93951309": {
+    "title": "Parallel Circuit Troubleshooting Practice",
+    "place": "program"
+  },
+  "93951310": {
+    "title": "Series-Parallel Circuits",
+    "place": "program"
+  },
+  "93951311": {
+    "title": "Series-Parallel Circuit Troubleshooting Theory",
+    "place": "program",
+    "also": "Series-Parallel TS Theory"
+  },
+  "93951312": {
+    "title": "Series-Parallel Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "Series-Parallel TS Exp"
+  },
+  "93951313": {
+    "title": "Series-Parallel Circuit Troubleshooting Practice",
+    "place": "program"
+  },
+  "93951401": {
+    "title": "Voltage Divider Circuits",
+    "place": "program"
+  },
+  "93951402": {
+    "title": "Bridge Circuits",
+    "place": "program"
+  },
+  "93951403": {
+    "title": "Kirchhoff's Voltage and Current Laws",
+    "place": "program",
+    "also": "Kirchhoff"
+  },
+  "93951404": {
+    "title": "Norton's Theorem",
+    "place": "program"
+  },
+  "93951405": {
+    "title": "Thevenin's Theorem",
+    "place": "program"
+  },
+  "93951406": {
+    "title": "Meter Loading",
+    "place": "program"
+  },
+  "93952101": {
+    "title": "Alternating Current",
+    "place": "program"
+  },
+  "93952102": {
+    "title": "Generating AC Electricity",
+    "place": "program"
+  },
+  "93952103": {
+    "title": "Non-Sinusoidal Waves",
+    "place": "program"
+  },
+  "93952104": {
+    "title": "Resistance in AC Circuits",
+    "place": "program"
+  },
+  "93952201": {
+    "title": "Introduction to Oscilloscopes",
+    "place": "program",
+    "also": "Intro to Oscilloscopes"
+  },
+  "93952202": {
+    "title": "Oscilloscope Use (804)",
+    "place": "program",
+    "also": "Oscilloscope Use"
+  },
+  "93952207": {
+    "title": "Oscilloscope Use (444)",
+    "place": "program",
+    "also": "Oscilloscope Use - 444"
+  },
+  "93952203": {
+    "title": "Introduction to Function Generators (440)",
+    "place": "program",
+    "also": "Intro to Function Generators - 440"
+  },
+  "93952208": {
+    "title": "Introduction to Function Generators (444)",
+    "place": "program",
+    "also": "Intro to Function Generators - 444"
+  },
+  "93952204": {
+    "title": "Function Generator Use (440)",
+    "place": "program",
+    "also": "Function Generator Use - 440"
+  },
+  "93952209": {
+    "title": "Function Generator Use (444)",
+    "place": "program",
+    "also": "Function Generator Use - 444"
+  },
+  "93952205": {
+    "title": "Introduction to the Frequency Counter",
+    "place": "program",
+    "also": "Intro to Frequency Counters"
+  },
+  "93952206": {
+    "title": "Frequency Counter Use",
+    "place": "program"
+  },
+  "93952301": {
+    "title": "Introduction to Inductors",
+    "place": "program",
+    "also": "Intro to Inductors"
+  },
+  "93952302": {
+    "title": "Inductor Identification",
+    "place": "program"
+  },
+  "93952303": {
+    "title": "RL Series Circuits",
+    "place": "program"
+  },
+  "93952304": {
+    "title": "RL Series Circuit Operation",
+    "place": "program"
+  },
+  "93952305": {
+    "title": "RL Series Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "RL Series Circuit TS Exp"
+  },
+  "93952306": {
+    "title": "RL Series Circuit Troubleshooting Practice",
+    "place": "program"
+  },
+  "93952307": {
+    "title": "RL Parallel Circuits",
+    "place": "program"
+  },
+  "93952308": {
+    "title": "RL Parallel Circuit Operation",
+    "place": "program",
+    "also": "RL Parallel Circuit Oper"
+  },
+  "93952309": {
+    "title": "RL Parallel Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "RL Parallel Circuit TS Exp"
+  },
+  "93952310": {
+    "title": "RL Parallel Circuit Troubleshooting Practice",
+    "place": "program"
+  },
+  "93952311": {
+    "title": "RL Filters",
+    "place": "program"
+  },
+  "93952401": {
+    "title": "Introduction to Capacitors",
+    "place": "program",
+    "also": "Intro to Capacitors"
+  },
+  "93952402": {
+    "title": "Capacitor Identification",
+    "place": "program"
+  },
+  "93952403": {
+    "title": "RC Series Circuits",
+    "place": "program"
+  },
+  "93952404": {
+    "title": "RC Series Circuit Operation",
+    "place": "program"
+  },
+  "93952405": {
+    "title": "RC Series Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "RC Series Circuit TS Exp"
+  },
+  "93952406": {
+    "title": "RC Series Circuit Troubleshooting Practice I",
+    "place": "program"
+  },
+  "93952407": {
+    "title": "RC Series Circuit Troubleshooting Practice II",
+    "place": "program"
+  },
+  "93952408": {
+    "title": "RC Parallel Circuits",
+    "place": "program"
+  },
+  "93952409": {
+    "title": "RC Parallel Circuit Operation",
+    "place": "program",
+    "also": "RC Parallel Circuit Oper"
+  },
+  "93952410": {
+    "title": "RC Parallel Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "RC Parallel Circuit TS Exp"
+  },
+  "93952411": {
+    "title": "RC Parallel Circuit Troubleshooting Practice I",
+    "place": "program"
+  },
+  "93952412": {
+    "title": "RC Parallel Circuit Troubleshooting Practice II",
+    "place": "program"
+  },
+  "93952413": {
+    "title": "RC Filters",
+    "place": "program"
+  },
+  "93952501": {
+    "title": "RC Time Constants",
+    "place": "program",
+    "also": "RC and RL Time Constants"
+  },
+  "93952502": {
+    "title": "RC Time Constants Operation",
+    "place": "program"
+  },
+  "93952503": {
+    "title": "RC Circuit Transient Analysis",
+    "place": "program",
+    "also": "RC Circuit Transients"
+  },
+  "93952504": {
+    "title": "RC Circuit Transients Experiment",
+    "place": "program",
+    "also": "RC Cir Transients Exp"
+  },
+  "93952505": {
+    "title": "RC Circuit Transients Troubleshooting Experiment",
+    "place": "program",
+    "also": "RC Cir Transient TS Exp"
+  },
+  "93952506": {
+    "title": "RC Circuit Transients Troubleshooting I",
+    "place": "program"
+  },
+  "93952507": {
+    "title": "RC Circuit Transients Troubleshooting II",
+    "place": "program"
+  },
+  "93952601": {
+    "title": "Capacitive/Inductive Reactance and LCR Circuits",
+    "place": "program",
+    "also": "Capacitive/Inductive & LCR"
+  },
+  "93952602": {
+    "title": "LCR Series and Parallel Circuit Experiment",
+    "place": "program",
+    "also": "LCR Series & Par Circuit Exp"
+  },
+  "93952603": {
+    "title": "LCR Circuit Troubleshooting",
+    "place": "program",
+    "also": "LCR Circuit TS"
+  },
+  "93952604": {
+    "title": "Series Resonance",
+    "place": "program"
+  },
+  "93952605": {
+    "title": "Series Resonance Circuits",
+    "place": "program",
+    "also": "Series Resonant Circuits"
+  },
+  "93952606": {
+    "title": "Parallel Resonance",
+    "place": "program"
+  },
+  "93952607": {
+    "title": "Parallel Resonant Circuits",
+    "place": "program"
+  },
+  "93952608": {
+    "title": "Resonant Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "Resonant Cir TS Experiment"
+  },
+  "93952609": {
+    "title": "Resonant Circuit Troubleshooting Practice I",
+    "place": "program"
+  },
+  "93952610": {
+    "title": "Resonant Circuit Troubleshooting Practice II",
+    "place": "program"
+  },
+  "93952701": {
+    "title": "Introduction to Transformers",
+    "place": "program",
+    "also": "Intro to Transformers"
+  },
+  "93952702": {
+    "title": "Transformer Operation",
+    "place": "program"
+  },
+  "93952703": {
+    "title": "Troubleshooting Transformers",
+    "place": "program"
+  },
+  "93952801": {
+    "title": "Relays and Switches",
+    "place": "program"
+  },
+  "93952802": {
+    "title": "Relays and Switches Experiment",
+    "place": "program",
+    "also": "Relay and Switches Operation Experiment"
+  },
+  "93952803": {
+    "title": "Troubleshooting Relays and Switches",
+    "place": "program",
+    "also": "TS Relays and Switches"
+  },
+  "93952804": {
+    "title": "Electrical Circuits",
+    "place": "program"
+  },
+  "93952805": {
+    "title": "Electrical Circuits Experiment",
+    "place": "program",
+    "also": "Electrical Circuits Exp"
+  },
+  "93953101": {
+    "title": "Introduction to Diodes",
+    "place": "program",
+    "also": "Intro to Diodes"
+  },
+  "93953102": {
+    "title": "Junction Diodes",
+    "place": "program"
+  },
+  "93953103": {
+    "title": "Junction Diode Operation",
+    "place": "program"
+  },
+  "93953104": {
+    "title": "Junction Diode Troubleshooting Experiment",
+    "place": "program",
+    "also": "Junction Diode TS Exp"
+  },
+  "93953105": {
+    "title": "Junction Diode Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953106": {
+    "title": "Diode Limiter Operation",
+    "place": "program"
+  },
+  "93953107": {
+    "title": "Diode Clamper Operation",
+    "place": "program"
+  },
+  "93953108": {
+    "title": "Limiter and Clamper Troubleshooting Experiment",
+    "place": "program",
+    "also": "Limiter & Clamper TS Exp"
+  },
+  "93953109": {
+    "title": "Limiter and Clamper Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953110": {
+    "title": "Vacuum Tube Theory",
+    "place": "program"
+  },
+  "93953201": {
+    "title": "Introduction to Transistors",
+    "place": "program",
+    "also": "Intro to Transistors"
+  },
+  "93953202": {
+    "title": "Transistor Operation",
+    "place": "program"
+  },
+  "93953203": {
+    "title": "Introduction to Transistor Amplifiers",
+    "place": "program",
+    "also": "Intro to Transistor Amps"
+  },
+  "93953204": {
+    "title": "Common Emitter Amplifiers",
+    "place": "program"
+  },
+  "93953205": {
+    "title": "Common Emitter Amplifier Experiment",
+    "place": "program",
+    "also": "Common Emitter Amp Exp"
+  },
+  "93953206": {
+    "title": "Common Collector Amplifier",
+    "place": "program"
+  },
+  "93953207": {
+    "title": "Common Collector Amplifier Experiment",
+    "place": "program",
+    "also": "Common Collector Amp Exp"
+  },
+  "93953208": {
+    "title": "Common Base Amplifiers",
+    "place": "program",
+    "also": "Common Base Amplifier"
+  },
+  "93953209": {
+    "title": "Common Base Amplifier Experiment",
+    "place": "program",
+    "also": "Common Base Amp Exp"
+  },
+  "93953301": {
+    "title": "Introduction to Power Supplies and Rectifiers",
+    "place": "program",
+    "also": "Intro to Power Supplies"
+  },
+  "93953302": {
+    "title": "Full and Half Wave Rectifier Operation",
+    "place": "program",
+    "also": "Full & Half Wave Rectifiers"
+  },
+  "93953303": {
+    "title": "Bridge Rectifier Operation",
+    "place": "program"
+  },
+  "93953306": {
+    "title": "Introduction to Voltage Regulators",
+    "place": "program",
+    "also": "Intro to Voltage Regulators"
+  },
+  "93953307": {
+    "title": "Zener Diode Operation",
+    "place": "program"
+  },
+  "93953308": {
+    "title": "Zener Diode Regulator Operation",
+    "place": "program",
+    "also": "Zener Diode Regulator Oper"
+  },
+  "93953309": {
+    "title": "Voltage Regulator Operation",
+    "place": "program"
+  },
+  "93953310": {
+    "title": "Voltage Regulator Troubleshooting Experiment",
+    "place": "program",
+    "also": "Voltage Regulator TS Exp"
+  },
+  "93953311": {
+    "title": "Voltage Regulator Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953312": {
+    "title": "IC Regulator Operation",
+    "place": "program"
+  },
+  "93953313": {
+    "title": "Voltage Doubler Operation",
+    "place": "program"
+  },
+  "93953401": {
+    "title": "Multistage Transistor Amplifiers",
+    "place": "program",
+    "also": "Multistage Transistor Amps"
+  },
+  "93953402": {
+    "title": "RC Coupled Transistor Amplifier Operation",
+    "place": "program",
+    "also": "RC Coupled Transistor Amps"
+  },
+  "93953403": {
+    "title": "Push-Pull Amplifier Operation",
+    "place": "program",
+    "also": "Push-Pull Amplifier Oper"
+  },
+  "93953404": {
+    "title": "Multistage Amplifier Troubleshooting Experiment",
+    "place": "program",
+    "also": "Multistage Amp TS Exp"
+  },
+  "93953405": {
+    "title": "Multistage Amplifier Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953406": {
+    "title": "Field Effect Transistor (FET) Amplifiers",
+    "place": "program",
+    "also": "Field Effect Transistor Amp"
+  },
+  "93953407": {
+    "title": "FET Amplifier Troubleshooting Experiment",
+    "place": "program",
+    "also": "Fet Amplifier TS Exp"
+  },
+  "93953408": {
+    "title": "FET Amplifier Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953409": {
+    "title": "MOSFETS",
+    "place": "program"
+  },
+  "93953501": {
+    "title": "Introduction to Sine Wave Oscillators",
+    "place": "program",
+    "also": "Intro to Sine Oscillators"
+  },
+  "93953502": {
+    "title": "Hartley Oscillator Operation",
+    "place": "program"
+  },
+  "93953503": {
+    "title": "Colpitts Oscillator Operation",
+    "place": "program",
+    "also": "Colpitts Oscillator Oper"
+  },
+  "93953504": {
+    "title": "RC Phase Shift Oscillator Operation",
+    "place": "program",
+    "also": "RC Phase Shift Oscillator"
+  },
+  "93953505": {
+    "title": "Crystal Controlled Oscillator Operation",
+    "place": "program",
+    "also": "Crystal Controlled Osc"
+  },
+  "93953506": {
+    "title": "Sine Wave Oscillator Troubleshooting Experiment",
+    "place": "program",
+    "also": "Sine Wave Osc TS Exp I"
+  },
+  "93953507": {
+    "title": "Sine Wave Oscillator Troubleshooting Practice",
+    "place": "program",
+    "also": "Sine Wave Osc TS Exp II"
+  },
+  "93953508": {
+    "title": "Sawtooth Oscillator Operation",
+    "place": "program",
+    "also": "Sawtooth Oscillator"
+  },
+  "93953509": {
+    "title": "Blocking Oscillator Operation",
+    "place": "program",
+    "also": "Blocking Oscillator"
+  },
+  "93953510": {
+    "title": "Non Sine Wave Oscillator Troubleshooting Experiment",
+    "place": "program",
+    "also": "Non-Sine Osc TS Exp"
+  },
+  "93953511": {
+    "title": "Non Sine Wave Oscillator Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953601": {
+    "title": "Introduction to Multivibrators Circuits",
+    "place": "program",
+    "also": "Intro to Multivibrator Cir"
+  },
+  "93953602": {
+    "title": "Astable Multivibrator Operation",
+    "place": "program",
+    "also": "Astable Multivibrator Oper"
+  },
+  "93953603": {
+    "title": "Monostable Multivibrator Operation",
+    "place": "program",
+    "also": "Monostable Multivibrator Op"
+  },
+  "93953604": {
+    "title": "Bistable Multivibrator Operation",
+    "place": "program",
+    "also": "Bistable Multivibrator Op"
+  },
+  "93953605": {
+    "title": "Multivibrator Troubleshooting Experiment",
+    "place": "program",
+    "also": "Multivibrator TS Exp"
+  },
+  "93953606": {
+    "title": "Multivibrator Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953607": {
+    "title": "Schmitt Trigger (Squaring Amplifer) Operation",
+    "place": "program",
+    "also": "Schmitt Trigger Operation"
+  },
+  "93953608": {
+    "title": "Schmitt Trigger Troubleshooting Experiment",
+    "place": "program",
+    "also": "Schmitt Trigger TS Exp"
+  },
+  "93953609": {
+    "title": "Schmitt Trigger Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953701": {
+    "title": "Introduction to Trigger Devices",
+    "place": "program",
+    "also": "Intro to Trigger Devices"
+  },
+  "93953702": {
+    "title": "Unijunction Transistor Oscillator Operation",
+    "place": "program",
+    "also": "Unijunction Transistor Osc"
+  },
+  "93953703": {
+    "title": "SCR Trigger Circuit Operation",
+    "place": "program",
+    "also": "SCR Trigger Operation"
+  },
+  "93953704": {
+    "title": "SCR Power Circuit Operation",
+    "place": "program",
+    "also": "SCR Power Control Operation"
+  },
+  "93953705": {
+    "title": "Trigger Circuit Troubleshooting Experiment",
+    "place": "program",
+    "also": "SCR Circuit TS Exp"
+  },
+  "93953706": {
+    "title": "Trigger Circuit Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953707": {
+    "title": "Diacs, Triacs and 4 Layer Diodes",
+    "place": "program",
+    "also": "DIACs, TRIACs, & 4 Layer Diodes"
+  },
+  "93953708": {
+    "title": "Programmable UJTs",
+    "place": "program"
+  },
+  "93953801": {
+    "title": "Introduction to Operational Amplifiers",
+    "place": "program",
+    "also": "Intro to Operational Amps"
+  },
+  "93953802": {
+    "title": "Operational Amplifier Operation",
+    "place": "program",
+    "also": "Operational Amp Operation"
+  },
+  "93953803": {
+    "title": "Operational Amplifier Troubleshooting Experiment",
+    "place": "program",
+    "also": "Operational Amp TS Exp"
+  },
+  "93953804": {
+    "title": "Operational Amplifier Troubleshooting Practice",
+    "place": "program"
+  },
+  "93953901": {
+    "title": "Introduction to AM Receivers",
+    "place": "program",
+    "also": "Intro to AM Receivers"
+  },
+  "93953902": {
+    "title": "AM Receiver Operation",
+    "place": "program"
+  },
+  "93953903": {
+    "title": "AM Receiver Troubleshooting",
+    "place": "program"
+  },
+  "93954101": {
+    "title": "Introduction to Digital Electronics",
+    "place": "program",
+    "also": "Intro to Digital Electronics"
+  },
+  "93954102": {
+    "title": "Digital Electronics Hardware",
+    "place": "program"
+  },
+  "93954103": {
+    "title": "Buffers and Inverters",
+    "place": "program"
+  },
+  "93954104": {
+    "title": "Digital Test Equipment",
+    "place": "program"
+  },
+  "93954106": {
+    "title": "Introduction to Integrated Circuits",
+    "place": "program",
+    "also": "Intro to ICs"
+  },
+  "93954107": {
+    "title": "Electrostatic Sensitive Devices (ESD)",
+    "place": "program",
+    "also": "Electrostatic Devices"
+  },
+  "93954105": {
+    "title": "555 Timer",
+    "place": "program"
+  },
+  "93954201": {
+    "title": "AND Gates",
+    "place": "program"
+  },
+  "93954202": {
+    "title": "OR Gates",
+    "place": "program"
+  },
+  "93954203": {
+    "title": "NOT Gates",
+    "place": "program"
+  },
+  "93954204": {
+    "title": "NAND Gates",
+    "place": "program"
+  },
+  "93954205": {
+    "title": "NOR Gates",
+    "place": "program"
+  },
+  "93954206": {
+    "title": "XOR Gates",
+    "place": "program"
+  },
+  "93954207": {
+    "title": "Intro to Logic Functions",
+    "place": "program"
+  },
+  "93954301": {
+    "title": "Introduction to Combinational Circuits",
+    "place": "program",
+    "also": "Intro to Combinational Cir"
+  },
+  "93954302": {
+    "title": "Logic Families",
+    "place": "program"
+  },
+  "93954303": {
+    "title": "Number Systems",
+    "place": "program"
+  },
+  "93954304": {
+    "title": "Base 10 to Binary Conversion",
+    "place": "program"
+  },
+  "93954305": {
+    "title": "Binary to 7 Segment Conversions",
+    "place": "program",
+    "also": "Binary to 7 Segment Conv"
+  },
+  "93954306": {
+    "title": "4 Bit Comparator",
+    "place": "program"
+  },
+  "93954401": {
+    "title": "Introduction to Flip-Flops",
+    "place": "program",
+    "also": "Intro to Flip-Flops"
+  },
+  "93954402": {
+    "title": "RS Flip-Flop",
+    "place": "program"
+  },
+  "93954403": {
+    "title": "Clocked RS Flip-Flop",
+    "place": "program"
+  },
+  "93954404": {
+    "title": "D-Type Flip-Flop",
+    "place": "program"
+  },
+  "93954405": {
+    "title": "J-K Flip-Flop",
+    "place": "program"
+  },
+  "93954406": {
+    "title": "Master Slave Flip-Flop",
+    "place": "program"
+  },
+  "93954501": {
+    "title": "Introduction to Registers and Memory",
+    "place": "program",
+    "also": "Intro to Register & Memory"
+  },
+  "93954502": {
+    "title": "4 Bit Storage Register",
+    "place": "program"
+  },
+  "93954503": {
+    "title": "4 Bit Shift Register",
+    "place": "program"
+  },
+  "93954504": {
+    "title": "8 Bit Shift Register",
+    "place": "program"
+  },
+  "93954505": {
+    "title": "64 Bit Memory Circuit",
+    "place": "program"
+  },
+  "93954601": {
+    "title": "Introduction to Arithmetic Counting Circuits",
+    "place": "program",
+    "also": "Intro to Arithmetic Counting"
+  },
+  "93954602": {
+    "title": "Ripple Counters",
+    "place": "program",
+    "also": "Ripple Counter"
+  },
+  "93954603": {
+    "title": "Up Counters",
+    "place": "program",
+    "also": "Up Counter"
+  },
+  "93954604": {
+    "title": "Down Counters",
+    "place": "program",
+    "also": "Down Counter"
+  },
+  "93954605": {
+    "title": "4 Bit Adders",
+    "place": "program"
+  },
+  "93954606": {
+    "title": "4 Bit Subtractors",
+    "place": "program"
+  },
+  "93954701": {
+    "title": "Introduction to Conversion and Data Circuits",
+    "place": "program",
+    "also": "Intro to Conversion & Data"
+  },
+  "93954702": {
+    "title": "D/A Conversion",
+    "place": "program",
+    "also": "D to A Conversion"
+  },
+  "93954703": {
+    "title": "Data Selector Circuit",
+    "place": "program",
+    "also": "Data Selector Circuits"
+  },
+  "93954704": {
+    "title": "Data Distribution Circuit",
+    "place": "program",
+    "also": "Data Distribution Circuits"
+  },
+  "9395T821": {
+    "title": "Introduction to Microprocessors",
+    "place": "program"
+  },
+  "9395T822": {
+    "title": "Basic Microprocessor Operation",
+    "place": "program"
+  },
+  "9395T823": {
+    "title": "Number Systems",
+    "place": "program"
+  },
+  "9395T831": {
+    "title": "8085 Microprocessor Circuit",
+    "place": "program"
+  },
+  "9395T832": {
+    "title": "Operation of the 8085 Microprocessor",
+    "place": "program"
+  },
+  "9395T833": {
+    "title": "Interfacing with the 8085",
+    "place": "program"
+  },
+  "9395T834": {
+    "title": "Troubleshooting the 8085",
+    "place": "program"
+  },
+  "9395A201": {
+    "title": "Introduction to Fiberoptics",
+    "place": "program",
+    "also": "Intro to Fiberoptics"
+  },
+  "9395A202": {
+    "title": "Fiberoptic Components",
+    "place": "program"
+  },
+  "9395A203": {
+    "title": "Signal Transmission",
+    "place": "program"
+  },
+  "9395A204": {
+    "title": "Fiberoptic Cable Connections",
+    "place": "program",
+    "also": "Fiberoptic Cable Connection"
+  },
+  "9395A205": {
+    "title": "Fiberoptic System Troubleshooting",
+    "place": "program",
+    "also": "Fiberoptic Troubleshooting Exp"
+  },
+  "9395T901": {
+    "title": "Introduction to Communications",
+    "place": "program"
+  },
+  "9395T902": {
+    "title": "Amplitude Modulation (AM) Receivers",
+    "place": "program"
+  },
+  "9395T903": {
+    "title": "AM Receiver Analysis",
+    "place": "program"
+  },
+  "9395T905": {
+    "title": "Frequency Modulation (FM) Receivers",
+    "place": "program"
+  },
+  "9395T906": {
+    "title": "FM Receiver Analysis",
+    "place": "program"
+  },
+  "9395T908": {
+    "title": "Citizen Band (CB) Radio",
+    "place": "program"
+  },
+  "9395T909": {
+    "title": "CB Transceiver Analysis",
+    "place": "program"
+  },
+  "9395T911": {
+    "title": "Single Sideband Transmitters/Receivers",
+    "place": "program"
+  },
+  "9395T912": {
+    "title": "SSB Analysis",
+    "place": "program"
+  },
+  "9395T914": {
+    "title": "Narrowband FM",
+    "place": "program"
+  },
+  "9395T916": {
+    "title": "Communications Troubleshooting",
+    "place": "program"
+  },
+  "9395T904": {
+    "title": "AM Receiver Troubleshooting",
+    "place": "program"
+  },
+  "9395T907": {
+    "title": "FM Receiver Troubleshooting",
+    "place": "program"
+  },
+  "9395T910": {
+    "title": "CB Transceiver Troubleshooting",
+    "place": "program"
+  },
+  "9395T913": {
+    "title": "SSB Troubleshooting",
+    "place": "program"
+  },
+  "9395T915": {
+    "title": "Narrowband FM Troubleshooting",
+    "place": "program"
+  },
+  "93956101": {
+    "title": "Introduction to Synchros",
+    "place": "program"
+  },
+  "93956102": {
+    "title": "Torque Receiver Alignment",
+    "place": "program"
+  },
+  "93956103": {
+    "title": "Torque Transmitter Alignment",
+    "place": "program"
+  },
+  "93956104": {
+    "title": "Torque Differential Transmitter",
+    "place": "program"
+  },
+  "93956105": {
+    "title": "Control Transolver Alignment",
+    "place": "program"
+  },
+  "93956201": {
+    "title": "Synchro Operation",
+    "place": "program"
+  },
+  "93956202": {
+    "title": "Stator Output Signals",
+    "place": "program"
+  },
+  "93956203": {
+    "title": "Transmitter to Receiver Positioning Signal",
+    "place": "program"
+  },
+  "93956204": {
+    "title": "Torque Differential Transmitter Signals",
+    "place": "program"
+  },
+  "93956205": {
+    "title": "Control Transolver Outputs",
+    "place": "program"
+  },
+  "93956206": {
+    "title": "Sine/Cosine Comparison",
+    "place": "program"
+  },
+  "93956301": {
+    "title": "Closed Loop Servo Operation",
+    "place": "program"
+  },
+  "93956302": {
+    "title": "Phase Error Detection",
+    "place": "program"
+  },
+  "93956303": {
+    "title": "Amplification & Integration Circuits",
+    "place": "program"
+  },
+  "93956304": {
+    "title": "Pulse Width Modulation",
+    "place": "program"
+  },
+  "93956305": {
+    "title": "Synchro Troubleshooting",
+    "place": "program"
+  },
+  "9395C101": {
+    "title": "Cables, Connectors, and Tools",
+    "place": "program"
+  },
+  "9395C102": {
+    "title": "Single Wire Assemblies",
+    "place": "program"
+  },
+  "9395C103": {
+    "title": "Flat Satin Cable and RJ Connectors",
+    "place": "program"
+  },
+  "9395C104": {
+    "title": "Cabling Standards",
+    "place": "program"
+  },
+  "9395C105": {
+    "title": "Twisted Pair Cable and RJ Connectors",
+    "place": "program"
+  },
+  "9395C106": {
+    "title": "Multi-Wire Cable and D-Sub Connectors",
+    "place": "program"
+  },
+  "9395C107": {
+    "title": "Coaxial Cable and BNC Connectors",
+    "place": "program"
+  },
+  "9395Z101": {
+    "title": "Introduction to Operational Systems",
+    "place": "program"
+  },
+  "9395Z102": {
+    "title": "Flight Controls System",
+    "place": "program"
+  },
+  "9395Z103": {
+    "title": "Ignition System",
+    "place": "program"
+  },
+  "9395Z104": {
+    "title": "Fuel Systems",
+    "place": "program"
+  },
+  "9395Z105": {
+    "title": "Navigational System",
+    "place": "program"
+  },
+  "9395Z106": {
+    "title": "Aircraft Support Systems",
+    "place": "program"
+  },
+  "9395Z107": {
+    "title": "Propulsion Systems",
+    "place": "program"
+  },
+  "9395Z108": {
+    "title": "Aircraft Instruments",
+    "place": "program"
+  },
+  "9395Z201": {
+    "title": "Basic Power Distribution",
+    "place": "program"
+  },
+  "9395Z202": {
+    "title": "Split-bus Power Distribution",
+    "place": "program"
+  },
+  "9395Z203": {
+    "title": "Three-Phase Power Generation",
+    "place": "program",
+    "also": "Three-phase Power Generation"
+  },
+  "9395Z204": {
+    "title": "PWM Switching Power Supplies",
+    "place": "program"
+  },
+  "9395Z301": {
+    "title": "Master Warning and Annunciator System",
+    "place": "program"
+  },
+  "9395Z302": {
+    "title": "Engine Monitoring and Crew Alerting Systems",
+    "place": "program"
+  },
+  "9395Z303": {
+    "title": "Fire Warning and Extinguishing Systems",
+    "place": "program"
+  },
+  "9395Z304": {
+    "title": "Environmental Control and Warning System",
+    "place": "program"
+  },
+  "9395Z401": {
+    "title": "Introduction to Data Communication",
+    "place": "program"
+  },
+  "9395Z402": {
+    "title": "RS-232-C Line Interface",
+    "place": "program"
+  },
+  "9395Z403": {
+    "title": "RS-485 Line Interface",
+    "place": "program"
+  },
+  "9395Z404": {
+    "title": "Introduction to Bus Systems",
+    "place": "program"
+  },
+  "9395Z405": {
+    "title": "IEEE 488 Data Bus Systems",
+    "place": "program"
+  },
+  "9395Z406": {
+    "title": "ARINC 429 Data Bus",
+    "place": "program"
+  },
+  "9395Z407": {
+    "title": "ARINC 629 Data Bus",
+    "place": "program"
+  },
+  "93954A01": {
+    "title": "Introduction to Digital Electronics",
+    "place": "program"
+  },
+  "93954A02": {
+    "title": "Digital Electronics Hardware",
+    "place": "program"
+  },
+  "93954A03": {
+    "title": "Digital Test Equipment",
+    "place": "program"
+  },
+  "93954B01": {
+    "title": "Buffers, Inverters, & NOT Gates",
+    "place": "program"
+  },
+  "93954B02": {
+    "title": "AND Gates",
+    "place": "program"
+  },
+  "93954B03": {
+    "title": "OR Gates",
+    "place": "program"
+  },
+  "93954B04": {
+    "title": "NAND Gates",
+    "place": "program"
+  },
+  "93954B05": {
+    "title": "NOR Gates",
+    "place": "program"
+  },
+  "93954B06": {
+    "title": "XOR and XNOR Gates",
+    "place": "program"
+  },
+  "93954C01": {
+    "title": "Introduction to Combinational Circuits",
+    "place": "program"
+  },
+  "93954C02": {
+    "title": "Logic Families",
+    "place": "program"
+  },
+  "93954C03": {
+    "title": "Number Systems",
+    "place": "program"
+  },
+  "93954C04": {
+    "title": "Base 10 to Binary Conversion",
+    "place": "program"
+  },
+  "93954C05": {
+    "title": "Binary to Decimal Conversion",
+    "place": "program"
+  },
+  "93954D01": {
+    "title": "Introduction to Latches and Flip-Flops",
+    "place": "program"
+  },
+  "93954D02": {
+    "title": "RS Flip-Flop",
+    "place": "program"
+  },
+  "93954D03": {
+    "title": "D Type Flip-Flop",
+    "place": "program"
+  },
+  "93954D04": {
+    "title": "J-K Flip-Flop",
+    "place": "program"
+  },
+  "93954E01": {
+    "title": "Introduction to Registers and Memory",
+    "place": "program"
+  },
+  "93954E02": {
+    "title": "Serial Shift Registers",
+    "place": "program"
+  },
+  "93954E03": {
+    "title": "Parallel Shift Registers",
+    "place": "program"
+  },
+  "93954F01": {
+    "title": "Introduction to Arithmetic Counting Circuits",
+    "place": "program"
+  },
+  "93954F02": {
+    "title": "Ripple Counters",
+    "place": "program"
+  },
+  "93954F03": {
+    "title": "Up Counters",
+    "place": "program"
+  },
+  "9395T851": {
+    "title": "8051 Microcontroller Circuit",
+    "place": "program"
+  },
+  "9395T852": {
+    "title": "Operation of the 8051 Microcontroller",
+    "place": "program"
+  },
+  "9395T853": {
+    "title": "Interfacing with the 8051",
+    "place": "program"
+  },
+  "9395T854": {
+    "title": "Troubleshooting the 8051",
+    "place": "program"
+  },
+  "9395B101": {
+    "title": "Communications Systems & Signal Processing",
+    "place": "program"
+  },
+  "9395B102": {
+    "title": "Amplitude Modulation",
+    "place": "program"
+  },
+  "9395B103": {
+    "title": "Frequency Modulation",
+    "place": "program"
+  },
+  "9395B104": {
+    "title": "Single Sideband and Transmission Lines",
+    "place": "program"
+  },
+  "9395B201": {
+    "title": "AM Circuits",
+    "place": "program"
+  },
+  "9395B202": {
+    "title": "Basic AM Circuit Operation",
+    "place": "program"
+  },
+  "9395B203": {
+    "title": "AM Circuit Operation",
+    "place": "program"
+  },
+  "9395B204": {
+    "title": "AM Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395B205": {
+    "title": "FM Circuits",
+    "place": "program"
+  },
+  "9395B206": {
+    "title": "Basic FM Circuit Operation",
+    "place": "program"
+  },
+  "9395B207": {
+    "title": "FM Circuit Operation",
+    "place": "program"
+  },
+  "9395B208": {
+    "title": "IC FM Circuit Operation",
+    "place": "program"
+  },
+  "9395B209": {
+    "title": "FM Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395B210": {
+    "title": "Analog Pulse Modulation",
+    "place": "program"
+  },
+  "9395B301": {
+    "title": "Pulse Code Modulation (PCM)",
+    "place": "program"
+  },
+  "9395B302": {
+    "title": "PCM Operation",
+    "place": "program"
+  },
+  "9395B303": {
+    "title": "PCM Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395B304": {
+    "title": "Delta Modulation (DM)",
+    "place": "program"
+  },
+  "9395B305": {
+    "title": "DM Circuit Operation",
+    "place": "program"
+  },
+  "9395B306": {
+    "title": "DM Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395B307": {
+    "title": "Frequency Shift Keying (FSK)",
+    "place": "program"
+  },
+  "9395B308": {
+    "title": "FSK Circuit Operation",
+    "place": "program"
+  },
+  "9395B309": {
+    "title": "FSK Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395B310": {
+    "title": "Phase Shift Keying (PSK)",
+    "place": "program"
+  },
+  "9395B311": {
+    "title": "PSK Circuit Operation",
+    "place": "program"
+  },
+  "9395B312": {
+    "title": "PSK Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395B401": {
+    "title": "Time Division Multiplexing (TDM)",
+    "place": "program"
+  },
+  "9395B402": {
+    "title": "TDM Circuit Operation",
+    "place": "program"
+  },
+  "9395B403": {
+    "title": "TDM Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395B404": {
+    "title": "Frequency Division Multiplexing (FDM)",
+    "place": "program"
+  },
+  "9395B405": {
+    "title": "FDM Circuit Operation",
+    "place": "program"
+  },
+  "9395B406": {
+    "title": "FDM Circuit Troubleshooting",
+    "place": "program"
+  },
+  "9395T301": {
+    "title": "Introduction to Rotating Machinery",
+    "place": "program",
+    "also": "Intro to Rotating Machinery"
+  },
+  "9395T302": {
+    "title": "DC Motors and Generators",
+    "place": "program"
+  },
+  "9395T303": {
+    "title": "Stepper Motors",
+    "place": "program"
+  },
+  "9395T304": {
+    "title": "AC Motors and Generators",
+    "place": "program"
+  },
+  "93957101": {
+    "title": "Nature of Light",
+    "place": "program"
+  },
+  "93957102": {
+    "title": "Light Transducers",
+    "place": "program"
+  },
+  "93957103": {
+    "title": "Light Transducer Operation",
+    "place": "program"
+  },
+  "93957104": {
+    "title": "Nature of Heat",
+    "place": "program"
+  },
+  "93957105": {
+    "title": "Heat Transducers",
+    "place": "program"
+  },
+  "93957106": {
+    "title": "Heat Transducer Operation",
+    "place": "program"
+  },
+  "93957107": {
+    "title": "Introduction to Transducers",
+    "place": "program"
+  },
+  "93957201": {
+    "title": "Nature of Motion",
+    "place": "program"
+  },
+  "93957202": {
+    "title": "Motion Transducers",
+    "place": "program"
+  },
+  "93957203": {
+    "title": "Motion Transducer Operation",
+    "place": "program"
+  },
+  "93957204": {
+    "title": "Nature of Position",
+    "place": "program"
+  },
+  "93957205": {
+    "title": "Position Transducers",
+    "place": "program"
+  },
+  "93957206": {
+    "title": "Position Transducer Operation",
+    "place": "program",
+    "also": "Position Transducer Opr"
+  },
+  "9395N105": {
+    "title": "PLC Familiarization",
+    "place": "program"
+  },
+  "9395N101": {
+    "title": "Introduction to PLCs",
+    "place": "program",
+    "also": "Intro to PLCs"
+  },
+  "9395N102": {
+    "title": "PLC Hardware",
+    "place": "program"
+  },
+  "9395N103": {
+    "title": "PLC Programming",
+    "place": "program"
+  },
+  "9395N104": {
+    "title": "PLC Troubleshooting",
+    "place": "program"
+  },
+  "9395N100": {
+    "title": "Fault Insertion Device Simulator",
+    "place": "program"
+  },
+  "9395N200": {
+    "title": "RSLogix Familiarization",
+    "place": "program"
+  },
+  "9395N201": {
+    "title": "APS Familiarization",
+    "place": "program"
+  },
+  "9395N202": {
+    "title": "Bit Instructions",
+    "place": "program"
+  },
+  "9395N203": {
+    "title": "Timer and Counter Instructions",
+    "place": "program"
+  },
+  "9395N204": {
+    "title": "I/O and Interrupt Instructions",
+    "place": "program"
+  },
+  "9395N205": {
+    "title": "Comparison Instructions",
+    "place": "program"
+  },
+  "9395N206": {
+    "title": "Math Instructions",
+    "place": "program"
+  },
+  "9395N207": {
+    "title": "Move and Logical Instructions",
+    "place": "program"
+  },
+  "9395N208": {
+    "title": "File Instructions",
+    "place": "program"
+  },
+  "9395N209": {
+    "title": "Bit Shift, FIFO, and LIFO Instructions",
+    "place": "program"
+  },
+  "9395N210": {
+    "title": "Sequencer Instructions",
+    "place": "program"
+  },
+  "9395N211": {
+    "title": "Control Instructions",
+    "place": "program"
+  },
+  "9395N301": {
+    "title": "Traffic Light Control Scenario",
+    "place": "program"
+  },
+  "9395N302": {
+    "title": "Elevator Scenario",
+    "place": "program"
+  },
+  "9395N303": {
+    "title": "Security Scenario",
+    "place": "program"
+  },
+  "9395N304": {
+    "title": "Amusement Ride Scenario",
+    "place": "program"
+  },
+  "9395N305": {
+    "title": "Power Management Scenario",
+    "place": "program"
+  },
+  "9395TC01": {
+    "title": "Introduction to Hydraulics",
+    "place": "program",
+    "also": "Introduction to Hydraulic Systems"
+  },
+  "9395TC02": {
+    "title": "Introduction to Pneumatics",
+    "place": "program",
+    "also": "Introduction to Pneumatic Systems"
+  },
+  "93950101": {
+    "title": "Addition and Subtraction",
+    "place": "program",
+    "also": "Addition & Subtraction"
+  },
+  "93950102": {
+    "title": "Multiplication and Division",
+    "place": "program",
+    "also": "Multiplication & Division"
+  },
+  "93950103": {
+    "title": "Introduction to Fractions",
+    "place": "program",
+    "also": "Fractions"
+  },
+  "93950104": {
+    "title": "Fraction Operations",
+    "place": "program",
+    "also": "Fraction Operation"
+  },
+  "93950105": {
+    "title": "Decimal Fractions",
+    "place": "program"
+  },
+  "93950106": {
+    "title": "Signed Numbers",
+    "place": "program"
+  },
+  "93950107": {
+    "title": "Percents",
+    "place": "program"
+  },
+  "93950108": {
+    "title": "Exponents and Square Roots",
+    "place": "program",
+    "also": "Exponents & Square Roots"
+  },
+  "93950109": {
+    "title": "Metric Notation",
+    "place": "program"
+  },
+  "93950201": {
+    "title": "Fundamentals of Algebra",
+    "place": "program"
+  },
+  "93950202": {
+    "title": "Linear Equations",
+    "place": "program"
+  },
+  "93950203": {
+    "title": "Solving Linear Equations",
+    "place": "program"
+  },
+  "93950204": {
+    "title": "Exponents and Monomials",
+    "place": "program",
+    "also": "Exponents & Monomials"
+  },
+  "93950205": {
+    "title": "Polynomials",
+    "place": "program"
+  },
+  "93950206": {
+    "title": "Factoring Polynomials",
+    "place": "program"
+  },
+  "93950207": {
+    "title": "Roots &Radicals",
+    "place": "program",
+    "also": "Roots and Radicals"
+  },
+  "93950208": {
+    "title": "Graphs",
+    "place": "program"
+  },
+  "93950209": {
+    "title": "Systems of Linear Equations",
+    "place": "program"
+  },
+  "93950210": {
+    "title": "Introduction to Statistics",
+    "place": "program"
+  },
+  "93950301": {
+    "title": "Fundamentals of Trigonometry",
+    "place": "program"
+  },
+  "93950302": {
+    "title": "Trigonometric Functions",
+    "place": "program"
+  },
+  "93950303": {
+    "title": "Graphing Trigonometric Functions",
+    "place": "program"
+  },
+  "93950304": {
+    "title": "Trigonometric Identities",
+    "place": "program"
+  },
+  "93950305": {
+    "title": "Angle Formulas",
+    "place": "program"
+  },
+  "93950306": {
+    "title": "Inverse Trigonometric Functions",
+    "place": "program"
+  },
+  "93950307": {
+    "title": "Applications of Trigonometry",
+    "place": "program"
+  },
+  "93950308": {
+    "title": "Graphing Polar Equations",
+    "place": "program"
+  },
+  "93950309": {
+    "title": "Conic Sections: Circles and Parabolas",
+    "place": "program"
+  },
+  "93950310": {
+    "title": "Conic Sections: Ellipses and Hyperbolas",
+    "place": "program"
+  },
+  "93950401": {
+    "title": "Fundamentals of Calculus",
+    "place": "program"
+  },
+  "93950402": {
+    "title": "Limits",
+    "place": "program"
+  },
+  "93950403": {
+    "title": "Limits: Continuity and Infinity",
+    "place": "program"
+  },
+  "93950404": {
+    "title": "Derivatives",
+    "place": "program"
+  },
+  "93950405": {
+    "title": "The Chain Rule",
+    "place": "program"
+  },
+  "93950406": {
+    "title": "Additional Differentiation Methods",
+    "place": "program",
+    "also": "Additional Differential Methods"
+  },
+  "93950407": {
+    "title": "Applications of Derivatives",
+    "place": "program"
+  },
+  "93950408": {
+    "title": "Integration",
+    "place": "program"
+  },
+  "93950409": {
+    "title": "Definite Integrals",
+    "place": "program"
+  },
+  "93950410": {
+    "title": "Applications of Definite Integrals",
+    "place": "program"
+  },
+  "93950501": {
+    "title": "Fundamentals of Computer Math",
+    "place": "program"
+  },
+  "93950502": {
+    "title": "The Binary System",
+    "place": "program",
+    "also": "Number Systems (Base 10 to Base 2)"
+  },
+  "93950503": {
+    "title": "Octal &Hexadecimal Systems",
+    "place": "program",
+    "also": "Number Systems (Base 8 to Base 16)"
+  },
+  "93950504": {
+    "title": "Logic Expressions",
+    "place": "program"
+  },
+  "93950505": {
+    "title": "Boolean Algebra",
+    "place": "program",
+    "also": "Boolean Algebra Rules"
+  },
+  "93950506": {
+    "title": "Gate Networks",
+    "place": "program"
+  },
+  "93950507": {
+    "title": "Simplifying Boolean Equations",
+    "place": "program",
+    "also": "Boolean Algebra Equations"
+  },
+  "93950508": {
+    "title": "Karnaugh Maps",
+    "place": "program"
+  },
+  "93950509": {
+    "title": "Algorithms and Flow Charts",
+    "place": "program"
+  },
+  "93950510": {
+    "title": "Sequences and Matrices",
+    "place": "program"
+  },
+  "93950601": {
+    "title": "Introduction to Linear Measurements",
+    "place": "program",
+    "also": "Introduction to Measurements"
+  },
+  "93950602": {
+    "title": "Metric &Scientific Conversions",
+    "place": "program",
+    "also": "Metric Conversion"
+  },
+  "93950603": {
+    "title": "Angular &Circular Measurements",
+    "place": "program",
+    "also": "Angular and Circular Measurements"
+  },
+  "93950604": {
+    "title": "Area Measurements",
+    "place": "program"
+  },
+  "93950605": {
+    "title": "Volume Measurements",
+    "place": "program"
+  },
+  "93950606": {
+    "title": "Velocity and Acceleration Measurements",
+    "place": "program"
+  },
+  "93950607": {
+    "title": "Force Measurements",
+    "place": "program"
+  },
+  "93950608": {
+    "title": "Work and Power Measurements",
+    "place": "program"
+  },
+  "9395T841": {
+    "title": "8086 Microprocessor Circuit",
+    "place": "program"
+  },
+  "9395T842": {
+    "title": "Operation of the 8086 Microprocessor",
+    "place": "program"
+  },
+  "9395T843": {
+    "title": "Interfacing with the 8086",
+    "place": "program"
+  },
+  "9395T844": {
+    "title": "Troubleshooting the 8086",
+    "place": "program"
+  },
+  "9395T845": {
+    "title": "8086 Data Transfer",
+    "place": "program"
+  },
+  "9395T846": {
+    "title": "8086 Addition and Subtraction",
+    "place": "program"
+  },
+  "9395T847": {
+    "title": "8086 Logic Instructions",
+    "place": "program"
+  },
+  "9395T848": {
+    "title": "8086 Jump Instructions",
+    "place": "program"
+  },
+  "9395T801": {
+    "title": "Introduction to Microprocessors",
+    "place": "program"
+  },
+  "9395T802": {
+    "title": "The 68000 Microprocessor",
+    "place": "program"
+  },
+  "9395T803": {
+    "title": "Registers and Memory",
+    "place": "program"
+  },
+  "9395T804": {
+    "title": "I/O Circuits",
+    "place": "program"
+  },
+  "9395T805": {
+    "title": "Operation of the 68000",
+    "place": "program"
+  },
+  "9395T806": {
+    "title": "Introduction to Programming",
+    "place": "program"
+  },
+  "9395T807": {
+    "title": "Move & Branch Instructions",
+    "place": "program"
+  },
+  "9395T808": {
+    "title": "Arithmetic & Logic Instructions",
+    "place": "program"
+  },
+  "9395T809": {
+    "title": "Test & Additional Instructions",
+    "place": "program"
+  },
+  "9395T810": {
+    "title": "Programming and System Design",
+    "place": "program"
+  },
+  "9395T811": {
+    "title": "Troubleshooting the 68000",
+    "place": "program"
+  },
+  "93958101": {
+    "title": "Introduction to Microwaves",
+    "place": "program"
+  },
+  "93958102": {
+    "title": "Introduction to Basic Microwave Systems",
+    "place": "program"
+  },
+  "93958103": {
+    "title": "Microwave Transmitters",
+    "place": "program"
+  },
+  "93958104": {
+    "title": "Microwave Receivers",
+    "place": "program"
+  },
+  "93958105": {
+    "title": "Waveguide Theory",
+    "place": "program"
+  },
+  "93958106": {
+    "title": "Antennas",
+    "place": "program"
+  },
+  "93958107": {
+    "title": "Cavity Resonators and Tube Microwave Devices",
+    "place": "program"
+  },
+  "93958108": {
+    "title": "Semiconductor Microwave Devices",
+    "place": "program"
+  },
+  "9395T610": {
+    "title": "Introduction to Telecommunications",
+    "place": "program"
+  },
+  "9395T601": {
+    "title": "Introduction to Communication Systems",
+    "place": "program"
+  },
+  "9395T602": {
+    "title": "Telephone Systems",
+    "place": "program"
+  },
+  "9395T603": {
+    "title": "Telephone Equipment",
+    "place": "program"
+  },
+  "9395T611": {
+    "title": "Connection Links",
+    "place": "program"
+  },
+  "9395T612": {
+    "title": "Introduction to Network Switching",
+    "place": "program",
+    "also": "Introduction to Network Systems"
+  },
+  "9395T613": {
+    "title": "Broadcast Systems",
+    "place": "program"
+  },
+  "9395T614": {
+    "title": "Spread Spectrum Modulation",
+    "place": "program",
+    "also": "Spread Spectrum"
+  },
+  "9395T615": {
+    "title": "Cellular Telephony",
+    "place": "program"
+  },
+  "9395T616": {
+    "title": "Information Systems",
+    "place": "program"
+  },
+  "9395T617": {
+    "title": "Satellite Systems",
+    "place": "program"
+  },
+  "10001001": {
+    "title": "Intro to PDAs",
+    "place": "rating"
+  },
+  "93951601": {
+    "title": "PC Component Insertion/Extraction Tech.",
+    "place": "rating"
+  },
+  "93951602": {
+    "title": "Basic Soldering Techniques",
+    "place": "rating"
+  },
+  "93951603": {
+    "title": "Basic Connector Termination Techniques",
+    "place": "rating"
+  },
+  "9395P301": {
+    "title": "The Personal Computer",
+    "place": "rating"
+  },
+  "9395P302": {
+    "title": "Operating Systems",
+    "place": "rating"
+  },
+  "9395P303": {
+    "title": "The System Case and Power Supply",
+    "place": "rating"
+  },
+  "9395P304": {
+    "title": "The Motherboard",
+    "place": "rating"
+  },
+  "9395P305": {
+    "title": "The Central Processing Unit",
+    "place": "rating"
+  },
+  "9395P306": {
+    "title": "Computer Memory",
+    "place": "rating"
+  },
+  "9395P307": {
+    "title": "Input/Output and Interfaces",
+    "place": "rating"
+  },
+  "93951604": {
+    "title": "Basic Wire Wrapping Techniques",
+    "place": "rating"
+  },
+  "93951605": {
+    "title": "Basic Wiring and Connector TS Theory",
+    "place": "rating"
+  },
+  "93951606": {
+    "title": "Wire Troubleshooting",
+    "place": "rating"
+  },
+  "93952806": {
+    "title": "Electrical Circuits TS",
+    "place": "rating"
+  },
+  "93952210": {
+    "title": "Intro to Function Generators - 4040",
+    "place": "rating"
+  },
+  "93952211": {
+    "title": "Function Generator Use - 4040",
+    "place": "rating"
+  },
+  "93952212": {
+    "title": "Intro to Oscilloscopes",
+    "place": "rating"
+  },
+  "93952213": {
+    "title": "Oscilloscope Use - 444",
+    "place": "rating"
+  },
+  "93952214": {
+    "title": "Oscilloscope Use - 804",
+    "place": "rating"
+  },
+  "9E954D03": {
+    "title": "Troubleshooting Digital Systems",
+    "place": "rating"
+  },
+  "93955102": {
+    "title": "Characteristics, Rotating Mach",
+    "place": "rating"
+  },
+  "93955601": {
+    "title": "DC Motors",
+    "place": "rating"
+  },
+  "9395T312": {
+    "title": "Brushless DC Motors",
+    "place": "rating"
+  },
+  "93955602": {
+    "title": "DC Shunt Motors",
+    "place": "rating"
+  },
+  "93955603": {
+    "title": "DC Series Motors",
+    "place": "rating"
+  },
+  "93955604": {
+    "title": "DC Compound Motors",
+    "place": "rating"
+  },
+  "93955605": {
+    "title": "Time Control of DC Motors",
+    "place": "rating"
+  },
+  "93955606": {
+    "title": "Feedback of DC Motors",
+    "place": "rating"
+  },
+  "93955608": {
+    "title": "TS Closed Loop Feedback",
+    "place": "rating"
+  },
+  "93955609": {
+    "title": "Amp Cont of DC Motors",
+    "place": "rating"
+  },
+  "93955702": {
+    "title": "AC Motors",
+    "place": "rating"
+  },
+  "93955703": {
+    "title": "AC Motor Characteristics",
+    "place": "rating"
+  },
+  "9395T314": {
+    "title": "Troubleshooting AC Motors",
+    "place": "rating"
+  },
+  "93955801": {
+    "title": "Stepper Motors",
+    "place": "rating"
+  },
+  "93955802": {
+    "title": "Stepper Controllers",
+    "place": "rating"
+  },
+  "93955901": {
+    "title": "Generators",
+    "place": "rating"
+  },
+  "93955902": {
+    "title": "Motor Generators",
+    "place": "rating"
+  },
+  "9395T315": {
+    "title": "Pulse Width Modulation & Amplification",
+    "place": "rating"
+  },
+  "9395T316": {
+    "title": "Open Loop Motor System Experiment",
+    "place": "rating"
+  },
+  "9395T321": {
+    "title": "Motion Detection",
+    "place": "rating"
+  },
+  "9395T322": {
+    "title": "Error Detection & Feedback",
+    "place": "rating"
+  },
+  "9395T323": {
+    "title": "Troubleshooting Closed Loop Systems",
+    "place": "rating"
+  },
+  "9395T331": {
+    "title": "Position Detection",
+    "place": "rating"
+  },
+  "9395T332": {
+    "title": "Proportional, Integral, & Derivative",
+    "place": "rating"
+  },
+  "9395T333": {
+    "title": "PID Control System Experiment",
+    "place": "rating"
+  },
+  "93956401": {
+    "title": "Introduction to Synchros",
+    "place": "rating"
+  },
+  "93956402": {
+    "title": "Differential Transmitters",
+    "place": "rating"
+  },
+  "93956403": {
+    "title": "Control Synchro Systems",
+    "place": "rating"
+  },
+  "93956404": {
+    "title": "Troubleshooting Synchro Systems",
+    "place": "rating"
+  },
+  "93956405": {
+    "title": "Gyroscopes",
+    "place": "rating"
+  },
+  "9395TD01": {
+    "title": "Introduction to Radar",
+    "place": "rating"
+  },
+  "9395TD02": {
+    "title": "Radar Operation",
+    "place": "rating"
+  },
+  "9395TD03": {
+    "title": "Radar Transmitters and Receivers",
+    "place": "rating"
+  },
+  "9395TD04": {
+    "title": "Transmission Lines",
+    "place": "rating"
+  },
+  "9395TD05": {
+    "title": "Waveguide Theory",
+    "place": "rating"
+  },
+  "9395TD06": {
+    "title": "Radar Antennas",
+    "place": "rating"
+  },
+  "9395TD07": {
+    "title": "Cavity Resonators & Tube Devices",
+    "place": "rating"
+  },
+  "9395TD08": {
+    "title": "Semiconductor Microwave Devices",
+    "place": "rating"
+  },
+  "9395TD09": {
+    "title": "Electromagnetic Compatibility CM",
+    "place": "rating"
+  },
+  "9395TD10": {
+    "title": "Radar Auxiliary Systems",
+    "place": "rating"
+  },
+  "9395T921": {
+    "title": "Wave Propagation",
+    "place": "rating"
+  },
+  "9395T922": {
+    "title": "HF Fundamentals",
+    "place": "rating"
+  },
+  "9395TB01": {
+    "title": "Phase Lock Loop",
+    "place": "rating"
+  },
+  "9395P308": {
+    "title": "Expansion",
+    "place": "rating"
+  },
+  "9395P311": {
+    "title": "Applications",
+    "place": "rating"
+  },
+  "9395P401": {
+    "title": "Network Systems",
+    "place": "rating"
+  },
+  "9395TC03": {
+    "title": "Fluid System Valve Operation",
+    "place": "rating"
+  },
+  "9395TC04": {
+    "title": "Hydraulic/Pneumatic Pumps",
+    "place": "rating"
+  },
+  "9395TC05": {
+    "title": "TS Hydraulic/Pneumatic Systems",
+    "place": "rating"
+  },
+  "9395T605": {
+    "title": "Types of Telecommunications Careers",
+    "place": "rating"
+  },
+  "9395T606": {
+    "title": "History of Telecommunications",
+    "place": "rating"
+  },
+  "9395T607": {
+    "title": "Special Interest Groups and Forums",
+    "place": "rating"
+  },
+  "9395T608": {
+    "title": "Telecommunications Jargon and Acronyms",
+    "place": "rating"
+  },
+  "9395D801": {
+    "title": "Acoustics",
+    "place": "rating"
+  },
+  "9395D802": {
+    "title": "Shipboard Telephones",
+    "place": "rating"
+  },
+  "9395D803": {
+    "title": "Sound Powered Telephones",
+    "place": "rating"
+  },
+  "9395D804": {
+    "title": "Misc S/P Phone Equipment",
+    "place": "rating"
+  },
+  "9395D805": {
+    "title": "S/P Fault Recognition",
+    "place": "rating"
+  },
+  "9395D806": {
+    "title": "Amplified Voice System",
+    "place": "rating"
+  },
+  "9395D807": {
+    "title": "Sound Powered Amplifiers",
+    "place": "rating"
+  },
+  "9395D808": {
+    "title": "Central Announcing Systems",
+    "place": "rating"
+  },
+  "9395D809": {
+    "title": "Intercommunicating Units",
+    "place": "rating"
+  },
+  "9395D810": {
+    "title": "Basic Alarm, Safety and Warning",
+    "place": "rating"
+  },
+  "9395D811": {
+    "title": "IC/SM Alarm Panel",
+    "place": "rating"
+  },
+  "9395D812": {
+    "title": "Alarm Sensors",
+    "place": "rating"
+  },
+  "93950198": {
+    "title": "Basic Math Pre-Test",
+    "place": "ungrouped"
+  },
+  "93950199": {
+    "title": "Basic Math Post-Test",
+    "place": "ungrouped"
+  },
+  "93950298": {
+    "title": "Algebra Pre-Test",
+    "place": "ungrouped"
+  },
+  "93950299": {
+    "title": "Algebra Post-Test",
+    "place": "ungrouped"
+  },
+  "93950398": {
+    "title": "Trigonometry Pre-Test",
+    "place": "ungrouped"
+  },
+  "93950399": {
+    "title": "Trigonometry Post-Test",
+    "place": "ungrouped"
+  },
+  "93950498": {
+    "title": "Calculus Pre-Test",
+    "place": "ungrouped"
+  },
+  "93950499": {
+    "title": "Calculus Post-Test",
+    "place": "ungrouped"
+  },
+  "93950598": {
+    "title": "Computer Math Pre-Test",
+    "place": "ungrouped"
+  },
+  "93950599": {
+    "title": "Computer Math Post-Test",
+    "place": "ungrouped"
+  },
+  "93950698": {
+    "title": "Measurements Pre-Test",
+    "place": "ungrouped"
+  },
+  "93950699": {
+    "title": "Measurements Post-Test",
+    "place": "ungrouped"
+  },
+  "93951607": {
+    "title": "Conductors, Insulators and Semiconductors",
+    "place": "ungrouped"
+  },
+  "93955101": {
+    "title": "Introduction to Rotating Machinery",
+    "place": "ungrouped"
+  },
+  "93955103": {
+    "title": "Rotating Machinery Trainer Familiarization",
+    "place": "ungrouped"
+  },
+  "93955104": {
+    "title": "Rotating Machinery Trainer Alignment",
+    "place": "ungrouped"
+  },
+  "93955198": {
+    "title": "Rotating Machinery Pre-Test",
+    "place": "ungrouped"
+  },
+  "93955199": {
+    "title": "Rotating Machinery Post-Test",
+    "place": "ungrouped"
+  },
+  "93955201": {
+    "title": "DC Motors",
+    "place": "ungrouped"
+  },
+  "93955202": {
+    "title": "DC Shunt Field Motors",
+    "place": "ungrouped"
+  },
+  "93955203": {
+    "title": "DC Series Field Motors",
+    "place": "ungrouped"
+  },
+  "93955204": {
+    "title": "DC Compound Motors",
+    "place": "ungrouped"
+  },
+  "93955205": {
+    "title": "Time Control of DC Motors",
+    "place": "ungrouped"
+  },
+  "93955206": {
+    "title": "Feedback Control of DC Motors",
+    "place": "ungrouped"
+  },
+  "93955207": {
+    "title": "Closed Loop Feedback Control of DC Motors",
+    "place": "ungrouped"
+  },
+  "93955208": {
+    "title": "Troubleshooting Closed Loop Feedback Systems",
+    "place": "ungrouped"
+  },
+  "93955209": {
+    "title": "Amplitude Control of DC Motors",
+    "place": "ungrouped"
+  },
+  "93955299": {
+    "title": "DC Motors Post-Test",
+    "place": "ungrouped"
+  },
+  "93955301": {
+    "title": "Three Phase Power",
+    "place": "ungrouped"
+  },
+  "93955302": {
+    "title": "AC Motors",
+    "place": "ungrouped"
+  },
+  "93955303": {
+    "title": "AC Motors Characteristics",
+    "place": "ungrouped"
+  },
+  "93955399": {
+    "title": "AC Motors Post-Test",
+    "place": "ungrouped"
+  },
+  "93955401": {
+    "title": "Stepper Motors",
+    "place": "ungrouped"
+  },
+  "93955402": {
+    "title": "Stepper Controllers",
+    "place": "ungrouped"
+  },
+  "93955499": {
+    "title": "Stepper Motors Post-Test",
+    "place": "ungrouped"
+  },
+  "93955501": {
+    "title": "Generators",
+    "place": "ungrouped"
+  },
+  "93955502": {
+    "title": "Motor Generators",
+    "place": "ungrouped"
+  },
+  "93955503": {
+    "title": "AC Motors and Generators",
+    "place": "ungrouped"
+  },
+  "93955599": {
+    "title": "Generators Post-Test",
+    "place": "ungrouped"
+  },
+  "93957198": {
+    "title": "Transducers Pre-Test",
+    "place": "ungrouped"
+  },
+  "93957199": {
+    "title": "Light/Heat Transducers Post-Test",
+    "place": "ungrouped"
+  },
+  "93957299": {
+    "title": "Motion/Position Transducers Post-Test",
+    "place": "ungrouped"
+  },
+  "93958198": {
+    "title": "Microwave Pre-Test",
+    "place": "ungrouped"
+  },
+  "93958199": {
+    "title": "Microwave Post-Test",
+    "place": "ungrouped"
+  },
+  "9395A298": {
+    "title": "Basic Fiber Optics Pre-Test",
+    "place": "ungrouped"
+  },
+  "9395A299": {
+    "title": "Basic Fiber Optics Post-Test",
+    "place": "ungrouped"
+  },
+  "9395B198": {
+    "title": "Signal Processing Pre-Test",
+    "place": "ungrouped"
+  },
+  "9395B199": {
+    "title": "Introduction to Signal Processing Post-Test",
+    "place": "ungrouped"
+  },
+  "9395B299": {
+    "title": "AM/FM Circuits Post-Test",
+    "place": "ungrouped"
+  },
+  "9395B399": {
+    "title": "Modulation Techniques Post-Test",
+    "place": "ungrouped"
+  },
+  "9395B499": {
+    "title": "Multiplexing Techniques Post-Test",
+    "place": "ungrouped"
+  },
+  "9395P201": {
+    "title": "Introduction to the Internet",
+    "place": "ungrouped"
+  },
+  "9395P202": {
+    "title": "Internet Requirements & Options",
+    "place": "ungrouped"
+  },
+  "9395P203": {
+    "title": "The World Wide Web",
+    "place": "ungrouped"
+  },
+  "9395P204": {
+    "title": "FTP and Telnet",
+    "place": "ungrouped"
+  },
+  "9395P205": {
+    "title": "E-Mail & Internet Relay Chat (IRC)",
+    "place": "ungrouped"
+  },
+  "9395P206": {
+    "title": "Internet Utilities",
+    "place": "ungrouped"
+  },
+  "9395P207": {
+    "title": "Creating Your Own Web Page",
+    "place": "ungrouped"
+  },
+  "9395P309": {
+    "title": "Applications",
+    "place": "ungrouped"
+  },
+  "9395T311": {
+    "title": "DC Series Field Motors",
+    "place": "ungrouped"
+  },
+  "9395T398": {
+    "title": "Motors Pre-Test",
+    "place": "ungrouped"
+  },
+  "9395T399": {
+    "title": "Motors Post-Test",
+    "place": "ungrouped"
+  },
+  "9395T620": {
+    "title": "Training Equipment Familiarization",
+    "place": "ungrouped"
+  },
+  "9395T621": {
+    "title": "Multimeter Use",
+    "place": "ungrouped"
+  },
+  "9395T622": {
+    "title": "Telephone Equipment",
+    "place": "ungrouped"
+  },
+  "9395T698": {
+    "title": "Telephone Pre-Test",
+    "place": "ungrouped"
+  },
+  "9395T819": {
+    "title": "68000 Microprocessor Circuits Test",
+    "place": "ungrouped"
+  },
+  "9395T829": {
+    "title": "Microprocessors Test",
+    "place": "ungrouped"
+  },
+  "9395T839": {
+    "title": "8085 Microprocessor Circuits Test",
+    "place": "ungrouped"
+  },
+  "9395T849": {
+    "title": "8086 Microprocessor Circuit Test",
+    "place": "ungrouped"
+  },
+  "9395T859": {
+    "title": "8051 Microcontroller Test",
+    "place": "ungrouped"
+  },
+  "9395T898": {
+    "title": "Microprocessors Pre-Test",
+    "place": "ungrouped"
+  },
+  "9395T998": {
+    "title": "Communications Pre-Test",
+    "place": "ungrouped"
+  },
+  "9395T999": {
+    "title": "Communications Post-Test",
+    "place": "ungrouped"
+  },
+  "9395TC99": {
+    "title": "Hydraulic and Pneumatic Post-Test",
+    "place": "ungrouped"
+  },
+  "9395TD99": {
+    "title": "Radar Post-Test",
+    "place": "ungrouped"
+  },
+  "9395Z198": {
+    "title": "Avionics Pre-Test",
+    "place": "ungrouped"
+  },
+  "9395Z199": {
+    "title": "Operational Systems Post-Test",
+    "place": "ungrouped"
+  },
+  "9395Z299": {
+    "title": "Electrical Systems Post-Test",
+    "place": "ungrouped"
+  },
+  "9395Z399": {
+    "title": "Aircraft Systems Post-Test",
+    "place": "ungrouped"
+  },
+  "9395Z499": {
+    "title": "Data Communications Post-Test",
+    "place": "ungrouped"
+  },
+  "9395Z601": {
+    "title": "Introduction to Aviation Technology",
+    "place": "ungrouped"
+  },
+  "9395Z602": {
+    "title": "General Aircraft Principles",
+    "place": "ungrouped"
+  },
+  "9395Z603": {
+    "title": "Aircraft Structures",
+    "place": "ungrouped"
+  },
+  "9395Z604": {
+    "title": "Aircraft Powerplants",
+    "place": "ungrouped"
+  },
+  "9395Z605": {
+    "title": "Basic Aircraft Systems Troubleshooting",
+    "place": "ungrouped"
+  },
+  "9395Z611": {
+    "title": "Aeronautical Regulatory Publications",
+    "place": "ungrouped"
+  },
+  "9395Z614": {
+    "title": "Aircraft Drawings",
+    "place": "ungrouped"
+  },
+  "9395Z622": {
+    "title": "Flight Line Safety",
+    "place": "ungrouped"
+  },
+  "9395Z812": {
+    "title": "Tachometer, Torque and Position Indicating Systems",
+    "place": "ungrouped"
+  },
+  "9395Z813": {
+    "title": "Temperature and Fuel Flow Instrumentation",
+    "place": "ungrouped"
+  },
+  "9395Z814": {
+    "title": "Pressure Sensing and Chip Detection Instruments",
+    "place": "ungrouped"
+  },
+  "9395Z821": {
+    "title": "Aircraft Batteries",
+    "place": "ungrouped"
+  },
+  "9395Z822": {
+    "title": "Aircraft DC Generation Systems",
+    "place": "ungrouped"
+  },
+  "9395Z823": {
+    "title": "Aircraft AC Generation Systems",
+    "place": "ungrouped"
+  },
+  "9395Z824": {
+    "title": "Multi-Engine Aircraft Power Distribution Systems",
+    "place": "ungrouped"
+  },
+  "9E954D01": {
+    "title": "Logic Families",
+    "place": "ungrouped"
+  },
+  "9E954D02": {
+    "title": "Introduction to Integrated Circuits",
+    "place": "ungrouped"
+  },
+  "9E954D04": {
+    "title": "Introduction to Flip-Flops",
+    "place": "ungrouped"
+  },
+  "9E954D05": {
+    "title": "RS Flip-Flop",
+    "place": "ungrouped"
+  },
+  "9E954D06": {
+    "title": "Clocked RS Flip-Flop",
+    "place": "ungrouped"
+  },
+  "9E954D07": {
+    "title": "Type D Flip-Flop",
+    "place": "ungrouped"
+  },
+  "9E954D08": {
+    "title": "JK Flip-Flops",
+    "place": "ungrouped"
+  },
+  "9E954D09": {
+    "title": "Flip-Flop Timing and Synchronization",
+    "place": "ungrouped"
+  }
+}

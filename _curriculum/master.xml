@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Document>
   <Menu title="DC Circuits">
-    <Menu title="Mod 01.5 Introduction to Vehicle Technology">
-      <Item title="Introduction to Automotive" lessonid="9395L101" />
-      <Item title="Electrical Systems" lessonid="9395L102" />
-      <Item title="Charging &amp; Ignition" lessonid="9395L103" />
-      <Item title="Fuel Systems" lessonid="9395L104" />
-      <Item title="Engines" lessonid="9395L105" />
-      <Item title="Cooling Systems" lessonid="9395L106" />
-      <Item title="Hydraulics" lessonid="9395L107" />
-      <Item title="Air Conditioning" lessonid="9395L108" />
-      <Item title="Drive Line &amp; Suspension" lessonid="9395L109" />
-      <Item title="Body Design" lessonid="9395L110" />
-    </Menu>
     <Menu title="Mod 02 Introduction to Electricity">
       <Item title="Introduction to CAI" lessonid="93951100" />
       <Item title="Intro to PDAs" lessonid="10001001" />
@@ -25,13 +13,6 @@
       <Item title="Introduction to Technical Graphics" lessonid="93951108" />
       <Item title="Tools" lessonid="93951107" />
     </Menu>
-    <Menu title="Mod 02.5 Introduction to Automotive Electricity">
-      <Item title="Introduction and Safety" lessonid="9395L201" />
-      <Item title="Training Equipment Familiarization" lessonid="9395L202" />
-      <Item title="Metric Notation" lessonid="9395L203" />
-      <Item title="Voltage, Current and Resistance" lessonid="9395L204" />
-      <Item title="Switches and Protective Devices" lessonid="9395L205" />
-    </Menu>
     <Menu title="Mod 03 Multimeter Measurements">
       <Item title="Magnetism, Relays &amp; Meters" lessonid="93951201" />
       <Item title="Intro to Multimeters" lessonid="93951202" />
@@ -39,14 +20,6 @@
       <Item title="Voltage Measurements" lessonid="93951204" />
       <Item title="Current Measurements" lessonid="93951205" />
       <Item title="Resistance Measurements" lessonid="93951206" />
-    </Menu>
-    <Menu title="Mod 03.5 Automotive Test Equipment">
-      <Item title="Introduction to Multimeters" lessonid="9395L301" />
-      <Item title="Multimeter Use" lessonid="9395L302" />
-      <Item title="Voltage Measurements" lessonid="9395L303" />
-      <Item title="Current Measurements" lessonid="9395L304" />
-      <Item title="Resistance Measurements" lessonid="9395L305" />
-      <Item title="Introduction to Oscilloscopes" lessonid="9395L306" />
     </Menu>
     <Menu title="Mod 04 Basic DC Circuits">
       <Item title="Ohm's Law" lessonid="93951301" />
@@ -65,16 +38,6 @@
       <Item title="Parallel Circuit Troubleshooting Practice" lessonid="93951309" />
       <Item title="Series-Parallel Circuit Troubleshooting Practice" lessonid="93951313" />
     </Menu>
-    <Menu title="Mod 04.6 Basic Electrical DC and AC">
-      <Item title="Ohm's Law and Power" lessonid="9395L401" />
-      <Item title="Series Circuits" lessonid="9395L402" />
-      <Item title="Parallel Circuits" lessonid="9395L403" />
-      <Item title="Series-Parallel Circuits" lessonid="9395L404" />
-      <Item title="Voltage Divider Circuits" lessonid="9395L405" />
-      <Item title="Relay Operation" lessonid="9395L406" />
-      <Item title="Alternating Current" lessonid="9395L407" />
-      <Item title="Magnetism, Relays and Meters" lessonid="9395L408" />
-    </Menu>
     <Menu title="Mod 05 Complex DC Circuits">
       <Item title="Voltage Divider Circuits" lessonid="93951401" />
       <Item title="Bridge Circuits" lessonid="93951402" />
@@ -91,15 +54,6 @@
       <Item title="Basic Wiring and Connector TS Theory" lessonid="93951605" />
       <Item title="Wire Troubleshooting" lessonid="93951606" />
       <Item title="Conductors, Insulators and Semiconductors" lessonid="93951607" />
-    </Menu>
-    <Menu title="Mod 06.5 Cables, Connectors, and Continuity">
-      <Item title="Cables, Connectors, and Tools" lessonid="9395C101" />
-      <Item title="Single Wire Assemblies" lessonid="9395C102" />
-      <Item title="Flat Satin Cable and RJ Connectors" lessonid="9395C103" />
-      <Item title="Cabling Standards" lessonid="9395C104" />
-      <Item title="Twisted Pair Cable and RJ Connectors" lessonid="9395C105" />
-      <Item title="Multi-Wire Cable and D-Sub Connectors" lessonid="9395C106" />
-      <Item title="Coaxial Cable and BNC Connectors" lessonid="9395C107" />
     </Menu>
   </Menu>
   <Menu title="AC Circuits">
@@ -194,16 +148,6 @@
       <Item title="Electrical Circuits" lessonid="93952804" />
       <Item title="Electrical Circuits Exp" lessonid="93952805" />
       <Item title="Electrical Circuits TS" lessonid="93952806" />
-    </Menu>
-    <Menu title="Mod 14.5 Basic Electronics">
-      <Item title="Inductor Operation" lessonid="9395L501" />
-      <Item title="Capacitor Operation" lessonid="9395L502" />
-      <Item title="Diode Operation" lessonid="9395L503" />
-      <Item title="Transistor Operation" lessonid="9395L504" />
-      <Item title="AND Gates" lessonid="9395L505" />
-      <Item title="OR Gates" lessonid="9395L506" />
-      <Item title="NOT Gates" lessonid="9395L507" />
-      <Item title="Combinational Circuits" lessonid="9395L508" />
     </Menu>
   </Menu>
   <Menu title="Analog Circuits">
@@ -347,11 +291,6 @@
       <Item title="Intro to ICs" lessonid="93954106" />
       <Item title="Electrostatic Devices" lessonid="93954107" />
     </Menu>
-    <Menu title="Mod 24.5 Digital Electronics Hardware">
-      <Item title="Introduction to Digital Electronics" lessonid="93954A01" />
-      <Item title="Digital Electronics Hardware" lessonid="93954A02" />
-      <Item title="Digital Test Equipment" lessonid="93954A03" />
-    </Menu>
     <Menu title="Mod 24.8 Logic Families and Flip-Flops">
       <Item title="Logic Families" lessonid="9E954D01" />
       <Item title="Introduction to Integrated Circuits" lessonid="9E954D02" />
@@ -372,14 +311,6 @@
       <Item title="XOR Gates" lessonid="93954206" />
       <Item title="Troubleshooting Digital Systems" lessonid="9E954D03" />
     </Menu>
-    <Menu title="Mod 25.5 Digital Logic Functions">
-      <Item title="Buffers, Inverters, &amp; NOT Gates" lessonid="93954B01" />
-      <Item title="AND Gates" lessonid="93954B02" />
-      <Item title="OR Gates" lessonid="93954B03" />
-      <Item title="NAND Gates" lessonid="93954B04" />
-      <Item title="NOR Gates" lessonid="93954B05" />
-      <Item title="XOR and XNOR Gates" lessonid="93954B06" />
-    </Menu>
     <Menu title="Mod 26 Combination Logic Functions">
       <Item title="Intro to Combinational Cir" lessonid="93954301" />
       <Item title="Logic Families" lessonid="93954302" />
@@ -387,13 +318,6 @@
       <Item title="Base 10 to Binary Conversion" lessonid="93954304" />
       <Item title="Binary to 7 Segment Conv" lessonid="93954305" />
       <Item title="4 Bit Comparator" lessonid="93954306" />
-    </Menu>
-    <Menu title="Mod 26.5 Combinational Logic Functions">
-      <Item title="Introduction to Combinational Circuits" lessonid="93954C01" />
-      <Item title="Logic Families" lessonid="93954C02" />
-      <Item title="Number Systems" lessonid="93954C03" />
-      <Item title="Base 10 to Binary Conversion" lessonid="93954C04" />
-      <Item title="Binary to Decimal Conversion" lessonid="93954C05" />
     </Menu>
     <Menu title="Mod 27 Flip-Flop Circuits">
       <Item title="Intro to Flip-Flops" lessonid="93954401" />
@@ -404,23 +328,12 @@
       <Item title="J-K Flip-Flop" lessonid="93954405" />
       <Item title="Master Slave Flip-Flop" lessonid="93954406" />
     </Menu>
-    <Menu title="Mod 27.5 Flip-Flop Circuits">
-      <Item title="Introduction to Latches and Flip-Flops" lessonid="93954D01" />
-      <Item title="RS Flip-Flop" lessonid="93954D02" />
-      <Item title="D Type Flip-Flop" lessonid="93954D03" />
-      <Item title="J-K Flip-Flop" lessonid="93954D04" />
-    </Menu>
     <Menu title="Mod 28 Register Memory Circuits">
       <Item title="Intro to Register &amp; Memory" lessonid="93954501" />
       <Item title="4 Bit Storage Register" lessonid="93954502" />
       <Item title="4 Bit Shift Register" lessonid="93954503" />
       <Item title="8 Bit Shift Register" lessonid="93954504" />
       <Item title="64 Bit Memory Circuit" lessonid="93954505" />
-    </Menu>
-    <Menu title="Mod 28.5 Register Memory Circuits">
-      <Item title="Introduction to Registers and Memory" lessonid="93954E01" />
-      <Item title="Serial Shift Registers" lessonid="93954E02" />
-      <Item title="Parallel Shift Registers" lessonid="93954E03" />
     </Menu>
     <Menu title="Mod 29 Arithmetic Counting Circuits">
       <Item title="Intro to Arithmetic Counting" lessonid="93954601" />
@@ -429,11 +342,6 @@
       <Item title="Down Counter" lessonid="93954604" />
       <Item title="4 Bit Adders" lessonid="93954605" />
       <Item title="4 Bit Subtractors" lessonid="93954606" />
-    </Menu>
-    <Menu title="Mod 29.5 Arithmetic Counting Circuits">
-      <Item title="Introduction to Arithmetic Counting Circuits" lessonid="93954F01" />
-      <Item title="Ripple Counters" lessonid="93954F02" />
-      <Item title="Up Counters" lessonid="93954F03" />
     </Menu>
     <Menu title="Mod 30 Conversion and Data Circuits">
       <Item title="Intro to Conversion &amp; Data" lessonid="93954701" />
@@ -556,21 +464,6 @@
       <Item title="Proportional, Integral, &amp; Derivative" lessonid="9395T332" />
       <Item title="PID Control System Experiment" lessonid="9395T333" />
     </Menu>
-    <Menu title="Mod 34.5 Synchro Alignments">
-      <Item title="Introduction to Synchros" lessonid="93956101" />
-      <Item title="Torque Receiver Alignment" lessonid="93956102" />
-      <Item title="Torque Transmitter Alignment" lessonid="93956103" />
-      <Item title="Torque Differential Transmitter" lessonid="93956104" />
-      <Item title="Control Transolver Alignment" lessonid="93956105" />
-    </Menu>
-    <Menu title="Mod 34.6 Synchro Operation">
-      <Item title="Synchro Operation" lessonid="93956201" />
-      <Item title="Stator Output Signals" lessonid="93956202" />
-      <Item title="Transmitter to Receiver Positioning Signal" lessonid="93956203" />
-      <Item title="Torque Differential Transmitter Signals" lessonid="93956204" />
-      <Item title="Control Transolver Outputs" lessonid="93956205" />
-      <Item title="Sine/Cosine Comparison" lessonid="93956206" />
-    </Menu>
     <Menu title="Mod 35 Advanced Synchro/Servo">
       <Item title="Introduction to Synchros" lessonid="93956401" />
       <Item title="Differential Transmitters" lessonid="93956402" />
@@ -587,13 +480,6 @@
       <Item title="Aeronautical Regulatory Publications" lessonid="9395Z611" />
       <Item title="Aircraft Drawings" lessonid="9395Z614" />
       <Item title="Flight Line Safety" lessonid="9395Z622" />
-    </Menu>
-    <Menu title="Mod 35.5 Closed Loop Servo Operation">
-      <Item title="Closed Loop Servo Operation" lessonid="93956301" />
-      <Item title="Phase Error Detection" lessonid="93956302" />
-      <Item title="Amplification &amp; Integration Circuits" lessonid="93956303" />
-      <Item title="Pulse Width Modulation" lessonid="93956304" />
-      <Item title="Synchro Troubleshooting" lessonid="93956305" />
     </Menu>
     <Menu title="Mod 35.6 Avionics Operational Systems">
       <Item title="Avionics Pre-Test" lessonid="9395Z198" />
@@ -807,14 +693,6 @@
       <Item title="Sequencer Instructions" lessonid="9395N210" />
       <Item title="Control Instructions" lessonid="9395N211" />
     </Menu>
-    <Menu title="Mod 43.5 PLC Applications">
-      <Item title="Fault Insertion Device Simulator" lessonid="9395N100" />
-      <Item title="Traffic Light Control Scenario" lessonid="9395N301" />
-      <Item title="Elevator Scenario" lessonid="9395N302" />
-      <Item title="Security Scenario" lessonid="9395N303" />
-      <Item title="Amusement Ride Scenario" lessonid="9395N304" />
-      <Item title="Power Management Scenario" lessonid="9395N305" />
-    </Menu>
   </Menu>
   <Menu title="Math">
     <Menu title="Mod 44 Basic Mathematics">
@@ -902,29 +780,9 @@
   <Menu title="Miscelleanous Systems">
     <Menu title="Mod 50 Specialized Comm Systems">
       <Item title="Acoustics" lessonid="9395D801" />
-      <Item title="Shipboard Telephones" lessonid="9395D802" />
-      <Item title="Sound Powered Telephones" lessonid="9395D803" />
-      <Item title="Misc S/P Phone Equipment" lessonid="9395D804" />
-      <Item title="S/P Fault Recognition" lessonid="9395D805" />
-      <Item title="Amplified Voice System" lessonid="9395D806" />
-      <Item title="Sound Powered Amplifiers" lessonid="9395D807" />
       <Item title="Central Announcing Systems" lessonid="9395D808" />
       <Item title="Intercommunicating Units" lessonid="9395D809" />
       <Item title="Basic Alarm, Safety and Warning" lessonid="9395D810" />
-      <Item title="IC/SM Alarm Panel" lessonid="9395D811" />
-      <Item title="Alarm Sensors" lessonid="9395D812" />
-    </Menu>
-    <Menu title="Mod 50.5 Basic Automotive Systems">
-      <Item title="Turn Signal Systems" lessonid="9395L601" />
-      <Item title="Starting Systems" lessonid="9395L602" />
-      <Item title="Ignition Systems" lessonid="9395L603" />
-      <Item title="Charging Systems" lessonid="9395L604" />
-      <Item title="Fuel Injection" lessonid="9395L605" />
-      <Item title="Engine Cooling and Climate Control" lessonid="9395L606" />
-    </Menu>
-    <Menu title="Mod 50.6 Automotive Accessory Packages">
-      <Item title="Car Audio Systems" lessonid="9395L701" />
-      <Item title="Trailer Wiring Systems" lessonid="9395L801" />
     </Menu>
   </Menu>
 </Document>
