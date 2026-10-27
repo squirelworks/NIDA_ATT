@@ -350,7 +350,7 @@ def assemble(program: Path, dest: Path, key: str) -> None:
 
 
 def zip_release(folder: Path) -> Path:
-    archive = folder.with_suffix(".zip")
+    archive = folder.parent / f"{folder.name}.zip"
     if archive.exists():
         archive.unlink()
     print("zipping", flush=True)
@@ -383,7 +383,7 @@ def publish() -> None:
     if content.is_file():
         files.append(content)
     for key in SYSTEMS:
-        archive = release_folder(key).with_suffix(".zip")
+        archive = release_folder(key).parent / f"{release_folder(key).name}.zip"
         if archive.is_file():
             files.append(archive)
     files.extend(path for path in sorted(DIST.glob(f"NIDA_ATT-{VERSION}-setup*")) if path.is_file())
