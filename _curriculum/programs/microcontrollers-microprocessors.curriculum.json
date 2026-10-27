@@ -1,0 +1,192 @@
+{
+  "name": "NIDA",
+  "official_name": "Microcontrollers/Microprocessors",
+  "courseid": "",
+  "official": [
+    "9395T821",
+    "9395T822",
+    "9395T823",
+    "9395T851",
+    "9395T852",
+    "9395T853",
+    "9395T854",
+    "9395T831",
+    "9395T832",
+    "9395T833",
+    "9395T834",
+    "9395T841",
+    "9395T842",
+    "9395T843",
+    "9395T844",
+    "9395T845",
+    "9395T846",
+    "9395T847",
+    "9395T848",
+    "9395T801",
+    "9395T802",
+    "9395T803",
+    "9395T804",
+    "9395T805",
+    "9395T806",
+    "9395T807",
+    "9395T808",
+    "9395T809",
+    "9395T810",
+    "9395T811"
+  ],
+  "extras": [],
+  "root": "courses",
+  "notes": "30 lessons from the program list (nida.programs.xml). Titles are that menu's own words.",
+  "lessons": [
+    {
+      "id": "9395T821",
+      "title": "Introduction to Microprocessors",
+      "group": "8051 Microcontroller"
+    },
+    {
+      "id": "9395T822",
+      "title": "Basic Microprocessor Operation",
+      "group": "8051 Microcontroller"
+    },
+    {
+      "id": "9395T823",
+      "title": "Number Systems",
+      "group": "8051 Microcontroller"
+    },
+    {
+      "id": "9395T851",
+      "title": "8051 Microcontroller Circuit",
+      "group": "8051 Microcontroller"
+    },
+    {
+      "id": "9395T852",
+      "title": "Operation of the 8051 Microcontroller",
+      "group": "8051 Microcontroller"
+    },
+    {
+      "id": "9395T853",
+      "title": "Interfacing with the 8051",
+      "group": "8051 Microcontroller"
+    },
+    {
+      "id": "9395T854",
+      "title": "Troubleshooting the 8051",
+      "group": "8051 Microcontroller"
+    },
+    {
+      "id": "9395T831",
+      "title": "8085 Microprocessor Circuit",
+      "group": "8085 Microprocessor"
+    },
+    {
+      "id": "9395T832",
+      "title": "Operation of the 8085 Microprocessor",
+      "group": "8085 Microprocessor"
+    },
+    {
+      "id": "9395T833",
+      "title": "Interfacing with the 8085",
+      "group": "8085 Microprocessor"
+    },
+    {
+      "id": "9395T834",
+      "title": "Troubleshooting the 8085",
+      "group": "8085 Microprocessor"
+    },
+    {
+      "id": "9395T841",
+      "title": "8086 Microprocessor Circuit",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T842",
+      "title": "Operation of the 8086 Microprocessor",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T843",
+      "title": "Interfacing with the 8086",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T844",
+      "title": "Troubleshooting the 8086",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T845",
+      "title": "8086 Data Transfer",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T846",
+      "title": "8086 Addition and Subtraction",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T847",
+      "title": "8086 Logic Instructions",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T848",
+      "title": "8086 Jump Instructions",
+      "group": "8086 Microprocessor"
+    },
+    {
+      "id": "9395T801",
+      "title": "Introduction to Microprocessors",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T802",
+      "title": "The 68000 Microprocessor",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T803",
+      "title": "Registers and Memory",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T804",
+      "title": "I/O Circuits",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T805",
+      "title": "Operation of the 68000",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T806",
+      "title": "Introduction to Programming",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T807",
+      "title": "Move & Branch Instructions",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T808",
+      "title": "Arithmetic & Logic Instructions",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T809",
+      "title": "Test & Additional Instructions",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T810",
+      "title": "Programming and System Design",
+      "group": "68000 Microprocessor"
+    },
+    {
+      "id": "9395T811",
+      "title": "Troubleshooting the 68000",
+      "group": "68000 Microprocessor"
+    }
+  ]
+}

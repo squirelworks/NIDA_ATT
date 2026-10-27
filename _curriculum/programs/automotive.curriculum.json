@@ -1,0 +1,282 @@
+{
+  "name": "NIDA",
+  "official_name": "Automotive",
+  "courseid": "",
+  "official": [
+    "9395L101",
+    "9395L102",
+    "9395L103",
+    "9395L104",
+    "9395L105",
+    "9395L106",
+    "9395L107",
+    "9395L108",
+    "9395L109",
+    "9395L110",
+    "9395L201",
+    "9395L202",
+    "9395L203",
+    "9395L204",
+    "9395L205",
+    "9395L301",
+    "9395L302",
+    "9395L303",
+    "9395L304",
+    "9395L305",
+    "9395L306",
+    "9395L401",
+    "9395L402",
+    "9395L403",
+    "9395L404",
+    "9395L405",
+    "9395L406",
+    "9395L407",
+    "9395L408",
+    "9395L501",
+    "9395L502",
+    "9395L503",
+    "9395L504",
+    "9395L505",
+    "9395L506",
+    "9395L507",
+    "9395L508",
+    "9395L601",
+    "9395L602",
+    "9395L603",
+    "9395L604",
+    "9395L605",
+    "9395L606",
+    "9395L701",
+    "9395L801"
+  ],
+  "extras": [],
+  "root": "courses",
+  "notes": "45 lessons from the program list (nida.programs.xml). Titles are that menu's own words.",
+  "lessons": [
+    {
+      "id": "9395L101",
+      "title": "Introduction to Automotive",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L102",
+      "title": "Electrical Systems",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L103",
+      "title": "Charging & Ignition",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L104",
+      "title": "Fuel Systems",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L105",
+      "title": "Engines",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L106",
+      "title": "Cooling Systems",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L107",
+      "title": "Hydraulics",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L108",
+      "title": "Air Conditioning",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L109",
+      "title": "Drive Line & Suspension",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L110",
+      "title": "Body Design",
+      "group": "Introduction to Vehicle Technology"
+    },
+    {
+      "id": "9395L201",
+      "title": "Introduction and Safety",
+      "group": "Introduction to Automotive Electricity"
+    },
+    {
+      "id": "9395L202",
+      "title": "Training Equipment Familiarization",
+      "group": "Introduction to Automotive Electricity"
+    },
+    {
+      "id": "9395L203",
+      "title": "Metric Notation",
+      "group": "Introduction to Automotive Electricity"
+    },
+    {
+      "id": "9395L204",
+      "title": "Voltage, Current and Resistance",
+      "group": "Introduction to Automotive Electricity"
+    },
+    {
+      "id": "9395L205",
+      "title": "Switches and Protective Devices",
+      "group": "Introduction to Automotive Electricity"
+    },
+    {
+      "id": "9395L301",
+      "title": "Introduction to Multimeters",
+      "group": "Automotive Test Equipment"
+    },
+    {
+      "id": "9395L302",
+      "title": "Multimeter Use",
+      "group": "Automotive Test Equipment"
+    },
+    {
+      "id": "9395L303",
+      "title": "Voltage Measurements",
+      "group": "Automotive Test Equipment"
+    },
+    {
+      "id": "9395L304",
+      "title": "Current Measurements",
+      "group": "Automotive Test Equipment"
+    },
+    {
+      "id": "9395L305",
+      "title": "Resistance Measurements",
+      "group": "Automotive Test Equipment"
+    },
+    {
+      "id": "9395L306",
+      "title": "Introduction to Oscilloscopes",
+      "group": "Automotive Test Equipment"
+    },
+    {
+      "id": "9395L401",
+      "title": "Ohm's Law and Power",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L402",
+      "title": "Series Circuits",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L403",
+      "title": "Parallel Circuits",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L404",
+      "title": "Series-Parallel Circuits",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L405",
+      "title": "Voltage Divider Circuits",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L406",
+      "title": "Relay Operation",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L407",
+      "title": "Alternating Current",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L408",
+      "title": "Magnetism, Relays and Meters",
+      "group": "Basic Electrical DC & AC"
+    },
+    {
+      "id": "9395L501",
+      "title": "Inductor Operation",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L502",
+      "title": "Capacitor Operation",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L503",
+      "title": "Diode Operation",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L504",
+      "title": "Transistor Operation",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L505",
+      "title": "AND Gates",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L506",
+      "title": "OR Gates",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L507",
+      "title": "NOT Gates",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L508",
+      "title": "Combinational Circuits",
+      "group": "Basic Electronics"
+    },
+    {
+      "id": "9395L601",
+      "title": "Turn Signal Systems",
+      "group": "Basic Automotive Systems"
+    },
+    {
+      "id": "9395L602",
+      "title": "Starting Systems",
+      "group": "Basic Automotive Systems"
+    },
+    {
+      "id": "9395L603",
+      "title": "Ignition Systems",
+      "group": "Basic Automotive Systems"
+    },
+    {
+      "id": "9395L604",
+      "title": "Charging Systems",
+      "group": "Basic Automotive Systems"
+    },
+    {
+      "id": "9395L605",
+      "title": "Fuel Injection",
+      "group": "Basic Automotive Systems"
+    },
+    {
+      "id": "9395L606",
+      "title": "Engine Cooling and Climate Control",
+      "group": "Basic Automotive Systems"
+    },
+    {
+      "id": "9395L701",
+      "title": "Car Audio Systems",
+      "group": "Automotive Accessory Packages"
+    },
+    {
+      "id": "9395L801",
+      "title": "Trailer Wiring Systems",
+      "group": "Automotive Accessory Packages"
+    }
+  ]
+}

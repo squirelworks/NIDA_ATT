@@ -1,0 +1,1230 @@
+{
+  "name": "ATT",
+  "official_name": "Crypto Technician_CTT",
+  "courseid": "8068_V03.3_CTT",
+  "official": [
+    "93951100",
+    "10001001",
+    "93951101",
+    "93951102",
+    "93951103",
+    "93951104",
+    "93951105",
+    "93951106",
+    "93951108",
+    "93951201",
+    "93951202",
+    "93951203",
+    "93951204",
+    "93951205",
+    "93951206",
+    "93951301",
+    "93951302",
+    "93951303",
+    "93951304",
+    "93951306",
+    "93951307",
+    "93951308",
+    "93951310",
+    "93951311",
+    "93951312",
+    "93951601",
+    "93951602",
+    "93951603",
+    "93951604",
+    "93951605",
+    "93951606",
+    "93952101",
+    "93952102",
+    "93952103",
+    "93952104",
+    "93952201",
+    "93952207",
+    "93952208",
+    "93952209",
+    "93952205",
+    "93952206",
+    "93952301",
+    "93952302",
+    "93952303",
+    "93952304",
+    "93952305",
+    "93952307",
+    "93952308",
+    "93952309",
+    "93952311",
+    "93952401",
+    "93952402",
+    "93952403",
+    "93952404",
+    "93952405",
+    "93952408",
+    "93952409",
+    "93952410",
+    "93952413",
+    "93952501",
+    "93952503",
+    "93952504",
+    "93952505",
+    "93952601",
+    "93952602",
+    "93952603",
+    "93952604",
+    "93952605",
+    "93952606",
+    "93952607",
+    "93952608",
+    "93952701",
+    "93952702",
+    "93952703",
+    "93952801",
+    "93952802",
+    "93952803",
+    "93952804",
+    "93952805",
+    "93952806",
+    "93953101",
+    "93953102",
+    "93953103",
+    "93953104",
+    "93953106",
+    "93953107",
+    "93953108",
+    "93953201",
+    "93953202",
+    "93953203",
+    "93953204",
+    "93953205",
+    "93953206",
+    "93953207",
+    "93953208",
+    "93953209",
+    "93953301",
+    "93953302",
+    "93953303",
+    "93953306",
+    "93953307",
+    "93953308",
+    "93953309",
+    "93953310",
+    "93953312",
+    "93953401",
+    "93953402",
+    "93953403",
+    "93953404",
+    "93953901",
+    "93953902",
+    "93953903",
+    "93954101",
+    "93954102",
+    "93954103",
+    "93954104",
+    "93954106",
+    "93954107",
+    "93954207",
+    "93954201",
+    "93954202",
+    "93954203",
+    "93954204",
+    "93954205",
+    "93954206",
+    "9E954D03",
+    "93954301",
+    "93954302",
+    "93954303",
+    "93954304",
+    "93954305",
+    "93954306",
+    "93954401",
+    "93954402",
+    "93954403",
+    "93954404",
+    "93954405",
+    "93954501",
+    "93954502",
+    "93954503",
+    "93954504",
+    "93954505",
+    "93954701",
+    "93954702",
+    "93954703",
+    "93954704",
+    "9395TD01",
+    "9395TD02",
+    "9395TD03",
+    "9395TD04",
+    "9395TD05",
+    "9395TD06",
+    "9395TD07",
+    "9395TD08",
+    "9395TD09",
+    "9395TD10",
+    "9395T901",
+    "9395T902",
+    "9395T903",
+    "9395T905",
+    "9395T906",
+    "9395TC01",
+    "93950107",
+    "93950108",
+    "93950501",
+    "93950502",
+    "93950503",
+    "93950504",
+    "93950505",
+    "93950506",
+    "93950507",
+    "93950508",
+    "93950509",
+    "93950510"
+  ],
+  "extras": [],
+  "root": "courses",
+  "notes": "174 lessons from the rating disk (courses.xml). Titles are that menu's own words.",
+  "lessons": [
+    {
+      "id": "93951100",
+      "title": "Introduction to CAI",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "10001001",
+      "title": "Intro to PDAs",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951101",
+      "title": "Safety Practices",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951102",
+      "title": "Equipment Familarization",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951103",
+      "title": "Metric Notation",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951104",
+      "title": "Voltage and Current",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951105",
+      "title": "Resistors",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951106",
+      "title": "Switches, Fuses and Breakers",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951108",
+      "title": "Introduction to Technical Graphics",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951201",
+      "title": "Magnetism, Relays & Meters",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951202",
+      "title": "Intro to Multimeters",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951203",
+      "title": "Multimeter Use",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951204",
+      "title": "Voltage Measurements",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951205",
+      "title": "Current Measurements",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951206",
+      "title": "Resistance Measurements",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951301",
+      "title": "Ohm's Law",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951302",
+      "title": "Series Circuits",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951303",
+      "title": "Series TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951304",
+      "title": "Series TS Experiment",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951306",
+      "title": "Parallel Circuits",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951307",
+      "title": "Parallel TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951308",
+      "title": "Parallel TS Experiment",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951310",
+      "title": "Series-Parallel Circuits",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951311",
+      "title": "Series-Parallel TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951312",
+      "title": "Series-Parallel TS Exp",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951601",
+      "title": "PC Component Insertion/Extraction Tech.",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951602",
+      "title": "Basic Soldering Techniques",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951603",
+      "title": "Basic Connector Termination Techniques",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951604",
+      "title": "Basic Wire Wrapping Techniques",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951605",
+      "title": "Basic Wiring and Connector TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951606",
+      "title": "Wire Troubleshooting",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93952101",
+      "title": "Alternating Current",
+      "group": "AC Circuits",
+      "module": "Mod 06 Introduction to AC"
+    },
+    {
+      "id": "93952102",
+      "title": "Generating AC Electricity",
+      "group": "AC Circuits",
+      "module": "Mod 06 Introduction to AC"
+    },
+    {
+      "id": "93952103",
+      "title": "Non-Sinusoidal Waves",
+      "group": "AC Circuits",
+      "module": "Mod 06 Introduction to AC"
+    },
+    {
+      "id": "93952104",
+      "title": "Resistance in AC Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 06 Introduction to AC"
+    },
+    {
+      "id": "93952201",
+      "title": "Intro to Oscilloscopes",
+      "group": "AC Circuits",
+      "module": "Mod 07 AC Test Equipment"
+    },
+    {
+      "id": "93952207",
+      "title": "Oscilloscope Use - 444",
+      "group": "AC Circuits",
+      "module": "Mod 07 AC Test Equipment"
+    },
+    {
+      "id": "93952208",
+      "title": "Intro to Function Generators - 444",
+      "group": "AC Circuits",
+      "module": "Mod 07 AC Test Equipment"
+    },
+    {
+      "id": "93952209",
+      "title": "Function Generator Use - 444",
+      "group": "AC Circuits",
+      "module": "Mod 07 AC Test Equipment"
+    },
+    {
+      "id": "93952205",
+      "title": "Intro to Frequency Counters",
+      "group": "AC Circuits",
+      "module": "Mod 07 AC Test Equipment"
+    },
+    {
+      "id": "93952206",
+      "title": "Frequency Counter Use",
+      "group": "AC Circuits",
+      "module": "Mod 07 AC Test Equipment"
+    },
+    {
+      "id": "93952301",
+      "title": "Intro to Inductors",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952302",
+      "title": "Inductor Identification",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952303",
+      "title": "RL Series Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952304",
+      "title": "RL Series Circuit Operation",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952305",
+      "title": "RL Series Circuit TS Exp",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952307",
+      "title": "RL Parallel Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952308",
+      "title": "RL Parallel Circuit Oper",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952309",
+      "title": "RL Parallel Circuit TS Exp",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952311",
+      "title": "RL Filters",
+      "group": "AC Circuits",
+      "module": "Mod 08 Inductance and RL Circuits"
+    },
+    {
+      "id": "93952401",
+      "title": "Intro to Capacitors",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952402",
+      "title": "Capacitor Identification",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952403",
+      "title": "RC Series Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952404",
+      "title": "RC Series Circuit Operation",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952405",
+      "title": "RC Series Circuit TS Exp",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952408",
+      "title": "RC Parallel Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952409",
+      "title": "RC Parallel Circuit Oper",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952410",
+      "title": "RC Parallel Circuit TS Exp",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952413",
+      "title": "RC Filters",
+      "group": "AC Circuits",
+      "module": "Mod 09 Capacitance and RC Circuits"
+    },
+    {
+      "id": "93952501",
+      "title": "RC and RL Time Constants",
+      "group": "AC Circuits",
+      "module": "Mod 10 RC Time Constants and Transients"
+    },
+    {
+      "id": "93952503",
+      "title": "RC Circuit Transients",
+      "group": "AC Circuits",
+      "module": "Mod 10 RC Time Constants and Transients"
+    },
+    {
+      "id": "93952504",
+      "title": "RC Cir Transients Exp",
+      "group": "AC Circuits",
+      "module": "Mod 10 RC Time Constants and Transients"
+    },
+    {
+      "id": "93952505",
+      "title": "RC Cir Transient TS Exp",
+      "group": "AC Circuits",
+      "module": "Mod 10 RC Time Constants and Transients"
+    },
+    {
+      "id": "93952601",
+      "title": "Capacitive/Inductive & LCR",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952602",
+      "title": "LCR Series & Par Circuit Exp",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952603",
+      "title": "LCR Circuit TS",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952604",
+      "title": "Series Resonance",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952605",
+      "title": "Series Resonant Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952606",
+      "title": "Parallel Resonance",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952607",
+      "title": "Parallel Resonant Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952608",
+      "title": "Resonant Cir TS Experiment",
+      "group": "AC Circuits",
+      "module": "Mod 11 Resonance"
+    },
+    {
+      "id": "93952701",
+      "title": "Intro to Transformers",
+      "group": "AC Circuits",
+      "module": "Mod 12 Transformers"
+    },
+    {
+      "id": "93952702",
+      "title": "Transformer Operation",
+      "group": "AC Circuits",
+      "module": "Mod 12 Transformers"
+    },
+    {
+      "id": "93952703",
+      "title": "Troubleshooting Transformers",
+      "group": "AC Circuits",
+      "module": "Mod 12 Transformers"
+    },
+    {
+      "id": "93952801",
+      "title": "Relays and Switches",
+      "group": "AC Circuits",
+      "module": "Mod 13 Relays &amp; Switches"
+    },
+    {
+      "id": "93952802",
+      "title": "Relay and Switches Operation Experiment",
+      "group": "AC Circuits",
+      "module": "Mod 13 Relays &amp; Switches"
+    },
+    {
+      "id": "93952803",
+      "title": "TS Relays and Switches",
+      "group": "AC Circuits",
+      "module": "Mod 13 Relays &amp; Switches"
+    },
+    {
+      "id": "93952804",
+      "title": "Electrical Circuits",
+      "group": "AC Circuits",
+      "module": "Mod 13 Relays &amp; Switches"
+    },
+    {
+      "id": "93952805",
+      "title": "Electrical Circuits Exp",
+      "group": "AC Circuits",
+      "module": "Mod 13 Relays &amp; Switches"
+    },
+    {
+      "id": "93952806",
+      "title": "Electrical Circuits TS",
+      "group": "AC Circuits",
+      "module": "Mod 13 Relays &amp; Switches"
+    },
+    {
+      "id": "93953101",
+      "title": "Intro to Diodes",
+      "group": "Analog Circuits",
+      "module": "Mod 14 Diodes and Diode Circuits"
+    },
+    {
+      "id": "93953102",
+      "title": "Junction Diodes",
+      "group": "Analog Circuits",
+      "module": "Mod 14 Diodes and Diode Circuits"
+    },
+    {
+      "id": "93953103",
+      "title": "Junction Diode Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 14 Diodes and Diode Circuits"
+    },
+    {
+      "id": "93953104",
+      "title": "Junction Diode TS Exp",
+      "group": "Analog Circuits",
+      "module": "Mod 14 Diodes and Diode Circuits"
+    },
+    {
+      "id": "93953106",
+      "title": "Diode Limiter Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 14 Diodes and Diode Circuits"
+    },
+    {
+      "id": "93953107",
+      "title": "Diode Clamper Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 14 Diodes and Diode Circuits"
+    },
+    {
+      "id": "93953108",
+      "title": "Limiter & Clamper TS Exp",
+      "group": "Analog Circuits",
+      "module": "Mod 14 Diodes and Diode Circuits"
+    },
+    {
+      "id": "93953201",
+      "title": "Intro to Transistors",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953202",
+      "title": "Transistor Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953203",
+      "title": "Intro to Transistor Amps",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953204",
+      "title": "Common Emitter Amplifiers",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953205",
+      "title": "Common Emitter Amp Exp",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953206",
+      "title": "Common Collector Amplifier",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953207",
+      "title": "Common Collector Amp Exp",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953208",
+      "title": "Common Base Amplifier",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953209",
+      "title": "Common Base Amp Exp",
+      "group": "Analog Circuits",
+      "module": "Mod 15 Transistor Circuits"
+    },
+    {
+      "id": "93953301",
+      "title": "Intro to Power Supplies",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953302",
+      "title": "Full & Half Wave Rectifiers",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953303",
+      "title": "Bridge Rectifier Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953306",
+      "title": "Intro to Voltage Regulators",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953307",
+      "title": "Zener Diode Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953308",
+      "title": "Zener Diode Regulator Oper",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953309",
+      "title": "Voltage Regulator Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953310",
+      "title": "Voltage Regulator TS Exp",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953312",
+      "title": "IC Regulator Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 16 Power Supplies"
+    },
+    {
+      "id": "93953401",
+      "title": "Multistage Transistor Amps",
+      "group": "Analog Circuits",
+      "module": "Mod 17 Transistor Amplifiers"
+    },
+    {
+      "id": "93953402",
+      "title": "RC Coupled Transistor Amps",
+      "group": "Analog Circuits",
+      "module": "Mod 17 Transistor Amplifiers"
+    },
+    {
+      "id": "93953403",
+      "title": "Push-Pull Amplifier Oper",
+      "group": "Analog Circuits",
+      "module": "Mod 17 Transistor Amplifiers"
+    },
+    {
+      "id": "93953404",
+      "title": "Multistage Amp TS Exp",
+      "group": "Analog Circuits",
+      "module": "Mod 17 Transistor Amplifiers"
+    },
+    {
+      "id": "93953901",
+      "title": "Intro to AM Receivers",
+      "group": "Analog Circuits",
+      "module": "Mod 18 RF Electronics"
+    },
+    {
+      "id": "93953902",
+      "title": "AM Receiver Operation",
+      "group": "Analog Circuits",
+      "module": "Mod 18 RF Electronics"
+    },
+    {
+      "id": "93953903",
+      "title": "AM Receiver Troubleshooting",
+      "group": "Analog Circuits",
+      "module": "Mod 18 RF Electronics"
+    },
+    {
+      "id": "93954101",
+      "title": "Intro to Digital Electronics",
+      "group": "Digital Circuits",
+      "module": "Mod 19 Introduction to Digital Circuits"
+    },
+    {
+      "id": "93954102",
+      "title": "Digital Electronics Hardware",
+      "group": "Digital Circuits",
+      "module": "Mod 19 Introduction to Digital Circuits"
+    },
+    {
+      "id": "93954103",
+      "title": "Buffers and Inverters",
+      "group": "Digital Circuits",
+      "module": "Mod 19 Introduction to Digital Circuits"
+    },
+    {
+      "id": "93954104",
+      "title": "Digital Test Equipment",
+      "group": "Digital Circuits",
+      "module": "Mod 19 Introduction to Digital Circuits"
+    },
+    {
+      "id": "93954106",
+      "title": "Intro to ICs",
+      "group": "Digital Circuits",
+      "module": "Mod 19 Introduction to Digital Circuits"
+    },
+    {
+      "id": "93954107",
+      "title": "Electrostatic Devices",
+      "group": "Digital Circuits",
+      "module": "Mod 19 Introduction to Digital Circuits"
+    },
+    {
+      "id": "93954207",
+      "title": "Intro to Logic Functions",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "93954201",
+      "title": "AND Gates",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "93954202",
+      "title": "OR Gates",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "93954203",
+      "title": "NOT Gates",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "93954204",
+      "title": "NAND Gates",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "93954205",
+      "title": "NOR Gates",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "93954206",
+      "title": "XOR Gates",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "9E954D03",
+      "title": "Troubleshooting Digital Systems",
+      "group": "Digital Circuits",
+      "module": "Mod 20 Digital Logic Functions"
+    },
+    {
+      "id": "93954301",
+      "title": "Intro to Combinational Cir",
+      "group": "Digital Circuits",
+      "module": "Mod 21 Combination Logic Functions"
+    },
+    {
+      "id": "93954302",
+      "title": "Logic Families",
+      "group": "Digital Circuits",
+      "module": "Mod 21 Combination Logic Functions"
+    },
+    {
+      "id": "93954303",
+      "title": "Number Systems",
+      "group": "Digital Circuits",
+      "module": "Mod 21 Combination Logic Functions"
+    },
+    {
+      "id": "93954304",
+      "title": "Base 10 to Binary Conversion",
+      "group": "Digital Circuits",
+      "module": "Mod 21 Combination Logic Functions"
+    },
+    {
+      "id": "93954305",
+      "title": "Binary to 7 Segment Conv",
+      "group": "Digital Circuits",
+      "module": "Mod 21 Combination Logic Functions"
+    },
+    {
+      "id": "93954306",
+      "title": "4 Bit Comparator",
+      "group": "Digital Circuits",
+      "module": "Mod 21 Combination Logic Functions"
+    },
+    {
+      "id": "93954401",
+      "title": "Intro to Flip-Flops",
+      "group": "Digital Circuits",
+      "module": "Mod 22 Flip-Flop Circuits"
+    },
+    {
+      "id": "93954402",
+      "title": "RS Flip-Flop",
+      "group": "Digital Circuits",
+      "module": "Mod 22 Flip-Flop Circuits"
+    },
+    {
+      "id": "93954403",
+      "title": "Clocked RS Flip-Flop",
+      "group": "Digital Circuits",
+      "module": "Mod 22 Flip-Flop Circuits"
+    },
+    {
+      "id": "93954404",
+      "title": "D-Type Flip-Flop",
+      "group": "Digital Circuits",
+      "module": "Mod 22 Flip-Flop Circuits"
+    },
+    {
+      "id": "93954405",
+      "title": "J-K Flip-Flop",
+      "group": "Digital Circuits",
+      "module": "Mod 22 Flip-Flop Circuits"
+    },
+    {
+      "id": "93954501",
+      "title": "Intro to Register & Memory",
+      "group": "Digital Circuits",
+      "module": "Mod 23 Register Memory Circuits"
+    },
+    {
+      "id": "93954502",
+      "title": "4 Bit Storage Register",
+      "group": "Digital Circuits",
+      "module": "Mod 23 Register Memory Circuits"
+    },
+    {
+      "id": "93954503",
+      "title": "4 Bit Shift Register",
+      "group": "Digital Circuits",
+      "module": "Mod 23 Register Memory Circuits"
+    },
+    {
+      "id": "93954504",
+      "title": "8 Bit Shift Register",
+      "group": "Digital Circuits",
+      "module": "Mod 23 Register Memory Circuits"
+    },
+    {
+      "id": "93954505",
+      "title": "64 Bit Memory Circuit",
+      "group": "Digital Circuits",
+      "module": "Mod 23 Register Memory Circuits"
+    },
+    {
+      "id": "93954701",
+      "title": "Intro to Conversion & Data",
+      "group": "Digital Circuits",
+      "module": "Mod 24 Conversion and Data Circuits"
+    },
+    {
+      "id": "93954702",
+      "title": "D to A Conversion",
+      "group": "Digital Circuits",
+      "module": "Mod 24 Conversion and Data Circuits"
+    },
+    {
+      "id": "93954703",
+      "title": "Data Selector Circuits",
+      "group": "Digital Circuits",
+      "module": "Mod 24 Conversion and Data Circuits"
+    },
+    {
+      "id": "93954704",
+      "title": "Data Distribution Circuits",
+      "group": "Digital Circuits",
+      "module": "Mod 24 Conversion and Data Circuits"
+    },
+    {
+      "id": "9395TD01",
+      "title": "Introduction to Radar",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD02",
+      "title": "Radar Operation",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD03",
+      "title": "Radar Transmitters and Receivers",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD04",
+      "title": "Transmission Lines",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD05",
+      "title": "Waveguide Theory",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD06",
+      "title": "Radar Antennas",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD07",
+      "title": "Cavity Resonators & Tube Devices",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD08",
+      "title": "Semiconductor Microwave Devices",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD09",
+      "title": "Electromagnetic Compatibility CM",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395TD10",
+      "title": "Radar Auxiliary Systems",
+      "group": "Advanced Electronics",
+      "module": "Mod 25 Basic Radar Systems"
+    },
+    {
+      "id": "9395T901",
+      "title": "Introduction to Communications",
+      "group": "Advanced Electronics",
+      "module": "Mod 26 Communications Systems"
+    },
+    {
+      "id": "9395T902",
+      "title": "Amplitude Modulation (AM) Receivers",
+      "group": "Advanced Electronics",
+      "module": "Mod 26 Communications Systems"
+    },
+    {
+      "id": "9395T903",
+      "title": "AM Receiver Analysis",
+      "group": "Advanced Electronics",
+      "module": "Mod 26 Communications Systems"
+    },
+    {
+      "id": "9395T905",
+      "title": "Frequency Modulation (FM) Receivers",
+      "group": "Advanced Electronics",
+      "module": "Mod 26 Communications Systems"
+    },
+    {
+      "id": "9395T906",
+      "title": "FM Receiver Analysis",
+      "group": "Advanced Electronics",
+      "module": "Mod 26 Communications Systems"
+    },
+    {
+      "id": "9395TC01",
+      "title": "Introduction to Hydraulic Systems",
+      "group": "Advanced Electronics",
+      "module": "Mod 27 Hydraulic/Pneumatic Systems"
+    },
+    {
+      "id": "93950107",
+      "title": "Percents",
+      "group": "Advanced Electronics",
+      "module": "Mod 28 Basic Mathematics"
+    },
+    {
+      "id": "93950108",
+      "title": "Exponents & Square Roots",
+      "group": "Advanced Electronics",
+      "module": "Mod 28 Basic Mathematics"
+    },
+    {
+      "id": "93950501",
+      "title": "Fundamentals of Computer Math",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950502",
+      "title": "Number Systems (Base 10 to Base 2)",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950503",
+      "title": "Number Systems (Base 8 to Base 16)",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950504",
+      "title": "Logic Expressions",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950505",
+      "title": "Boolean Algebra Rules",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950506",
+      "title": "Gate Networks",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950507",
+      "title": "Boolean Algebra Equations",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950508",
+      "title": "Karnaugh Maps",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950509",
+      "title": "Algorithms and Flow Charts",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    },
+    {
+      "id": "93950510",
+      "title": "Sequences and Matrices",
+      "group": "Advanced Electronics",
+      "module": "Mod 29 Computer Math"
+    }
+  ]
+}

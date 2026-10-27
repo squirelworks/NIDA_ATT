@@ -1,0 +1,369 @@
+{
+  "name": "NIDA",
+  "official_name": "Mathematics",
+  "courseid": "",
+  "official": [
+    "93950101",
+    "93950102",
+    "93950103",
+    "93950104",
+    "93950105",
+    "93950106",
+    "93950107",
+    "93950108",
+    "93950109",
+    "93950201",
+    "93950202",
+    "93950203",
+    "93950204",
+    "93950205",
+    "93950206",
+    "93950207",
+    "93950208",
+    "93950209",
+    "93950210",
+    "93950301",
+    "93950302",
+    "93950303",
+    "93950304",
+    "93950305",
+    "93950306",
+    "93950307",
+    "93950308",
+    "93950309",
+    "93950310",
+    "93950401",
+    "93950402",
+    "93950403",
+    "93950404",
+    "93950405",
+    "93950406",
+    "93950407",
+    "93950408",
+    "93950409",
+    "93950410",
+    "93950501",
+    "93950502",
+    "93950503",
+    "93950504",
+    "93950505",
+    "93950506",
+    "93950507",
+    "93950508",
+    "93950509",
+    "93950510",
+    "93950601",
+    "93950602",
+    "93950603",
+    "93950604",
+    "93950605",
+    "93950606",
+    "93950607",
+    "93950608"
+  ],
+  "extras": [],
+  "root": "courses",
+  "notes": "57 lessons from the program list (nida.programs.xml). Titles are that menu's own words.",
+  "lessons": [
+    {
+      "id": "93950101",
+      "title": "Addition and Subtraction",
+      "group": "Basic Mathematics",
+      "also": "Addition & Subtraction"
+    },
+    {
+      "id": "93950102",
+      "title": "Multiplication and Division",
+      "group": "Basic Mathematics",
+      "also": "Multiplication & Division"
+    },
+    {
+      "id": "93950103",
+      "title": "Introduction to Fractions",
+      "group": "Basic Mathematics",
+      "also": "Fractions"
+    },
+    {
+      "id": "93950104",
+      "title": "Fraction Operations",
+      "group": "Basic Mathematics",
+      "also": "Fraction Operation"
+    },
+    {
+      "id": "93950105",
+      "title": "Decimal Fractions",
+      "group": "Basic Mathematics"
+    },
+    {
+      "id": "93950106",
+      "title": "Signed Numbers",
+      "group": "Basic Mathematics"
+    },
+    {
+      "id": "93950107",
+      "title": "Percents",
+      "group": "Basic Mathematics"
+    },
+    {
+      "id": "93950108",
+      "title": "Exponents and Square Roots",
+      "group": "Basic Mathematics",
+      "also": "Exponents & Square Roots"
+    },
+    {
+      "id": "93950109",
+      "title": "Metric Notation",
+      "group": "Basic Mathematics"
+    },
+    {
+      "id": "93950201",
+      "title": "Fundamentals of Algebra",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950202",
+      "title": "Linear Equations",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950203",
+      "title": "Solving Linear Equations",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950204",
+      "title": "Exponents and Monomials",
+      "group": "Algebra",
+      "also": "Exponents & Monomials"
+    },
+    {
+      "id": "93950205",
+      "title": "Polynomials",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950206",
+      "title": "Factoring Polynomials",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950207",
+      "title": "Roots &Radicals",
+      "group": "Algebra",
+      "also": "Roots and Radicals"
+    },
+    {
+      "id": "93950208",
+      "title": "Graphs",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950209",
+      "title": "Systems of Linear Equations",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950210",
+      "title": "Introduction to Statistics",
+      "group": "Algebra"
+    },
+    {
+      "id": "93950301",
+      "title": "Fundamentals of Trigonometry",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950302",
+      "title": "Trigonometric Functions",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950303",
+      "title": "Graphing Trigonometric Functions",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950304",
+      "title": "Trigonometric Identities",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950305",
+      "title": "Angle Formulas",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950306",
+      "title": "Inverse Trigonometric Functions",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950307",
+      "title": "Applications of Trigonometry",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950308",
+      "title": "Graphing Polar Equations",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950309",
+      "title": "Conic Sections: Circles and Parabolas",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950310",
+      "title": "Conic Sections: Ellipses and Hyperbolas",
+      "group": "Trigonometry"
+    },
+    {
+      "id": "93950401",
+      "title": "Fundamentals of Calculus",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950402",
+      "title": "Limits",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950403",
+      "title": "Limits: Continuity and Infinity",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950404",
+      "title": "Derivatives",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950405",
+      "title": "The Chain Rule",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950406",
+      "title": "Additional Differentiation Methods",
+      "group": "Calculus",
+      "also": "Additional Differential Methods"
+    },
+    {
+      "id": "93950407",
+      "title": "Applications of Derivatives",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950408",
+      "title": "Integration",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950409",
+      "title": "Definite Integrals",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950410",
+      "title": "Applications of Definite Integrals",
+      "group": "Calculus"
+    },
+    {
+      "id": "93950501",
+      "title": "Fundamentals of Computer Math",
+      "group": "Computer Math"
+    },
+    {
+      "id": "93950502",
+      "title": "The Binary System",
+      "group": "Computer Math",
+      "also": "Number Systems (Base 10 to Base 2)"
+    },
+    {
+      "id": "93950503",
+      "title": "Octal &Hexadecimal Systems",
+      "group": "Computer Math",
+      "also": "Number Systems (Base 8 to Base 16)"
+    },
+    {
+      "id": "93950504",
+      "title": "Logic Expressions",
+      "group": "Computer Math"
+    },
+    {
+      "id": "93950505",
+      "title": "Boolean Algebra",
+      "group": "Computer Math",
+      "also": "Boolean Algebra Rules"
+    },
+    {
+      "id": "93950506",
+      "title": "Gate Networks",
+      "group": "Computer Math"
+    },
+    {
+      "id": "93950507",
+      "title": "Simplifying Boolean Equations",
+      "group": "Computer Math",
+      "also": "Boolean Algebra Equations"
+    },
+    {
+      "id": "93950508",
+      "title": "Karnaugh Maps",
+      "group": "Computer Math"
+    },
+    {
+      "id": "93950509",
+      "title": "Algorithms and Flow Charts",
+      "group": "Computer Math"
+    },
+    {
+      "id": "93950510",
+      "title": "Sequences and Matrices",
+      "group": "Computer Math"
+    },
+    {
+      "id": "93950601",
+      "title": "Introduction to Linear Measurements",
+      "group": "Measurements",
+      "also": "Introduction to Measurements"
+    },
+    {
+      "id": "93950602",
+      "title": "Metric &Scientific Conversions",
+      "group": "Measurements",
+      "also": "Metric Conversion"
+    },
+    {
+      "id": "93950603",
+      "title": "Angular &Circular Measurements",
+      "group": "Measurements",
+      "also": "Angular and Circular Measurements"
+    },
+    {
+      "id": "93950604",
+      "title": "Area Measurements",
+      "group": "Measurements"
+    },
+    {
+      "id": "93950605",
+      "title": "Volume Measurements",
+      "group": "Measurements"
+    },
+    {
+      "id": "93950606",
+      "title": "Velocity and Acceleration Measurements",
+      "group": "Measurements"
+    },
+    {
+      "id": "93950607",
+      "title": "Force Measurements",
+      "group": "Measurements"
+    },
+    {
+      "id": "93950608",
+      "title": "Work and Power Measurements",
+      "group": "Measurements"
+    }
+  ]
+}

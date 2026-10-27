@@ -1,0 +1,229 @@
+{
+  "name": "ATT",
+  "official_name": "Aviation Ordanceman_AO",
+  "courseid": "7880_V03.2_AO",
+  "official": [
+    "93951100",
+    "10001001",
+    "93951101",
+    "93951102",
+    "93951103",
+    "93951104",
+    "93951105",
+    "93951106",
+    "93951108",
+    "93951201",
+    "93951202",
+    "93951203",
+    "93951204",
+    "93951205",
+    "93951206",
+    "93951301",
+    "93951302",
+    "93951303",
+    "93951304",
+    "93951306",
+    "93951307",
+    "93951308",
+    "93951310",
+    "93951311",
+    "93951312",
+    "93951601",
+    "93951602",
+    "93951603",
+    "93951604",
+    "93951605",
+    "93951606"
+  ],
+  "extras": [],
+  "root": "courses",
+  "notes": "31 lessons from the rating disk (courses.xml). Titles are that menu's own words.",
+  "lessons": [
+    {
+      "id": "93951100",
+      "title": "Introduction to CAI",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "10001001",
+      "title": "Intro to PDAs",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951101",
+      "title": "Safety Practices",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951102",
+      "title": "Equipment Familarization",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951103",
+      "title": "Metric Notation",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951104",
+      "title": "Voltage and Current",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951105",
+      "title": "Resistors",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951106",
+      "title": "Switches, Fuses and Breakers",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951108",
+      "title": "Introduction to Technical Graphics",
+      "group": "DC Circuits",
+      "module": "Mod 02 Introduction to Electricity"
+    },
+    {
+      "id": "93951201",
+      "title": "Magnetism, Relays & Meters",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951202",
+      "title": "Intro to Multimeters",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951203",
+      "title": "Multimeter Use",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951204",
+      "title": "Voltage Measurements",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951205",
+      "title": "Current Measurements",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951206",
+      "title": "Resistance Measurements",
+      "group": "DC Circuits",
+      "module": "Mod 03 Multimeter Measurements"
+    },
+    {
+      "id": "93951301",
+      "title": "Ohm's Law",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951302",
+      "title": "Series Circuits",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951303",
+      "title": "Series TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951304",
+      "title": "Series TS Experiment",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951306",
+      "title": "Parallel Circuits",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951307",
+      "title": "Parallel TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951308",
+      "title": "Parallel TS Experiment",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951310",
+      "title": "Series-Parallel Circuits",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951311",
+      "title": "Series-Parallel TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951312",
+      "title": "Series-Parallel TS Exp",
+      "group": "DC Circuits",
+      "module": "Mod 04 Basic DC Circuits"
+    },
+    {
+      "id": "93951601",
+      "title": "PC Component Insertion/Extraction Tech.",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951602",
+      "title": "Basic Soldering Techniques",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951603",
+      "title": "Basic Connector Termination Techniques",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951604",
+      "title": "Basic Wire Wrapping Techniques",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951605",
+      "title": "Basic Wiring and Connector TS Theory",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    },
+    {
+      "id": "93951606",
+      "title": "Wire Troubleshooting",
+      "group": "DC Circuits",
+      "module": "Mod 05 Wiring"
+    }
+  ]
+}

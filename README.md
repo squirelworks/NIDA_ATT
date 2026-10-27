@@ -14,8 +14,12 @@ Not affiliated with NIDA, Asymetrix, Click2learn, or SumTotal.
 | `nc81test.fsk` | Quiz functions, including `initializeTest`. |
 | `nc81trnr.fsk` | Trainer functions, including `initializeTrnr`. |
 | `nc81bank.fsk` | Question-bank functions, including `initializeBank`. The export may name this `NC81BANK.fsk`. |
-| `_curriculum/nida.curriculum.json` | The official list. 527 lessons. Anything else in `courses/` is extra. |
-| `_curriculum/nida.programs.xml` | The menu. Titles and the grouping into programs. |
+| `_curriculum/nida.curriculum.json` | All 527 lessons on the nine programs, with each title. Not a rating. |
+| `_curriculum/nida.programs.xml` | Those nine programs: Mathematics through Microcontrollers. |
+| `_curriculum/courses.xml` | The rating disk. ATT Master and the twenty ratings, with the disk's titles. |
+| `_curriculum/ratings/` | One curriculum per rating. `em` is Electrician's Mate, `et` is Electronics Technician, and so on. `att-master` is the 406. |
+| `_curriculum/programs/` | One curriculum per program. |
+| `_curriculum/titles.json` | Every id both menus name. 611 lessons, plus `10001001` and `9E954D03`. |
 | `courses/` | The lesson `.fbk` files, flat. `__PUT_COURSES_HERE__` marks the folder. |
 
 The original `.tbk`, `.sbk`, and `.dll` files are not part of the course.
@@ -38,7 +42,7 @@ Do not leave `nida81.fbk` inside `courses/`. The loop keeps the shell and the fi
 
 ## Open it
 
-Foolcourse from a source checkout does not load this list on its own. Point it here:
+Foolcourse from a source checkout does not load this list on its own. The nine programs:
 
 ```bash
 cd ~/FU/Foolcourse
@@ -46,4 +50,12 @@ cd ~/FU/Foolcourse
   --curriculum ~/FU/NIDA_ATT/_curriculum/nida.curriculum.json
 ```
 
-The menu is read because that curriculum is named `nida.`. A Foolcourse release is still the empty program. Dropping books into its own `courses/` is for some other deployment, not this one.
+One rating, which is how the disk split them. The menu has to be named because the file is not called `nida.`:
+
+```bash
+.venv/bin/python -m foolcourse ~/FU/NIDA_ATT/courses \
+  --curriculum ~/FU/NIDA_ATT/_curriculum/ratings/em.curriculum.json \
+  --xml ~/FU/NIDA_ATT/_curriculum/courses.xml
+```
+
+`_curriculum/index.json` lists the rating and program files. The lessons on the rating you named count toward the overall. The other ratings still show, because `courses.xml` lists all of them, and they do not count. A Foolcourse release is still the empty program.
