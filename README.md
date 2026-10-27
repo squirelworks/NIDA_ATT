@@ -76,7 +76,7 @@ Two downloads. The books are their own zip. The program that opens them is a sma
 
 Foolcourse stays the general program. The program zip is that program with nothing else to install. Windows starts with `NIDA_ATT.exe`. Linux starts with `NIDA_ATT`. Mac starts with `NIDA_ATT.app`. None of those is a script. The books are not inside that zip.
 
-A Foolcourse checkout has to be next to this one, or `FOOLCOURSE` has to name it. Building a system downloads Python the first time. Later builds can reuse the folder.
+A Foolcourse checkout has to be next to this one, or `FOOLCOURSE` has to name it. The program build also needs Foolbook and openscript_analysis next to that checkout. If either is missing, this build clones it. Building a system downloads Python the first time. Later builds can reuse the folder.
 
 ```bash
 cd ~/FU/NIDA_ATT

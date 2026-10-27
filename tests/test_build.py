@@ -89,6 +89,20 @@ class BuildTests(unittest.TestCase):
             self.assertIn(f"PY={program / 'app'}", started)
             self.assertIn("ARGS=-m foolcourse", started)
 
+    def test_an_existing_checkout_is_not_replaced(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            foolcourse = root / "Foolcourse"
+            (foolcourse / "pack").mkdir(parents=True)
+            for name in build.CHECKOUTS:
+                dest = root / name
+                dest.mkdir()
+                (dest / "pyproject.toml").write_text("[project]\n", encoding="utf-8")
+                (dest / "marker").write_text("keep\n", encoding="utf-8")
+            build.ensure_checkouts(foolcourse)
+            for name in build.CHECKOUTS:
+                self.assertEqual((root / name / "marker").read_text(encoding="utf-8"), "keep\n")
+
 
 if __name__ == "__main__":
     unittest.main()

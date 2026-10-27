@@ -27,6 +27,18 @@ LAUNCHER_SRC = ROOT / "pack" / "launcher"
 
 SYSTEMS = ("windows-x64", "linux-x64", "linux-arm64", "macos-arm64", "macos-x64")
 
+# What the Foolcourse pack copies in. Same commits Foolcourse and Foolbook pin.
+CHECKOUTS = {
+    "Foolbook": (
+        "https://github.com/squirelworks/Foolbook.git",
+        "133901702e59be1543e81f04a27bbf8a9ed0fb4f",
+    ),
+    "openscript_analysis": (
+        "https://github.com/squirelworks/openscript_analysis.git",
+        "d741054cf2536bbf9d031bf183f6aedd949ebb8c",
+    ),
+}
+
 SHELL = (
     "nida81.fbk",
     "nc81base.fsk",
@@ -106,7 +118,25 @@ def split_program_name(folder: Path) -> tuple[str, str]:
     )
 
 
+def ensure_checkouts(foolcourse: Path) -> None:
+    """The Foolcourse pack copies these from the folder next to itself.
+
+    An existing checkout is left alone. A missing one is cloned at the pin.
+    """
+    parent = foolcourse.parent
+    for name, (url, pin) in CHECKOUTS.items():
+        dest = parent / name
+        if dest.is_dir() and (dest / "pyproject.toml").is_file():
+            continue
+        if dest.exists():
+            raise SystemExit(f"{dest} is in the way and is not a checkout")
+        print(f"cloning {name}", flush=True)
+        subprocess.check_call(["git", "clone", url, str(dest)])
+        subprocess.check_call(["git", "-C", str(dest), "checkout", "--detach", pin])
+
+
 def build_program(foolcourse: Path, key: str) -> Path:
+    ensure_checkouts(foolcourse)
     subprocess.check_call([sys.executable, str(foolcourse / "pack" / "build.py"), key], cwd=foolcourse)
     version = foolcourse_version(foolcourse)
     folder = foolcourse / "dist" / f"Foolcourse-{version}-{key}"
