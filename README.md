@@ -13,6 +13,8 @@ Not affiliated with NIDA, Asymetrix, Click2learn, or SumTotal.
 | `nc81recs.fsk` | Session and student functions, including `openSession`. |
 | `nc81test.fsk` | Quiz functions, including `initializeTest`. |
 | `nc81trnr.fsk` | Trainer functions, including `initializeTrnr`. |
+| `dlls/nc81rec.py` | Stand-in for `nc81rec.dll`. Sessions and scores stay in the reader. The original DLL is not here. |
+| `dlls/nc81int.py` | Stand-in for `nc81int.dll`. Every call returns 0, which is not the trainer's success code 61, so the lesson takes its no-trainer path. |
 | `nc81bank.fsk` | Question-bank functions, including `initializeBank`. The export may name this `NC81BANK.fsk`. |
 | `_curriculum/nida.curriculum.json` | The master list. The 611 lessons that have a book in `courses/`. |
 | `_curriculum/master.xml` | Those 611 books on the seven ATT subjects. Module numbers match the full map, including Mod 02.5 and the rest. |
